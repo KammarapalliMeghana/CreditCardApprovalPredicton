@@ -4,18 +4,16 @@ import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score, classification_report
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
+from xgboost import XGBClassifier
 
 # Load dataset
 df = pd.read_csv("dataset/credit_card.csv")
 
-print("First 5 rows:")
-print(df.head())
-
-print("\nData Types:")
-print(df.dtypes)
-
-# Remove duplicate rows
+# Remove duplicates
 df.drop_duplicates(inplace=True)
 
 # Handle missing values
@@ -36,18 +34,9 @@ categorical_cols = [
     'Housing_Type'
 ]
 
-encoders = {}
-
 for col in categorical_cols:
     le = LabelEncoder()
     df[col] = le.fit_transform(df[col].astype(str))
-    encoders[col] = le
-
-print("\nAfter Encoding:")
-print(df.head())
-
-print("\nData Types After Encoding:")
-print(df.dtypes)
 
 # Features and target
 X = df.drop("Approved", axis=1)
@@ -62,27 +51,52 @@ X_train, X_test, y_train, y_test = train_test_split(
     stratify=y
 )
 
-# Create model
-model = RandomForestClassifier(
-    n_estimators=300,
-    random_state=42
-)
+# Models
+models = {
+    "Logistic Regression":
+        LogisticRegression(max_iter=1000),
 
-# Train model
-model.fit(X_train, y_train)
+    "Decision Tree":
+        DecisionTreeClassifier(random_state=42),
 
-# Prediction
-pred = model.predict(X_test)
+    "Random Forest":
+        RandomForestClassifier(
+            n_estimators=300,
+            random_state=42
+        ),
 
-# Accuracy
-acc = accuracy_score(y_test, pred)
+    "XGBoost":
+        XGBClassifier(
+            eval_metric='logloss',
+            random_state=42
+        )
+}
 
-print("\nAccuracy:", round(acc * 100, 2), "%")
+best_model = None
+best_accuracy = 0
+best_model_name = ""
 
-print("\nClassification Report:")
-print(classification_report(y_test, pred))
+for name, model in models.items():
 
-# Save model
-joblib.dump(model, "credit_card_model.pkl")
+    model.fit(X_train, y_train)
 
-print("\nModel saved successfully!")
+    pred = model.predict(X_test)
+
+    acc = accuracy_score(y_test, pred)
+
+    print("\n" + "="*50)
+    print(name)
+    print("Accuracy:", round(acc * 100, 2), "%")
+    print(classification_report(y_test, pred))
+
+    if acc > best_accuracy:
+        best_accuracy = acc
+        best_model = model
+        best_model_name = name
+
+# Save best model
+joblib.dump(best_model, "credit_card_model.pkl")
+
+print("\nBest Model:", best_model_name)
+print("Best Accuracy:", round(best_accuracy * 100, 2), "%")
+print("Model saved successfully!")
