@@ -1,1001 +1,2001 @@
-Gender,Income_Type,Annual_Income,Employment_Years,Education,Approved
-Female,Pensioner,561936,4,Post Graduate,1
-Female,Working,101741,9,Graduate,0
-Female,Pensioner,740556,3,Graduate,1
-Male,Pensioner,971371,2,Graduate,1
-Male,Pensioner,831410,5,Graduate,1
-Male,Pensioner,659958,6,Secondary,1
-Male,Pensioner,380175,19,Graduate,1
-Male,Commercial Associate,343293,28,Secondary,1
-Female,Working,141998,26,Post Graduate,0
-Female,Pensioner,779134,1,Post Graduate,1
-Male,Pensioner,844197,19,Post Graduate,1
-Male,Pensioner,380861,12,Post Graduate,1
-Male,Commercial Associate,481243,17,Post Graduate,1
-Male,Working,127201,23,Graduate,0
-Male,Working,493695,22,Secondary,1
-Female,Working,101138,17,Post Graduate,0
-Female,Pensioner,887575,30,Graduate,1
-Male,Working,631868,29,Secondary,1
-Male,Commercial Associate,902907,3,Graduate,1
-Male,Commercial Associate,912661,7,Post Graduate,1
-Female,Pensioner,866073,19,Post Graduate,1
-Male,Pensioner,749682,12,Secondary,1
-Female,Working,94827,18,Post Graduate,0
-Female,Working,931886,26,Graduate,1
-Female,Working,386504,16,Graduate,1
-Female,Pensioner,824033,27,Post Graduate,1
-Male,Working,150193,2,Post Graduate,0
-Male,Working,324249,3,Secondary,1
-Male,Commercial Associate,123409,22,Graduate,0
-Female,Pensioner,463759,16,Post Graduate,1
-Female,Commercial Associate,430229,4,Post Graduate,1
-Male,Pensioner,522927,18,Post Graduate,1
-Female,Pensioner,234057,8,Post Graduate,1
-Male,Working,495250,12,Secondary,1
-Female,Working,868940,8,Secondary,1
-Male,Pensioner,530704,19,Post Graduate,1
-Female,Pensioner,854648,1,Graduate,0
-Female,Pensioner,165700,5,Post Graduate,0
-Male,Commercial Associate,743009,26,Post Graduate,1
-Female,Commercial Associate,643027,11,Graduate,1
-Female,Pensioner,802146,27,Graduate,1
-Female,Commercial Associate,191190,18,Graduate,0
-Male,Pensioner,515465,26,Secondary,1
-Female,Commercial Associate,477545,24,Secondary,1
-Male,Commercial Associate,387508,7,Graduate,1
-Male,Pensioner,354708,9,Post Graduate,1
-Female,Commercial Associate,256414,28,Graduate,1
-Male,Working,251908,24,Post Graduate,1
-Male,Pensioner,682528,10,Graduate,1
-Female,Pensioner,820727,17,Graduate,1
-Female,Pensioner,522398,11,Graduate,1
-Male,Commercial Associate,115609,18,Graduate,0
-Female,Pensioner,550525,9,Secondary,1
-Female,Pensioner,236717,13,Graduate,0
-Female,Commercial Associate,606976,8,Secondary,1
-Male,Working,234471,15,Graduate,0
-Male,Working,883014,6,Secondary,1
-Female,Working,658430,18,Secondary,1
-Female,Working,957351,2,Post Graduate,1
-Female,Pensioner,444562,21,Graduate,1
-Male,Working,377047,28,Post Graduate,1
-Female,Pensioner,215594,11,Secondary,0
-Female,Pensioner,912348,24,Secondary,1
-Female,Pensioner,369702,23,Graduate,1
-Male,Pensioner,358117,15,Graduate,1
-Male,Working,90403,14,Secondary,0
-Female,Pensioner,640440,4,Secondary,1
-Female,Commercial Associate,350738,9,Graduate,1
-Male,Working,285662,21,Graduate,1
-Male,Commercial Associate,105485,16,Graduate,0
-Female,Pensioner,860336,20,Secondary,1
-Male,Pensioner,295044,12,Secondary,1
-Female,Commercial Associate,854545,24,Post Graduate,1
-Female,Pensioner,350772,30,Post Graduate,1
-Male,Working,523675,6,Graduate,1
-Female,Working,788467,0,Secondary,0
-Female,Commercial Associate,186692,22,Graduate,0
-Female,Working,97628,9,Post Graduate,0
-Female,Working,153066,19,Post Graduate,0
-Female,Pensioner,539883,13,Secondary,1
-Male,Pensioner,93815,1,Secondary,0
-Male,Pensioner,866618,13,Graduate,1
-Female,Working,715495,24,Post Graduate,1
-Male,Commercial Associate,116625,10,Post Graduate,0
-Male,Working,698498,16,Graduate,1
-Male,Commercial Associate,168051,16,Secondary,0
-Female,Pensioner,120744,8,Graduate,0
-Male,Working,887266,21,Secondary,1
-Female,Pensioner,484678,22,Secondary,1
-Female,Commercial Associate,488617,22,Post Graduate,1
-Female,Commercial Associate,461883,7,Graduate,1
-Male,Pensioner,105226,21,Post Graduate,0
-Female,Pensioner,578773,14,Graduate,1
-Male,Commercial Associate,258794,18,Graduate,1
-Female,Pensioner,660424,23,Secondary,1
-Male,Working,221346,3,Post Graduate,1
-Male,Pensioner,579625,26,Post Graduate,1
-Male,Commercial Associate,515232,13,Graduate,1
-Female,Commercial Associate,448577,7,Secondary,1
-Female,Commercial Associate,812757,24,Graduate,1
-Female,Pensioner,246694,29,Graduate,0
-Female,Working,317139,7,Post Graduate,1
-Female,Pensioner,402789,19,Secondary,1
-Female,Working,984717,18,Secondary,1
-Male,Commercial Associate,871827,9,Graduate,1
-Female,Pensioner,974988,14,Post Graduate,1
-Female,Commercial Associate,245365,1,Post Graduate,1
-Female,Commercial Associate,322706,18,Post Graduate,1
-Male,Commercial Associate,80365,14,Secondary,0
-Female,Pensioner,327933,24,Secondary,1
-Male,Working,226043,8,Post Graduate,1
-Female,Commercial Associate,817439,4,Secondary,1
-Female,Commercial Associate,363095,1,Post Graduate,1
-Female,Pensioner,350640,24,Secondary,1
-Male,Pensioner,422013,24,Graduate,1
-Female,Working,865838,30,Post Graduate,1
-Male,Commercial Associate,199937,21,Post Graduate,0
-Male,Working,944997,15,Graduate,1
-Male,Pensioner,553031,9,Graduate,1
-Male,Commercial Associate,470790,9,Post Graduate,1
-Male,Working,120266,1,Secondary,0
-Male,Commercial Associate,486518,24,Post Graduate,1
-Female,Commercial Associate,331456,24,Post Graduate,1
-Female,Commercial Associate,392483,0,Post Graduate,1
-Female,Working,850512,22,Secondary,1
-Male,Working,937738,4,Post Graduate,1
-Female,Working,314784,23,Graduate,1
-Male,Pensioner,935745,15,Graduate,1
-Male,Working,722248,24,Post Graduate,1
-Male,Pensioner,512703,20,Post Graduate,1
-Male,Pensioner,364321,21,Graduate,1
-Female,Working,449102,18,Secondary,1
-Male,Pensioner,449383,2,Graduate,1
-Male,Pensioner,494633,17,Post Graduate,1
-Male,Pensioner,120179,15,Graduate,0
-Female,Pensioner,901176,20,Graduate,1
-Male,Working,120593,7,Secondary,0
-Female,Working,886848,18,Secondary,1
-Male,Commercial Associate,240287,3,Post Graduate,1
-Male,Pensioner,522692,20,Secondary,1
-Male,Pensioner,215190,21,Secondary,0
-Male,Commercial Associate,150734,7,Graduate,0
-Female,Pensioner,738863,17,Graduate,1
-Male,Working,919107,3,Secondary,1
-Male,Pensioner,258865,1,Post Graduate,1
-Female,Working,913691,1,Secondary,0
-Male,Pensioner,535860,21,Secondary,1
-Male,Commercial Associate,465346,25,Secondary,1
-Female,Pensioner,306919,21,Secondary,1
-Female,Working,439557,22,Secondary,1
-Male,Working,695177,20,Graduate,1
-Female,Working,536196,3,Secondary,1
-Male,Pensioner,739289,28,Secondary,1
-Male,Pensioner,781992,25,Post Graduate,1
-Female,Pensioner,263757,6,Secondary,1
-Male,Working,638569,25,Secondary,1
-Male,Pensioner,985983,16,Secondary,1
-Female,Working,812362,7,Secondary,1
-Female,Pensioner,482785,12,Secondary,1
-Female,Commercial Associate,610331,22,Graduate,1
-Female,Working,440780,15,Graduate,1
-Female,Pensioner,204644,8,Secondary,0
-Female,Pensioner,931262,17,Post Graduate,1
-Male,Commercial Associate,257542,14,Graduate,1
-Male,Working,789858,2,Post Graduate,1
-Male,Pensioner,869475,28,Post Graduate,1
-Female,Pensioner,991109,22,Secondary,1
-Female,Pensioner,483375,28,Graduate,1
-Male,Working,932494,20,Graduate,1
-Male,Working,596190,8,Graduate,1
-Female,Commercial Associate,345226,21,Post Graduate,1
-Female,Pensioner,702032,18,Secondary,1
-Male,Working,532366,16,Secondary,1
-Female,Commercial Associate,394490,1,Secondary,0
-Male,Working,948698,25,Secondary,1
-Female,Pensioner,703671,14,Post Graduate,1
-Male,Pensioner,563884,22,Graduate,1
-Male,Commercial Associate,789170,27,Post Graduate,1
-Female,Working,461353,3,Post Graduate,1
-Male,Pensioner,402324,28,Post Graduate,1
-Female,Working,795490,20,Graduate,1
-Male,Pensioner,349754,7,Post Graduate,1
-Female,Commercial Associate,492735,17,Graduate,1
-Female,Working,915143,22,Graduate,1
-Female,Pensioner,423363,13,Secondary,1
-Female,Pensioner,934498,15,Secondary,1
-Male,Pensioner,765448,30,Secondary,1
-Female,Commercial Associate,719176,25,Post Graduate,1
-Male,Commercial Associate,617679,20,Graduate,1
-Female,Commercial Associate,950779,19,Secondary,1
-Male,Pensioner,813471,29,Secondary,1
-Male,Commercial Associate,696168,14,Graduate,1
-Male,Commercial Associate,210451,5,Graduate,0
-Male,Working,850209,1,Graduate,0
-Female,Working,610327,20,Secondary,1
-Female,Commercial Associate,265568,6,Graduate,1
-Female,Commercial Associate,605171,30,Graduate,1
-Female,Pensioner,90216,4,Post Graduate,0
-Male,Pensioner,441110,18,Graduate,1
-Female,Working,526627,28,Graduate,1
-Male,Pensioner,235649,8,Graduate,0
-Male,Pensioner,244539,29,Post Graduate,1
-Female,Pensioner,280227,22,Secondary,1
-Female,Working,748011,20,Graduate,1
-Male,Working,723491,28,Post Graduate,1
-Male,Pensioner,253522,26,Secondary,1
-Male,Working,208397,22,Post Graduate,1
-Female,Pensioner,559293,9,Secondary,1
-Female,Commercial Associate,733681,27,Graduate,1
-Female,Working,191011,24,Secondary,0
-Female,Commercial Associate,379231,7,Post Graduate,1
-Female,Pensioner,310367,20,Post Graduate,1
-Female,Commercial Associate,155070,15,Post Graduate,0
-Female,Working,849225,26,Post Graduate,1
-Female,Working,871231,8,Secondary,1
-Male,Commercial Associate,878699,26,Secondary,1
-Female,Working,858082,6,Post Graduate,1
-Male,Pensioner,186833,24,Post Graduate,0
-Male,Commercial Associate,633259,13,Post Graduate,1
-Male,Pensioner,173248,11,Post Graduate,0
-Male,Commercial Associate,511131,5,Graduate,1
-Female,Working,944883,13,Graduate,1
-Female,Working,892395,1,Secondary,0
-Male,Commercial Associate,122871,8,Post Graduate,0
-Female,Working,600086,30,Post Graduate,1
-Male,Commercial Associate,747045,18,Secondary,1
-Female,Commercial Associate,292839,11,Graduate,1
-Female,Working,630916,12,Post Graduate,1
-Female,Pensioner,569966,16,Secondary,1
-Female,Commercial Associate,112269,22,Graduate,0
-Male,Pensioner,292818,13,Graduate,1
-Female,Commercial Associate,252273,26,Post Graduate,1
-Male,Working,848868,4,Graduate,1
-Female,Pensioner,313150,24,Post Graduate,1
-Female,Working,412471,4,Graduate,1
-Male,Working,344725,10,Post Graduate,1
-Female,Commercial Associate,490432,24,Graduate,1
-Female,Pensioner,204845,29,Post Graduate,1
-Male,Working,562488,15,Secondary,1
-Female,Pensioner,851955,20,Graduate,1
-Female,Working,839010,0,Graduate,0
-Male,Pensioner,587429,21,Secondary,1
-Male,Working,408377,23,Graduate,1
-Male,Pensioner,423686,20,Secondary,1
-Male,Pensioner,939370,1,Graduate,0
-Male,Working,794432,29,Graduate,1
-Female,Commercial Associate,561109,6,Secondary,1
-Male,Commercial Associate,407955,6,Post Graduate,1
-Male,Pensioner,98331,14,Post Graduate,0
-Female,Commercial Associate,844717,27,Post Graduate,1
-Female,Commercial Associate,295335,29,Graduate,1
-Female,Working,966275,19,Post Graduate,1
-Male,Working,134342,11,Secondary,0
-Female,Pensioner,375698,18,Post Graduate,1
-Female,Working,283802,0,Secondary,0
-Male,Commercial Associate,380024,5,Graduate,1
-Male,Pensioner,566827,29,Secondary,1
-Female,Commercial Associate,999870,25,Post Graduate,1
-Female,Commercial Associate,783677,30,Graduate,1
-Male,Working,149178,0,Graduate,0
-Female,Commercial Associate,967522,13,Post Graduate,1
-Male,Commercial Associate,171547,1,Secondary,0
-Male,Working,274148,1,Graduate,0
-Female,Working,258106,16,Graduate,1
-Male,Working,700547,14,Post Graduate,1
-Male,Commercial Associate,588637,16,Secondary,1
-Female,Commercial Associate,842231,2,Secondary,1
-Male,Working,146416,12,Post Graduate,0
-Female,Working,241536,26,Graduate,0
-Female,Commercial Associate,197759,12,Graduate,0
-Male,Working,727228,16,Post Graduate,1
-Female,Working,508903,9,Secondary,1
-Male,Commercial Associate,388964,27,Post Graduate,1
-Female,Working,940421,18,Post Graduate,1
-Female,Pensioner,421624,13,Post Graduate,1
-Female,Pensioner,615514,13,Post Graduate,1
-Male,Pensioner,618566,7,Graduate,1
-Male,Working,142111,29,Post Graduate,0
-Male,Commercial Associate,683174,3,Graduate,1
-Male,Pensioner,669496,29,Post Graduate,1
-Male,Commercial Associate,720275,28,Graduate,1
-Male,Working,80344,14,Graduate,0
-Male,Working,129465,24,Post Graduate,0
-Female,Working,105030,1,Secondary,0
-Female,Pensioner,980680,6,Secondary,1
-Male,Pensioner,433060,2,Post Graduate,1
-Male,Pensioner,927987,4,Post Graduate,1
-Male,Working,359869,8,Secondary,1
-Male,Working,263767,22,Secondary,1
-Male,Working,366956,21,Secondary,1
-Male,Working,617922,9,Post Graduate,1
-Female,Commercial Associate,300028,26,Secondary,1
-Male,Commercial Associate,223312,9,Secondary,0
-Female,Working,697442,14,Secondary,1
-Male,Commercial Associate,407271,28,Graduate,1
-Male,Commercial Associate,355920,1,Secondary,0
-Female,Pensioner,423318,26,Graduate,1
-Female,Commercial Associate,298292,15,Graduate,1
-Male,Commercial Associate,827581,20,Graduate,1
-Female,Pensioner,428227,7,Graduate,1
-Male,Pensioner,331107,13,Graduate,1
-Female,Pensioner,343577,18,Graduate,1
-Female,Pensioner,100824,24,Graduate,0
-Female,Pensioner,786731,4,Post Graduate,1
-Male,Working,527693,7,Secondary,1
-Male,Pensioner,111101,14,Post Graduate,0
-Male,Commercial Associate,287077,7,Secondary,1
-Male,Pensioner,200330,17,Post Graduate,1
-Female,Commercial Associate,289598,9,Secondary,1
-Female,Working,535506,19,Graduate,1
-Female,Pensioner,369119,22,Post Graduate,1
-Male,Pensioner,603045,13,Graduate,1
-Male,Commercial Associate,869832,18,Secondary,1
-Male,Commercial Associate,131116,0,Graduate,0
-Male,Working,987657,25,Secondary,1
-Male,Commercial Associate,956325,11,Graduate,1
-Female,Commercial Associate,646558,22,Graduate,1
-Male,Working,285240,6,Secondary,1
-Male,Pensioner,675590,12,Graduate,1
-Male,Working,267161,10,Graduate,1
-Male,Pensioner,994460,2,Secondary,1
-Female,Pensioner,998595,23,Post Graduate,1
-Male,Pensioner,705584,1,Secondary,0
-Female,Pensioner,168718,8,Post Graduate,0
-Female,Commercial Associate,582988,29,Graduate,1
-Male,Working,569314,5,Graduate,1
-Male,Working,946671,22,Post Graduate,1
-Male,Pensioner,299042,2,Secondary,1
-Female,Commercial Associate,427097,13,Post Graduate,1
-Female,Pensioner,719924,13,Graduate,1
-Male,Commercial Associate,422537,0,Graduate,0
-Female,Pensioner,921011,24,Post Graduate,1
-Male,Working,884167,21,Secondary,1
-Male,Working,224881,20,Post Graduate,1
-Female,Working,915654,6,Secondary,1
-Female,Pensioner,140926,11,Post Graduate,0
-Female,Working,142508,2,Graduate,0
-Female,Working,178234,25,Secondary,0
-Female,Working,396758,23,Post Graduate,1
-Female,Working,978837,22,Graduate,1
-Female,Commercial Associate,967964,27,Graduate,1
-Female,Working,414789,1,Secondary,0
-Female,Pensioner,694315,7,Secondary,1
-Female,Pensioner,930485,4,Graduate,1
-Female,Working,866492,5,Secondary,1
-Male,Working,272221,7,Post Graduate,1
-Female,Commercial Associate,316075,27,Graduate,1
-Female,Commercial Associate,712598,12,Graduate,1
-Female,Commercial Associate,210802,19,Secondary,0
-Female,Commercial Associate,467622,1,Post Graduate,1
-Male,Commercial Associate,443109,12,Secondary,1
-Female,Working,305699,11,Secondary,1
-Female,Commercial Associate,382205,16,Post Graduate,1
-Male,Working,999986,21,Secondary,1
-Male,Commercial Associate,430128,20,Graduate,1
-Male,Commercial Associate,140834,26,Post Graduate,0
-Male,Pensioner,707391,12,Graduate,1
-Male,Pensioner,343654,12,Secondary,1
-Male,Working,565037,11,Post Graduate,1
-Male,Working,152290,17,Post Graduate,0
-Male,Working,514368,2,Secondary,1
-Male,Working,193982,19,Graduate,0
-Female,Working,321692,5,Secondary,1
-Female,Working,668713,2,Post Graduate,1
-Female,Commercial Associate,299936,18,Graduate,1
-Female,Pensioner,923111,4,Post Graduate,1
-Female,Working,468562,21,Secondary,1
-Female,Working,669578,11,Secondary,1
-Female,Working,867326,13,Post Graduate,1
-Female,Pensioner,654210,20,Post Graduate,1
-Male,Commercial Associate,870616,14,Graduate,1
-Female,Working,997108,5,Secondary,1
-Female,Pensioner,778972,13,Graduate,1
-Male,Commercial Associate,502585,17,Secondary,1
-Male,Pensioner,600140,2,Secondary,1
-Male,Working,979863,14,Secondary,1
-Male,Pensioner,844440,27,Post Graduate,1
-Male,Commercial Associate,492726,18,Post Graduate,1
-Male,Commercial Associate,778085,3,Secondary,1
-Female,Commercial Associate,909197,22,Post Graduate,1
-Female,Working,971742,5,Graduate,1
-Female,Working,368078,19,Secondary,1
-Female,Commercial Associate,161780,30,Graduate,0
-Female,Commercial Associate,993034,1,Secondary,0
-Female,Working,806569,1,Secondary,0
-Male,Working,466002,2,Post Graduate,1
-Male,Commercial Associate,905608,15,Graduate,1
-Female,Working,999012,5,Post Graduate,1
-Male,Pensioner,711441,12,Secondary,1
-Female,Pensioner,558549,28,Secondary,1
-Female,Working,349446,1,Graduate,0
-Female,Pensioner,675904,18,Secondary,1
-Male,Commercial Associate,232506,29,Post Graduate,1
-Female,Commercial Associate,492796,6,Secondary,1
-Male,Pensioner,180620,3,Secondary,0
-Female,Pensioner,265377,1,Graduate,0
-Male,Working,84566,9,Graduate,0
-Female,Working,978470,30,Post Graduate,1
-Male,Commercial Associate,782419,22,Graduate,1
-Female,Commercial Associate,211283,2,Secondary,0
-Male,Commercial Associate,308047,10,Secondary,1
-Female,Pensioner,92883,1,Post Graduate,0
-Male,Working,163880,12,Graduate,0
-Male,Pensioner,412680,17,Post Graduate,1
-Female,Pensioner,968836,1,Post Graduate,1
-Female,Working,145493,26,Graduate,0
-Male,Commercial Associate,770945,27,Graduate,1
-Male,Commercial Associate,928823,20,Graduate,1
-Female,Working,83894,30,Secondary,0
-Female,Working,984982,18,Graduate,1
-Female,Pensioner,777292,15,Graduate,1
-Female,Working,898795,4,Secondary,1
-Male,Commercial Associate,918075,7,Graduate,1
-Female,Pensioner,933609,19,Post Graduate,1
-Male,Pensioner,755227,28,Post Graduate,1
-Female,Working,425659,6,Post Graduate,1
-Female,Pensioner,939667,18,Post Graduate,1
-Male,Commercial Associate,181810,8,Secondary,0
-Male,Commercial Associate,127094,22,Post Graduate,0
-Female,Pensioner,770344,3,Post Graduate,1
-Female,Pensioner,379066,18,Secondary,1
-Female,Commercial Associate,880593,22,Post Graduate,1
-Female,Pensioner,574250,5,Secondary,1
-Male,Commercial Associate,836932,4,Post Graduate,1
-Female,Pensioner,113094,1,Secondary,0
-Male,Pensioner,797848,5,Post Graduate,1
-Male,Pensioner,648740,12,Secondary,1
-Female,Commercial Associate,668710,15,Post Graduate,1
-Male,Working,123931,2,Secondary,0
-Male,Pensioner,829030,11,Graduate,1
-Female,Pensioner,496220,28,Secondary,1
-Female,Commercial Associate,622814,18,Graduate,1
-Female,Commercial Associate,218285,13,Post Graduate,1
-Female,Working,804116,23,Graduate,1
-Male,Commercial Associate,424224,8,Graduate,1
-Male,Working,791318,17,Post Graduate,1
-Female,Commercial Associate,548574,24,Secondary,1
-Female,Commercial Associate,524478,15,Secondary,1
-Male,Pensioner,164001,16,Secondary,0
-Female,Pensioner,967210,14,Secondary,1
-Female,Working,664312,28,Secondary,1
-Male,Pensioner,145300,25,Post Graduate,0
-Male,Commercial Associate,277985,23,Secondary,1
-Male,Pensioner,657736,22,Secondary,1
-Male,Commercial Associate,842341,8,Secondary,1
-Male,Commercial Associate,900608,18,Secondary,1
-Female,Working,862866,1,Graduate,0
-Female,Working,877335,5,Post Graduate,1
-Male,Commercial Associate,511329,9,Graduate,1
-Male,Commercial Associate,459770,0,Post Graduate,1
-Male,Commercial Associate,669587,30,Post Graduate,1
-Female,Commercial Associate,734686,4,Graduate,1
-Female,Pensioner,258745,19,Post Graduate,1
-Female,Working,403774,29,Post Graduate,1
-Female,Pensioner,833549,8,Post Graduate,1
-Female,Commercial Associate,824290,6,Graduate,1
-Female,Working,429679,12,Post Graduate,1
-Female,Working,421224,21,Graduate,1
-Male,Pensioner,322736,7,Graduate,1
-Male,Pensioner,554738,21,Post Graduate,1
-Male,Commercial Associate,976361,0,Secondary,0
-Female,Working,177842,12,Secondary,0
-Male,Commercial Associate,483545,30,Post Graduate,1
-Male,Pensioner,673390,25,Post Graduate,1
-Female,Commercial Associate,782535,20,Graduate,1
-Female,Working,322634,10,Post Graduate,1
-Female,Pensioner,348088,9,Post Graduate,1
-Male,Working,337272,25,Post Graduate,1
-Male,Pensioner,432787,28,Secondary,1
-Female,Pensioner,407786,0,Post Graduate,1
-Male,Commercial Associate,213117,21,Post Graduate,1
-Female,Working,313572,28,Post Graduate,1
-Male,Commercial Associate,361949,17,Post Graduate,1
-Male,Pensioner,479037,25,Post Graduate,1
-Female,Pensioner,877884,3,Post Graduate,1
-Male,Commercial Associate,957081,12,Secondary,1
-Male,Commercial Associate,422711,3,Secondary,1
-Female,Pensioner,679473,0,Secondary,0
-Male,Pensioner,276474,0,Secondary,0
-Male,Pensioner,962285,10,Post Graduate,1
-Male,Working,310077,3,Secondary,1
-Male,Working,798770,20,Graduate,1
-Female,Commercial Associate,223504,4,Secondary,0
-Male,Commercial Associate,808346,18,Graduate,1
-Male,Pensioner,561206,11,Secondary,1
-Male,Pensioner,471523,12,Secondary,1
-Male,Pensioner,972092,3,Graduate,1
-Male,Commercial Associate,939400,2,Secondary,1
-Male,Pensioner,244906,17,Graduate,0
-Male,Commercial Associate,747436,23,Graduate,1
-Female,Commercial Associate,776146,29,Graduate,1
-Female,Pensioner,418406,25,Graduate,1
-Male,Working,518369,21,Post Graduate,1
-Male,Commercial Associate,890961,2,Post Graduate,1
-Male,Working,947803,6,Secondary,1
-Male,Pensioner,533280,6,Secondary,1
-Male,Commercial Associate,668481,26,Post Graduate,1
-Female,Commercial Associate,977013,25,Post Graduate,1
-Female,Commercial Associate,764579,15,Post Graduate,1
-Female,Commercial Associate,929150,25,Graduate,1
-Male,Pensioner,614678,0,Graduate,0
-Female,Working,230470,28,Post Graduate,1
-Male,Pensioner,177703,23,Graduate,0
-Female,Working,292394,23,Secondary,1
-Female,Working,745960,0,Post Graduate,1
-Male,Pensioner,783058,17,Graduate,1
-Male,Working,363055,18,Graduate,1
-Female,Working,287530,15,Graduate,1
-Female,Commercial Associate,841674,20,Post Graduate,1
-Male,Pensioner,915104,0,Secondary,0
-Male,Pensioner,792618,21,Graduate,1
-Female,Pensioner,218045,12,Secondary,0
-Female,Working,974560,18,Secondary,1
-Male,Working,839573,2,Graduate,1
-Male,Pensioner,612843,7,Secondary,1
-Male,Working,709773,19,Secondary,1
-Female,Commercial Associate,656331,2,Graduate,1
-Female,Commercial Associate,590720,22,Post Graduate,1
-Female,Working,601652,13,Graduate,1
-Male,Working,130462,8,Secondary,0
-Female,Working,605587,0,Post Graduate,1
-Female,Working,929882,15,Secondary,1
-Female,Working,260624,7,Graduate,1
-Female,Pensioner,848284,16,Post Graduate,1
-Female,Pensioner,970682,28,Post Graduate,1
-Female,Pensioner,912987,25,Graduate,1
-Male,Pensioner,883200,1,Secondary,0
-Male,Pensioner,280093,12,Graduate,1
-Female,Working,497599,2,Post Graduate,1
-Male,Pensioner,773026,28,Secondary,1
-Female,Working,951326,21,Post Graduate,1
-Male,Working,481849,12,Secondary,1
-Female,Commercial Associate,579554,12,Secondary,1
-Female,Pensioner,285683,12,Graduate,1
-Male,Commercial Associate,186073,6,Secondary,0
-Male,Working,609801,11,Graduate,1
-Male,Commercial Associate,982111,6,Post Graduate,1
-Male,Commercial Associate,735779,29,Secondary,1
-Male,Commercial Associate,690969,30,Secondary,1
-Male,Commercial Associate,139501,15,Secondary,0
-Female,Pensioner,940275,26,Post Graduate,1
-Male,Commercial Associate,531874,3,Graduate,1
-Male,Commercial Associate,112062,29,Graduate,0
-Male,Pensioner,197062,28,Graduate,0
-Female,Commercial Associate,746767,10,Post Graduate,1
-Female,Commercial Associate,691553,24,Secondary,1
-Male,Working,952453,0,Post Graduate,1
-Male,Commercial Associate,199787,7,Secondary,0
-Female,Pensioner,515403,17,Post Graduate,1
-Female,Working,767437,7,Graduate,1
-Male,Pensioner,529586,19,Graduate,1
-Male,Commercial Associate,524866,17,Secondary,1
-Male,Pensioner,350063,26,Secondary,1
-Female,Pensioner,661038,18,Graduate,1
-Male,Pensioner,836057,7,Graduate,1
-Male,Pensioner,164611,11,Secondary,0
-Female,Working,674774,19,Graduate,1
-Male,Pensioner,988506,3,Secondary,1
-Female,Working,725574,14,Secondary,1
-Female,Pensioner,628878,29,Secondary,1
-Male,Pensioner,164890,6,Graduate,0
-Female,Commercial Associate,601620,28,Secondary,1
-Female,Commercial Associate,693458,24,Secondary,1
-Female,Commercial Associate,821877,20,Post Graduate,1
-Male,Commercial Associate,326489,7,Graduate,1
-Male,Pensioner,927188,1,Post Graduate,1
-Female,Working,301712,23,Secondary,1
-Female,Commercial Associate,898918,23,Graduate,1
-Female,Pensioner,144923,14,Post Graduate,0
-Female,Working,442773,3,Graduate,1
-Female,Working,632082,7,Graduate,1
-Male,Working,532516,24,Post Graduate,1
-Male,Pensioner,456885,10,Graduate,1
-Male,Commercial Associate,254787,15,Graduate,1
-Male,Pensioner,291245,4,Graduate,1
-Male,Pensioner,951568,13,Secondary,1
-Female,Pensioner,839453,14,Post Graduate,1
-Female,Pensioner,686174,23,Graduate,1
-Male,Commercial Associate,631425,0,Secondary,0
-Female,Commercial Associate,653449,21,Post Graduate,1
-Female,Pensioner,560388,10,Graduate,1
-Male,Commercial Associate,708629,13,Graduate,1
-Female,Working,703856,21,Secondary,1
-Female,Working,544492,14,Post Graduate,1
-Female,Pensioner,947660,29,Post Graduate,1
-Male,Working,766521,26,Post Graduate,1
-Male,Working,104985,17,Secondary,0
-Male,Commercial Associate,744672,15,Graduate,1
-Male,Commercial Associate,537079,25,Secondary,1
-Male,Commercial Associate,294898,26,Secondary,1
-Female,Commercial Associate,257324,14,Graduate,1
-Male,Commercial Associate,109587,3,Graduate,0
-Female,Working,274449,9,Secondary,1
-Male,Commercial Associate,747711,26,Secondary,1
-Female,Commercial Associate,316035,28,Post Graduate,1
-Female,Commercial Associate,550661,13,Post Graduate,1
-Female,Pensioner,689291,17,Graduate,1
-Male,Commercial Associate,638545,8,Post Graduate,1
-Female,Pensioner,188249,9,Post Graduate,0
-Male,Commercial Associate,645742,10,Secondary,1
-Female,Pensioner,399354,21,Post Graduate,1
-Female,Pensioner,136761,19,Secondary,0
-Female,Pensioner,560308,5,Graduate,1
-Female,Commercial Associate,632801,16,Post Graduate,1
-Male,Commercial Associate,787639,22,Graduate,1
-Female,Working,190295,16,Graduate,0
-Female,Working,368691,4,Post Graduate,1
-Male,Working,417704,16,Secondary,1
-Female,Working,173449,14,Secondary,0
-Female,Pensioner,554716,4,Graduate,1
-Male,Pensioner,511297,29,Post Graduate,1
-Female,Working,942063,12,Secondary,1
-Male,Pensioner,224777,1,Post Graduate,1
-Female,Commercial Associate,742962,2,Post Graduate,1
-Female,Commercial Associate,902467,25,Post Graduate,1
-Male,Working,184918,20,Post Graduate,0
-Male,Pensioner,965979,10,Secondary,1
-Female,Working,683604,16,Post Graduate,1
-Female,Commercial Associate,146602,6,Post Graduate,0
-Male,Pensioner,709519,3,Post Graduate,1
-Male,Commercial Associate,472219,1,Secondary,0
-Female,Commercial Associate,469013,0,Graduate,0
-Female,Commercial Associate,136648,14,Post Graduate,0
-Male,Pensioner,711725,18,Post Graduate,1
-Male,Working,112094,20,Post Graduate,0
-Male,Pensioner,208669,19,Graduate,0
-Female,Pensioner,700646,27,Graduate,1
-Female,Commercial Associate,947911,11,Secondary,1
-Female,Working,240446,22,Secondary,0
-Female,Working,500164,26,Secondary,1
-Male,Pensioner,893776,17,Graduate,1
-Male,Pensioner,967179,19,Graduate,1
-Female,Commercial Associate,258108,6,Graduate,1
-Male,Working,426254,0,Secondary,0
-Female,Pensioner,522277,14,Graduate,1
-Female,Commercial Associate,902035,22,Graduate,1
-Male,Pensioner,939959,1,Graduate,0
-Female,Working,281640,17,Secondary,1
-Female,Commercial Associate,770164,21,Post Graduate,1
-Female,Commercial Associate,514232,4,Post Graduate,1
-Male,Pensioner,209210,21,Post Graduate,1
-Male,Pensioner,705685,15,Post Graduate,1
-Male,Pensioner,911213,17,Graduate,1
-Female,Pensioner,862304,21,Graduate,1
-Male,Commercial Associate,531660,9,Secondary,1
-Female,Pensioner,233117,3,Post Graduate,1
-Female,Working,695162,7,Graduate,1
-Male,Commercial Associate,701378,25,Graduate,1
-Female,Pensioner,287398,18,Graduate,1
-Male,Working,298293,20,Graduate,1
-Female,Working,417243,4,Graduate,1
-Female,Pensioner,301997,24,Secondary,1
-Male,Commercial Associate,927383,14,Graduate,1
-Female,Working,841435,15,Post Graduate,1
-Female,Working,745454,7,Secondary,1
-Female,Working,313603,9,Graduate,1
-Female,Commercial Associate,634153,26,Graduate,1
-Male,Pensioner,145135,19,Graduate,0
-Female,Working,888821,2,Secondary,1
-Female,Working,267260,1,Post Graduate,1
-Male,Working,192292,24,Post Graduate,0
-Female,Working,217898,28,Post Graduate,1
-Female,Commercial Associate,917069,14,Post Graduate,1
-Female,Commercial Associate,168803,27,Graduate,0
-Male,Pensioner,137898,0,Post Graduate,0
-Female,Commercial Associate,559093,3,Graduate,1
-Male,Pensioner,511444,6,Post Graduate,1
-Female,Pensioner,462539,9,Post Graduate,1
-Male,Working,674275,15,Post Graduate,1
-Female,Commercial Associate,657676,14,Graduate,1
-Male,Commercial Associate,523179,25,Post Graduate,1
-Female,Commercial Associate,978482,14,Post Graduate,1
-Female,Working,129908,20,Post Graduate,0
-Male,Pensioner,601716,5,Post Graduate,1
-Female,Pensioner,168783,27,Graduate,0
-Male,Commercial Associate,591394,28,Secondary,1
-Male,Commercial Associate,432890,1,Post Graduate,1
-Female,Commercial Associate,975933,22,Secondary,1
-Female,Working,254326,14,Graduate,1
-Female,Pensioner,462795,29,Graduate,1
-Female,Pensioner,416565,11,Secondary,1
-Female,Pensioner,195551,20,Graduate,0
-Female,Working,573036,15,Post Graduate,1
-Male,Working,908238,9,Post Graduate,1
-Male,Commercial Associate,277175,16,Secondary,1
-Female,Pensioner,219955,12,Post Graduate,1
-Male,Pensioner,466843,8,Post Graduate,1
-Male,Commercial Associate,253564,21,Graduate,1
-Female,Working,356917,9,Post Graduate,1
-Female,Working,530935,16,Graduate,1
-Male,Commercial Associate,240877,21,Post Graduate,1
-Male,Pensioner,644087,15,Post Graduate,1
-Female,Commercial Associate,186934,16,Graduate,0
-Male,Pensioner,989969,20,Post Graduate,1
-Male,Commercial Associate,975024,24,Secondary,1
-Male,Pensioner,530582,23,Post Graduate,1
-Male,Pensioner,332922,28,Post Graduate,1
-Female,Working,212410,29,Secondary,0
-Male,Pensioner,484223,0,Secondary,0
-Female,Pensioner,235981,12,Graduate,0
-Male,Pensioner,729135,12,Post Graduate,1
-Female,Working,422308,13,Secondary,1
-Female,Working,451976,10,Graduate,1
-Female,Commercial Associate,329485,20,Secondary,1
-Male,Pensioner,936993,13,Graduate,1
-Male,Working,704378,16,Secondary,1
-Female,Commercial Associate,117193,4,Graduate,0
-Male,Working,683873,27,Secondary,1
-Male,Pensioner,808802,8,Secondary,1
-Female,Working,818874,13,Graduate,1
-Female,Working,144942,10,Post Graduate,0
-Female,Working,714400,19,Post Graduate,1
-Male,Pensioner,984228,14,Graduate,1
-Female,Commercial Associate,479601,22,Secondary,1
-Male,Pensioner,166193,27,Post Graduate,0
-Female,Commercial Associate,948767,11,Graduate,1
-Male,Commercial Associate,843596,28,Graduate,1
-Male,Commercial Associate,773584,19,Secondary,1
-Male,Pensioner,232513,6,Graduate,0
-Male,Pensioner,445245,23,Secondary,1
-Female,Commercial Associate,796542,2,Post Graduate,1
-Female,Working,376325,16,Post Graduate,1
-Female,Commercial Associate,321093,17,Post Graduate,1
-Female,Working,808044,1,Graduate,0
-Female,Commercial Associate,591405,26,Post Graduate,1
-Female,Pensioner,571838,23,Graduate,1
-Male,Commercial Associate,951953,18,Secondary,1
-Female,Commercial Associate,778859,21,Post Graduate,1
-Female,Commercial Associate,246851,14,Secondary,0
-Male,Working,998613,4,Graduate,1
-Female,Working,408541,24,Secondary,1
-Male,Pensioner,881476,13,Secondary,1
-Female,Pensioner,350583,10,Secondary,1
-Female,Pensioner,873250,26,Secondary,1
-Female,Pensioner,686581,27,Post Graduate,1
-Female,Commercial Associate,163995,3,Post Graduate,0
-Female,Pensioner,892355,23,Graduate,1
-Female,Commercial Associate,192699,0,Secondary,0
-Female,Working,351583,10,Post Graduate,1
-Male,Working,541358,18,Secondary,1
-Female,Pensioner,84576,18,Graduate,0
-Male,Working,694810,2,Secondary,1
-Female,Working,223259,29,Graduate,0
-Male,Pensioner,506168,9,Post Graduate,1
-Male,Commercial Associate,114628,28,Graduate,0
-Female,Working,814038,26,Post Graduate,1
-Female,Working,839374,23,Graduate,1
-Female,Commercial Associate,451482,11,Graduate,1
-Female,Working,301291,5,Graduate,1
-Male,Commercial Associate,286569,24,Post Graduate,1
-Female,Commercial Associate,131052,16,Post Graduate,0
-Female,Pensioner,993267,15,Graduate,1
-Male,Commercial Associate,861585,6,Graduate,1
-Female,Working,853243,4,Post Graduate,1
-Male,Pensioner,229547,1,Post Graduate,1
-Male,Commercial Associate,468151,1,Post Graduate,1
-Male,Working,660304,15,Secondary,1
-Female,Pensioner,441720,16,Post Graduate,1
-Female,Commercial Associate,401138,1,Post Graduate,1
-Male,Pensioner,239228,7,Graduate,0
-Female,Working,197017,1,Post Graduate,0
-Male,Pensioner,886088,4,Secondary,1
-Male,Pensioner,333512,1,Graduate,0
-Male,Working,461536,10,Graduate,1
-Male,Working,326115,24,Secondary,1
-Male,Working,333683,16,Graduate,1
-Male,Commercial Associate,568244,15,Secondary,1
-Male,Pensioner,653108,18,Secondary,1
-Female,Commercial Associate,700288,9,Post Graduate,1
-Male,Pensioner,263744,6,Post Graduate,1
-Male,Working,503455,20,Secondary,1
-Female,Working,380402,15,Graduate,1
-Male,Working,515492,10,Post Graduate,1
-Female,Working,698174,25,Graduate,1
-Male,Commercial Associate,548403,23,Graduate,1
-Female,Commercial Associate,360137,9,Graduate,1
-Female,Commercial Associate,701294,19,Secondary,1
-Female,Pensioner,622161,17,Post Graduate,1
-Female,Commercial Associate,265772,22,Post Graduate,1
-Female,Pensioner,933472,1,Graduate,0
-Male,Commercial Associate,808417,27,Secondary,1
-Male,Pensioner,320138,22,Post Graduate,1
-Male,Pensioner,330429,0,Graduate,0
-Female,Working,786651,12,Secondary,1
-Male,Commercial Associate,362621,29,Graduate,1
-Male,Working,679964,20,Graduate,1
-Female,Pensioner,666381,15,Post Graduate,1
-Female,Working,848934,22,Post Graduate,1
-Male,Working,792195,19,Post Graduate,1
-Male,Pensioner,385067,25,Graduate,1
-Male,Commercial Associate,608310,23,Secondary,1
-Male,Pensioner,893051,5,Graduate,1
-Male,Commercial Associate,311095,3,Secondary,1
-Female,Pensioner,970635,27,Graduate,1
-Female,Pensioner,709901,5,Secondary,1
-Male,Pensioner,640165,22,Secondary,1
-Male,Working,450999,22,Secondary,1
-Female,Working,811610,23,Secondary,1
-Female,Pensioner,584508,10,Post Graduate,1
-Female,Commercial Associate,558207,19,Graduate,1
-Male,Working,839627,8,Graduate,1
-Female,Commercial Associate,557529,12,Post Graduate,1
-Female,Working,140214,12,Graduate,0
-Male,Commercial Associate,332351,20,Graduate,1
-Male,Pensioner,263050,19,Secondary,1
-Male,Pensioner,414975,4,Post Graduate,1
-Female,Commercial Associate,739301,4,Post Graduate,1
-Female,Working,841179,11,Post Graduate,1
-Male,Working,184256,20,Post Graduate,0
-Female,Working,506259,13,Post Graduate,1
-Male,Pensioner,546423,19,Graduate,1
-Female,Commercial Associate,571617,27,Graduate,1
-Female,Pensioner,105978,18,Graduate,0
-Male,Commercial Associate,541714,2,Secondary,1
-Male,Pensioner,345544,8,Graduate,1
-Female,Pensioner,570993,23,Post Graduate,1
-Female,Pensioner,381673,22,Graduate,1
-Male,Pensioner,372947,1,Secondary,0
-Female,Pensioner,606234,13,Graduate,1
-Male,Commercial Associate,944648,19,Secondary,1
-Male,Pensioner,601095,14,Post Graduate,1
-Male,Working,928910,22,Graduate,1
-Female,Working,394035,13,Graduate,1
-Male,Pensioner,287684,30,Post Graduate,1
-Female,Pensioner,131917,29,Secondary,0
-Female,Commercial Associate,700951,3,Graduate,1
-Female,Working,484205,19,Post Graduate,1
-Female,Working,438127,5,Graduate,1
-Male,Pensioner,258669,7,Secondary,1
-Male,Pensioner,609443,0,Post Graduate,1
-Male,Working,114214,7,Graduate,0
-Female,Pensioner,885051,6,Secondary,1
-Female,Pensioner,508157,28,Secondary,1
-Male,Pensioner,542086,24,Graduate,1
-Male,Pensioner,958610,27,Post Graduate,1
-Male,Working,807734,23,Post Graduate,1
-Female,Working,107696,30,Graduate,0
-Male,Commercial Associate,987637,8,Secondary,1
-Male,Pensioner,119166,10,Graduate,0
-Male,Commercial Associate,920926,5,Secondary,1
-Male,Pensioner,822571,3,Post Graduate,1
-Female,Working,484404,26,Graduate,1
-Male,Working,310984,15,Graduate,1
-Female,Pensioner,157791,18,Graduate,0
-Female,Working,925680,18,Secondary,1
-Male,Pensioner,501105,4,Post Graduate,1
-Male,Working,865947,4,Secondary,1
-Male,Commercial Associate,439897,1,Post Graduate,1
-Male,Commercial Associate,539981,19,Post Graduate,1
-Female,Commercial Associate,989150,21,Secondary,1
-Male,Pensioner,276271,30,Graduate,1
-Female,Pensioner,749366,25,Post Graduate,1
-Female,Pensioner,899981,17,Secondary,1
-Female,Working,318720,2,Secondary,1
-Male,Commercial Associate,294338,11,Post Graduate,1
-Male,Pensioner,612522,18,Secondary,1
-Male,Commercial Associate,405369,10,Graduate,1
-Male,Pensioner,569492,24,Post Graduate,1
-Female,Commercial Associate,236946,26,Secondary,0
-Male,Commercial Associate,415713,23,Secondary,1
-Male,Pensioner,636136,15,Graduate,1
-Male,Working,363516,7,Post Graduate,1
-Female,Pensioner,650225,10,Secondary,1
-Female,Commercial Associate,900504,19,Post Graduate,1
-Female,Pensioner,934739,5,Secondary,1
-Male,Commercial Associate,174816,18,Graduate,0
-Male,Commercial Associate,142533,20,Post Graduate,0
-Female,Working,793658,6,Post Graduate,1
-Male,Working,270196,10,Post Graduate,1
-Male,Commercial Associate,764802,8,Post Graduate,1
-Female,Pensioner,910637,16,Post Graduate,1
-Female,Working,473985,9,Secondary,1
-Male,Commercial Associate,380486,22,Post Graduate,1
-Male,Commercial Associate,160834,8,Post Graduate,0
-Female,Pensioner,853038,14,Graduate,1
-Male,Pensioner,916221,14,Graduate,1
-Female,Commercial Associate,419262,15,Graduate,1
-Female,Commercial Associate,118527,7,Graduate,0
-Male,Pensioner,800546,10,Graduate,1
-Male,Working,498063,6,Secondary,1
-Female,Commercial Associate,695777,4,Graduate,1
-Female,Working,113161,22,Post Graduate,0
-Female,Commercial Associate,477456,8,Secondary,1
-Male,Working,452094,13,Post Graduate,1
-Male,Commercial Associate,564655,2,Post Graduate,1
-Male,Working,642205,7,Graduate,1
-Male,Working,716514,7,Post Graduate,1
-Male,Working,686111,6,Post Graduate,1
-Male,Pensioner,295962,0,Graduate,0
-Female,Commercial Associate,353328,30,Graduate,1
-Female,Commercial Associate,599884,24,Graduate,1
-Female,Commercial Associate,264700,0,Post Graduate,1
-Female,Pensioner,119380,15,Graduate,0
-Female,Pensioner,965271,30,Secondary,1
-Female,Pensioner,123873,11,Post Graduate,0
-Male,Working,192157,20,Post Graduate,0
-Male,Working,329723,22,Graduate,1
-Female,Commercial Associate,475204,10,Post Graduate,1
-Male,Commercial Associate,412792,24,Post Graduate,1
-Female,Commercial Associate,557918,25,Post Graduate,1
-Female,Working,417742,28,Secondary,1
-Male,Commercial Associate,560317,7,Secondary,1
-Female,Pensioner,955032,29,Graduate,1
-Male,Commercial Associate,740006,12,Secondary,1
-Male,Working,741275,22,Secondary,1
-Female,Commercial Associate,503412,3,Post Graduate,1
-Male,Working,89299,3,Post Graduate,0
-Female,Working,94843,6,Post Graduate,0
-Male,Working,212868,7,Graduate,0
-Female,Pensioner,454506,28,Graduate,1
-Male,Commercial Associate,649123,22,Post Graduate,1
-Female,Commercial Associate,648116,20,Secondary,1
-Female,Commercial Associate,680778,26,Graduate,1
-Female,Pensioner,601435,24,Graduate,1
-Female,Commercial Associate,295204,25,Post Graduate,1
-Male,Commercial Associate,742472,12,Graduate,1
-Female,Pensioner,711834,22,Secondary,1
-Male,Pensioner,187391,11,Graduate,0
-Male,Working,420789,30,Post Graduate,1
-Male,Pensioner,236048,22,Graduate,0
-Female,Pensioner,158697,20,Post Graduate,0
-Male,Working,211913,11,Post Graduate,1
-Male,Pensioner,499953,3,Post Graduate,1
-Female,Commercial Associate,189564,5,Post Graduate,0
-Female,Pensioner,977457,0,Secondary,0
-Male,Commercial Associate,889452,17,Post Graduate,1
-Female,Pensioner,898708,0,Graduate,0
-Female,Commercial Associate,86217,21,Post Graduate,0
-Female,Pensioner,520910,20,Secondary,1
-Male,Pensioner,480031,28,Post Graduate,1
-Female,Commercial Associate,761404,21,Post Graduate,1
-Male,Commercial Associate,500862,15,Secondary,1
-Female,Commercial Associate,156092,29,Graduate,0
-Male,Pensioner,654809,8,Post Graduate,1
-Female,Working,702922,22,Secondary,1
-Female,Working,903890,2,Post Graduate,1
-Female,Working,342092,24,Secondary,1
-Female,Pensioner,225759,25,Secondary,0
-Male,Commercial Associate,342186,15,Post Graduate,1
-Male,Commercial Associate,997490,23,Graduate,1
-Female,Working,976897,1,Secondary,0
-Male,Working,407088,27,Secondary,1
-Female,Pensioner,626157,1,Secondary,0
-Male,Working,377119,13,Post Graduate,1
-Male,Pensioner,564793,4,Post Graduate,1
-Female,Pensioner,659203,17,Secondary,1
-Male,Pensioner,652563,0,Secondary,0
-Female,Pensioner,819672,27,Graduate,1
-Female,Working,289822,6,Graduate,1
-Female,Pensioner,879267,1,Graduate,0
-Female,Working,307096,21,Post Graduate,1
-Male,Working,475604,17,Post Graduate,1
-Female,Working,516807,5,Secondary,1
-Male,Working,184147,29,Secondary,0
-Male,Working,304839,28,Post Graduate,1
-Female,Working,387570,5,Post Graduate,1
-Female,Working,442422,3,Secondary,1
-Female,Pensioner,437732,6,Secondary,1
-Male,Commercial Associate,712809,20,Secondary,1
-Female,Working,520438,25,Graduate,1
-Female,Working,353075,17,Secondary,1
-Female,Commercial Associate,807364,8,Secondary,1
-Female,Pensioner,575055,22,Secondary,1
-Male,Working,710723,26,Graduate,1
-Male,Pensioner,159081,6,Graduate,0
-Male,Pensioner,620300,9,Post Graduate,1
-Female,Working,214475,30,Graduate,0
-Male,Working,660004,7,Post Graduate,1
-Female,Commercial Associate,275776,11,Secondary,1
-Female,Pensioner,105527,8,Graduate,0
-Male,Commercial Associate,230274,25,Post Graduate,1
-Female,Commercial Associate,893698,26,Graduate,1
-Male,Pensioner,960108,25,Post Graduate,1
-Male,Working,430609,21,Secondary,1
-Female,Pensioner,405663,5,Graduate,1
-Male,Pensioner,399666,12,Post Graduate,1
-Female,Pensioner,675557,21,Graduate,1
-Female,Pensioner,546905,23,Post Graduate,1
-Male,Commercial Associate,590103,30,Secondary,1
-Female,Working,283138,18,Graduate,1
-Male,Pensioner,129938,22,Secondary,0
-Male,Working,837877,28,Secondary,1
-Female,Commercial Associate,621713,0,Post Graduate,1
-Female,Commercial Associate,800040,6,Graduate,1
-Male,Working,834441,16,Secondary,1
-Female,Pensioner,172372,12,Post Graduate,0
-Female,Commercial Associate,331214,18,Secondary,1
-Male,Commercial Associate,565728,20,Graduate,1
-Female,Commercial Associate,212957,16,Post Graduate,1
-Female,Commercial Associate,948324,17,Graduate,1
-Female,Pensioner,83285,19,Post Graduate,0
-Male,Working,410367,19,Post Graduate,1
-Male,Pensioner,690447,7,Graduate,1
-Male,Commercial Associate,269599,19,Post Graduate,1
-Female,Pensioner,569784,11,Secondary,1
-Male,Pensioner,630548,15,Post Graduate,1
-Male,Working,732175,19,Secondary,1
-Male,Working,844527,10,Graduate,1
-Female,Commercial Associate,592412,8,Secondary,1
-Male,Commercial Associate,519556,23,Graduate,1
+Gender,Own_Car,Own_Realty,Annual_Income,Income_Type,Education,Family_Status,Housing_Type,Family_Members,Number_of_Loans,Approved
+Male,No,No,459819,Working,Secondary,Divorced,House,6,5,0
+Female,No,No,927529,Working,Secondary,Divorced,Rented,6,3,0
+Female,Yes,Yes,768829,Pensioner,Post Graduate,Single,House,1,3,0
+Male,Yes,Yes,585617,Pensioner,Graduate,Single,House,5,4,0
+Female,Yes,No,671652,Working,Post Graduate,Single,Rented,3,4,0
+Female,Yes,Yes,203176,Commercial Associate,Secondary,Divorced,Apartment,6,2,0
+Female,No,Yes,253057,Commercial Associate,Post Graduate,Single,House,5,0,0
+Male,No,No,450007,Commercial Associate,Post Graduate,Married,Apartment,3,1,1
+Male,No,Yes,677540,Commercial Associate,Graduate,Divorced,Apartment,5,0,0
+Male,Yes,Yes,341347,Working,Post Graduate,Divorced,Rented,5,0,0
+Male,No,Yes,742191,Working,Graduate,Divorced,Rented,5,2,0
+Male,Yes,No,332394,Commercial Associate,Secondary,Single,House,3,2,1
+Female,No,No,76761,Commercial Associate,Secondary,Divorced,Apartment,5,4,0
+Female,Yes,Yes,457915,Working,Secondary,Single,Rented,3,2,1
+Female,Yes,Yes,863691,Commercial Associate,Post Graduate,Married,Apartment,2,5,0
+Female,Yes,No,639164,Commercial Associate,Graduate,Divorced,Rented,1,1,1
+Female,Yes,Yes,231472,Working,Secondary,Single,Apartment,3,4,0
+Male,No,No,536467,Pensioner,Secondary,Married,House,4,1,1
+Female,Yes,No,465702,Working,Post Graduate,Married,House,4,3,0
+Female,Yes,No,998999,Pensioner,Graduate,Divorced,Apartment,4,2,1
+Female,Yes,No,812103,Working,Graduate,Married,Rented,4,4,0
+Male,No,No,112587,Working,Secondary,Married,Apartment,6,0,0
+Male,Yes,Yes,844804,Working,Secondary,Divorced,House,6,4,0
+Male,No,Yes,916554,Working,Secondary,Single,House,1,3,0
+Male,No,No,851647,Pensioner,Secondary,Divorced,Apartment,4,2,1
+Male,Yes,No,492448,Working,Secondary,Single,Apartment,6,2,0
+Male,Yes,No,63542,Working,Graduate,Divorced,Rented,6,1,0
+Male,Yes,Yes,409879,Working,Secondary,Married,House,1,2,1
+Male,Yes,No,646975,Commercial Associate,Post Graduate,Married,Apartment,6,3,0
+Male,No,No,442090,Pensioner,Secondary,Single,Apartment,3,1,1
+Male,Yes,Yes,267375,Pensioner,Post Graduate,Divorced,House,4,2,1
+Female,No,No,586338,Commercial Associate,Graduate,Single,House,2,4,0
+Female,No,Yes,347722,Commercial Associate,Secondary,Divorced,House,3,5,0
+Female,No,No,820835,Commercial Associate,Graduate,Single,Apartment,3,5,0
+Male,Yes,No,676196,Commercial Associate,Secondary,Married,House,1,0,1
+Male,No,Yes,624805,Working,Post Graduate,Single,Rented,1,4,0
+Male,Yes,Yes,179639,Pensioner,Graduate,Single,Rented,1,1,0
+Female,No,No,72933,Working,Graduate,Married,Rented,2,2,0
+Female,No,Yes,604204,Working,Graduate,Divorced,House,5,0,0
+Female,Yes,Yes,194323,Working,Secondary,Divorced,Apartment,2,4,0
+Female,Yes,Yes,670743,Commercial Associate,Secondary,Single,Apartment,1,4,0
+Female,Yes,Yes,365824,Pensioner,Secondary,Divorced,Apartment,2,4,0
+Male,Yes,Yes,969974,Working,Graduate,Married,Apartment,3,3,0
+Male,Yes,Yes,675563,Working,Secondary,Single,Apartment,1,5,0
+Male,Yes,Yes,938157,Pensioner,Secondary,Single,Rented,5,2,0
+Female,No,Yes,534595,Commercial Associate,Post Graduate,Divorced,House,4,2,1
+Male,Yes,Yes,478521,Working,Graduate,Married,Rented,4,2,1
+Male,No,Yes,173071,Commercial Associate,Post Graduate,Divorced,Rented,5,3,0
+Female,Yes,No,340098,Working,Graduate,Married,Rented,6,2,0
+Female,Yes,Yes,395759,Pensioner,Post Graduate,Married,House,2,1,1
+Female,No,No,441185,Pensioner,Post Graduate,Married,House,5,2,0
+Female,No,Yes,78147,Working,Post Graduate,Divorced,Apartment,4,5,0
+Female,Yes,Yes,184016,Working,Secondary,Divorced,Rented,4,3,0
+Female,No,Yes,892207,Commercial Associate,Secondary,Single,Rented,1,0,1
+Male,No,Yes,836089,Working,Graduate,Single,Rented,1,1,1
+Male,Yes,No,973426,Pensioner,Secondary,Single,Rented,6,0,0
+Male,No,No,330636,Commercial Associate,Post Graduate,Divorced,Rented,2,4,0
+Female,No,No,917925,Commercial Associate,Graduate,Single,Rented,4,5,0
+Male,No,No,529318,Working,Post Graduate,Single,Apartment,1,2,1
+Male,No,No,130957,Pensioner,Secondary,Single,Apartment,1,3,0
+Male,Yes,No,693677,Working,Graduate,Single,Apartment,4,3,0
+Male,Yes,Yes,972047,Pensioner,Secondary,Married,Apartment,1,2,1
+Male,Yes,No,366522,Pensioner,Post Graduate,Single,Rented,3,4,0
+Female,No,Yes,257345,Working,Post Graduate,Single,Apartment,2,1,1
+Female,No,No,302674,Working,Secondary,Divorced,Rented,1,3,0
+Female,No,Yes,875006,Commercial Associate,Graduate,Divorced,Rented,5,0,0
+Male,Yes,Yes,54244,Working,Graduate,Single,House,6,3,0
+Female,No,Yes,947720,Working,Graduate,Divorced,Rented,6,5,0
+Female,Yes,Yes,746181,Working,Secondary,Single,Rented,5,1,0
+Male,Yes,No,950551,Pensioner,Graduate,Divorced,Rented,1,4,0
+Female,No,No,611097,Commercial Associate,Post Graduate,Divorced,Rented,1,3,0
+Female,No,Yes,185299,Commercial Associate,Secondary,Married,Apartment,3,4,0
+Female,No,Yes,509899,Working,Graduate,Married,Rented,2,4,0
+Male,No,No,913796,Working,Graduate,Married,Rented,5,1,0
+Female,Yes,No,486675,Working,Secondary,Single,House,2,2,1
+Female,Yes,Yes,879552,Working,Secondary,Single,Rented,5,3,0
+Female,Yes,Yes,303409,Pensioner,Post Graduate,Single,Rented,5,4,0
+Female,Yes,Yes,553608,Commercial Associate,Secondary,Single,Apartment,5,4,0
+Male,Yes,No,202794,Working,Graduate,Married,Rented,4,4,0
+Female,No,No,638595,Pensioner,Post Graduate,Single,House,2,1,1
+Female,No,Yes,108940,Working,Post Graduate,Single,Apartment,5,2,0
+Female,Yes,No,955815,Pensioner,Post Graduate,Single,Apartment,4,4,0
+Female,Yes,Yes,999604,Working,Post Graduate,Single,Apartment,3,4,0
+Male,No,No,402475,Working,Secondary,Divorced,Rented,3,3,0
+Female,No,No,95822,Working,Secondary,Single,House,2,2,0
+Male,Yes,No,263803,Working,Post Graduate,Married,Apartment,6,3,0
+Female,Yes,No,303267,Pensioner,Graduate,Divorced,Apartment,2,3,0
+Female,Yes,No,410529,Commercial Associate,Secondary,Divorced,Rented,2,5,0
+Female,Yes,Yes,730271,Pensioner,Secondary,Single,House,4,4,0
+Female,Yes,No,243638,Pensioner,Post Graduate,Married,House,5,5,0
+Female,No,Yes,490563,Working,Graduate,Divorced,House,2,0,1
+Female,Yes,No,261326,Working,Post Graduate,Married,Rented,4,0,1
+Male,No,Yes,84404,Pensioner,Graduate,Divorced,Rented,4,4,0
+Male,No,Yes,586278,Working,Graduate,Divorced,Apartment,4,5,0
+Male,Yes,Yes,824472,Working,Post Graduate,Divorced,Rented,1,1,1
+Female,No,No,135713,Working,Graduate,Married,Rented,6,2,0
+Male,No,Yes,412715,Commercial Associate,Graduate,Divorced,Rented,2,2,1
+Male,No,Yes,953979,Pensioner,Graduate,Divorced,Rented,6,5,0
+Female,No,Yes,162761,Working,Post Graduate,Single,House,1,4,0
+Male,Yes,Yes,743639,Commercial Associate,Graduate,Single,House,6,5,0
+Female,No,Yes,808821,Commercial Associate,Post Graduate,Single,House,5,0,0
+Female,Yes,Yes,91294,Commercial Associate,Secondary,Married,House,5,1,0
+Female,Yes,Yes,121149,Working,Graduate,Married,House,3,3,0
+Male,Yes,Yes,517153,Pensioner,Secondary,Divorced,Apartment,6,0,0
+Male,No,No,139822,Commercial Associate,Post Graduate,Married,Rented,4,2,0
+Male,No,No,977343,Pensioner,Post Graduate,Divorced,Apartment,3,4,0
+Male,No,No,258574,Working,Post Graduate,Married,Rented,3,2,1
+Male,No,Yes,134347,Commercial Associate,Secondary,Divorced,House,3,4,0
+Male,Yes,Yes,169600,Working,Post Graduate,Single,Apartment,1,4,0
+Female,No,Yes,427131,Commercial Associate,Post Graduate,Single,Apartment,2,5,0
+Female,Yes,No,938012,Pensioner,Graduate,Single,House,4,1,1
+Female,Yes,No,669615,Pensioner,Secondary,Single,House,1,0,1
+Female,No,No,754360,Working,Secondary,Divorced,Rented,5,4,0
+Male,Yes,Yes,516734,Pensioner,Graduate,Divorced,Apartment,5,1,0
+Female,Yes,Yes,702704,Pensioner,Secondary,Divorced,House,4,5,0
+Male,No,Yes,711829,Working,Graduate,Single,Rented,5,3,0
+Female,Yes,No,358037,Working,Graduate,Single,Rented,6,0,0
+Female,No,No,917905,Pensioner,Graduate,Married,Apartment,1,2,1
+Male,No,Yes,500246,Commercial Associate,Secondary,Divorced,Rented,5,3,0
+Female,Yes,Yes,555985,Working,Post Graduate,Divorced,Apartment,5,2,0
+Female,No,No,455425,Commercial Associate,Graduate,Married,Apartment,1,1,1
+Male,Yes,Yes,508532,Pensioner,Graduate,Divorced,Rented,4,0,1
+Male,No,No,88430,Commercial Associate,Graduate,Married,House,5,3,0
+Male,Yes,No,358571,Pensioner,Secondary,Married,Rented,1,0,1
+Female,Yes,Yes,82512,Pensioner,Secondary,Single,House,4,4,0
+Male,No,Yes,587817,Commercial Associate,Graduate,Married,Apartment,2,3,0
+Male,No,Yes,774631,Commercial Associate,Secondary,Married,Apartment,2,5,0
+Female,Yes,Yes,845833,Commercial Associate,Graduate,Single,Rented,2,4,0
+Female,No,Yes,320220,Working,Secondary,Single,Apartment,4,2,1
+Male,Yes,No,249744,Working,Post Graduate,Divorced,House,5,4,0
+Male,No,Yes,323371,Pensioner,Post Graduate,Divorced,Apartment,2,2,1
+Male,Yes,No,791431,Commercial Associate,Secondary,Married,Apartment,1,3,0
+Female,No,Yes,832216,Commercial Associate,Post Graduate,Divorced,Rented,3,2,1
+Female,No,Yes,388533,Working,Post Graduate,Single,House,6,4,0
+Male,Yes,No,58274,Working,Post Graduate,Single,House,3,1,0
+Female,No,No,383698,Pensioner,Post Graduate,Single,Apartment,3,3,0
+Female,No,Yes,233078,Working,Post Graduate,Single,Rented,4,4,0
+Female,No,Yes,364266,Pensioner,Secondary,Married,Apartment,6,4,0
+Male,No,Yes,258972,Commercial Associate,Post Graduate,Married,House,6,5,0
+Male,Yes,No,786004,Commercial Associate,Secondary,Single,House,5,5,0
+Male,Yes,No,114385,Working,Secondary,Single,Rented,4,4,0
+Female,No,Yes,157092,Commercial Associate,Post Graduate,Married,Rented,2,1,0
+Female,Yes,No,820480,Commercial Associate,Secondary,Divorced,Apartment,3,2,1
+Male,No,Yes,463499,Pensioner,Post Graduate,Single,Apartment,5,4,0
+Female,No,Yes,666859,Pensioner,Post Graduate,Divorced,House,5,3,0
+Female,Yes,No,737107,Working,Post Graduate,Single,House,2,5,0
+Male,Yes,No,449083,Pensioner,Post Graduate,Divorced,House,1,1,1
+Male,Yes,Yes,408824,Working,Secondary,Married,Rented,1,1,1
+Male,No,No,432711,Commercial Associate,Post Graduate,Divorced,Rented,3,4,0
+Female,Yes,Yes,103937,Pensioner,Graduate,Single,Rented,6,0,0
+Male,No,No,259189,Working,Graduate,Divorced,Rented,5,0,0
+Female,Yes,No,641691,Commercial Associate,Secondary,Divorced,Apartment,3,4,0
+Male,Yes,No,721025,Commercial Associate,Graduate,Married,Rented,1,3,0
+Male,No,No,948489,Commercial Associate,Post Graduate,Single,Apartment,6,4,0
+Female,Yes,Yes,418881,Commercial Associate,Graduate,Married,Apartment,3,5,0
+Male,No,No,230452,Pensioner,Secondary,Married,House,4,4,0
+Female,No,Yes,163142,Working,Graduate,Married,Apartment,5,1,0
+Male,Yes,Yes,352302,Working,Secondary,Single,Rented,4,4,0
+Female,No,No,730262,Commercial Associate,Secondary,Married,Apartment,1,5,0
+Male,Yes,Yes,998189,Pensioner,Secondary,Divorced,Apartment,6,2,0
+Female,Yes,No,500412,Working,Post Graduate,Divorced,Apartment,1,4,0
+Male,No,No,598805,Pensioner,Secondary,Married,Apartment,6,5,0
+Female,Yes,No,364148,Commercial Associate,Graduate,Single,Apartment,1,2,1
+Female,Yes,No,833103,Working,Secondary,Divorced,Apartment,1,2,1
+Female,No,Yes,98996,Pensioner,Post Graduate,Married,House,3,3,0
+Male,Yes,No,478208,Commercial Associate,Secondary,Married,Rented,5,1,0
+Female,No,Yes,446592,Commercial Associate,Secondary,Married,Rented,2,4,0
+Female,Yes,Yes,133738,Commercial Associate,Secondary,Single,Rented,3,1,0
+Male,No,No,851951,Pensioner,Post Graduate,Married,Apartment,5,4,0
+Male,No,No,86851,Commercial Associate,Secondary,Divorced,Apartment,1,1,0
+Male,No,Yes,486040,Working,Post Graduate,Married,Rented,6,0,0
+Female,No,Yes,74277,Pensioner,Graduate,Divorced,Rented,3,3,0
+Female,Yes,No,996376,Commercial Associate,Graduate,Married,Rented,4,3,0
+Female,No,No,499008,Working,Secondary,Single,Rented,5,3,0
+Female,Yes,Yes,729088,Pensioner,Secondary,Single,Apartment,2,4,0
+Male,No,Yes,161446,Commercial Associate,Post Graduate,Married,Rented,2,2,0
+Male,Yes,Yes,723326,Pensioner,Post Graduate,Single,House,5,1,0
+Female,No,Yes,761009,Pensioner,Post Graduate,Divorced,Rented,6,2,0
+Female,No,Yes,122016,Pensioner,Secondary,Single,Apartment,5,3,0
+Male,Yes,No,561665,Working,Post Graduate,Married,Apartment,6,0,0
+Female,No,Yes,212002,Commercial Associate,Graduate,Married,House,4,1,0
+Male,Yes,No,90692,Commercial Associate,Post Graduate,Single,Apartment,3,3,0
+Male,Yes,No,220391,Working,Graduate,Married,Rented,6,1,0
+Male,No,Yes,138741,Working,Secondary,Single,Apartment,3,5,0
+Male,Yes,No,716993,Pensioner,Graduate,Single,House,5,0,0
+Female,Yes,Yes,680335,Commercial Associate,Post Graduate,Single,Apartment,5,5,0
+Female,No,Yes,231932,Working,Graduate,Divorced,Apartment,6,3,0
+Male,Yes,No,168460,Pensioner,Secondary,Single,Apartment,1,5,0
+Male,Yes,Yes,55772,Pensioner,Graduate,Single,Apartment,2,4,0
+Male,Yes,No,368290,Working,Post Graduate,Divorced,Apartment,3,3,0
+Female,Yes,No,239524,Working,Secondary,Married,House,6,2,0
+Male,Yes,No,775872,Commercial Associate,Secondary,Single,Rented,2,5,0
+Female,No,No,628258,Pensioner,Secondary,Single,Rented,5,4,0
+Female,No,Yes,660463,Pensioner,Secondary,Divorced,Apartment,2,1,1
+Male,Yes,Yes,75333,Working,Secondary,Married,House,3,0,0
+Male,Yes,Yes,774778,Working,Post Graduate,Divorced,Apartment,4,2,1
+Female,Yes,Yes,923463,Pensioner,Secondary,Divorced,Apartment,5,1,0
+Male,Yes,Yes,859817,Commercial Associate,Post Graduate,Married,House,3,3,0
+Male,Yes,No,884197,Pensioner,Post Graduate,Single,Rented,3,3,0
+Female,No,No,104922,Working,Secondary,Married,Rented,2,2,0
+Female,Yes,No,387601,Working,Graduate,Single,Apartment,4,5,0
+Male,Yes,Yes,450571,Working,Post Graduate,Single,Apartment,1,2,1
+Male,Yes,No,182592,Pensioner,Graduate,Divorced,House,1,1,0
+Male,Yes,No,321739,Working,Post Graduate,Divorced,House,6,0,0
+Female,No,No,363396,Pensioner,Graduate,Married,House,1,1,1
+Female,Yes,No,263468,Working,Secondary,Single,House,2,0,1
+Female,Yes,No,847587,Commercial Associate,Secondary,Married,Apartment,5,1,0
+Female,Yes,No,724844,Working,Secondary,Divorced,House,5,2,0
+Female,Yes,Yes,115628,Commercial Associate,Graduate,Single,House,4,5,0
+Male,Yes,Yes,245303,Commercial Associate,Graduate,Married,House,2,0,0
+Female,No,No,184712,Pensioner,Graduate,Single,Rented,1,5,0
+Female,Yes,Yes,571067,Commercial Associate,Graduate,Married,Apartment,5,5,0
+Female,No,Yes,398197,Pensioner,Graduate,Divorced,House,5,5,0
+Female,Yes,Yes,303939,Working,Secondary,Married,House,6,4,0
+Female,Yes,Yes,367382,Commercial Associate,Post Graduate,Divorced,Apartment,4,3,0
+Female,No,No,115327,Commercial Associate,Graduate,Divorced,Apartment,4,3,0
+Female,Yes,Yes,437349,Commercial Associate,Graduate,Married,Rented,2,0,1
+Female,Yes,Yes,386538,Commercial Associate,Post Graduate,Married,House,2,4,0
+Male,No,No,717816,Working,Post Graduate,Single,Apartment,5,1,0
+Male,No,No,221465,Commercial Associate,Post Graduate,Single,House,3,2,0
+Female,No,No,67131,Commercial Associate,Graduate,Married,House,1,3,0
+Male,Yes,Yes,284221,Commercial Associate,Post Graduate,Married,Rented,4,4,0
+Male,Yes,No,748151,Commercial Associate,Secondary,Divorced,House,4,0,1
+Female,No,No,867787,Pensioner,Secondary,Divorced,House,6,4,0
+Female,Yes,Yes,316036,Pensioner,Post Graduate,Single,Rented,3,0,1
+Female,No,No,596188,Pensioner,Post Graduate,Divorced,House,3,2,1
+Female,Yes,No,578501,Commercial Associate,Post Graduate,Single,Apartment,5,5,0
+Male,No,No,617366,Pensioner,Post Graduate,Divorced,Apartment,1,2,1
+Male,Yes,No,976543,Commercial Associate,Post Graduate,Married,Apartment,1,1,1
+Male,No,Yes,347206,Working,Secondary,Divorced,Rented,1,0,1
+Female,No,No,285385,Working,Post Graduate,Single,Apartment,6,1,0
+Male,No,No,367226,Commercial Associate,Post Graduate,Married,House,6,5,0
+Male,No,Yes,771480,Working,Post Graduate,Divorced,Apartment,2,4,0
+Female,Yes,Yes,465013,Commercial Associate,Post Graduate,Single,Rented,6,0,0
+Female,No,No,885109,Working,Graduate,Married,Rented,6,3,0
+Female,Yes,Yes,268057,Pensioner,Graduate,Divorced,Apartment,4,0,1
+Male,Yes,No,551073,Commercial Associate,Secondary,Divorced,House,2,2,1
+Male,No,No,827482,Commercial Associate,Post Graduate,Single,House,4,0,1
+Female,Yes,No,811725,Working,Post Graduate,Single,House,1,0,1
+Male,Yes,No,252515,Commercial Associate,Secondary,Divorced,Rented,3,3,0
+Male,Yes,Yes,753601,Commercial Associate,Graduate,Single,House,4,4,0
+Female,Yes,No,939363,Commercial Associate,Secondary,Married,Rented,6,5,0
+Female,Yes,No,83339,Working,Post Graduate,Single,House,4,5,0
+Female,Yes,No,285893,Working,Post Graduate,Married,Rented,1,4,0
+Female,No,No,400522,Pensioner,Secondary,Married,Apartment,5,2,0
+Female,Yes,Yes,546246,Commercial Associate,Post Graduate,Divorced,Rented,6,3,0
+Female,No,No,475958,Commercial Associate,Secondary,Married,Rented,4,0,1
+Male,Yes,No,383236,Working,Secondary,Divorced,Apartment,4,2,1
+Male,Yes,No,895522,Commercial Associate,Secondary,Divorced,Rented,2,2,1
+Male,No,Yes,940613,Working,Post Graduate,Divorced,Rented,1,2,1
+Female,Yes,Yes,110097,Working,Graduate,Married,House,6,3,0
+Female,Yes,No,875536,Pensioner,Post Graduate,Divorced,Apartment,6,2,0
+Male,No,No,600297,Commercial Associate,Secondary,Divorced,House,2,3,0
+Male,No,Yes,694600,Commercial Associate,Graduate,Married,Rented,5,2,0
+Female,Yes,Yes,924021,Working,Graduate,Married,Rented,2,2,1
+Male,Yes,Yes,78690,Commercial Associate,Graduate,Divorced,Apartment,1,2,0
+Female,No,No,473078,Commercial Associate,Secondary,Divorced,Apartment,6,0,0
+Male,Yes,No,370866,Pensioner,Post Graduate,Single,Rented,1,0,1
+Male,No,Yes,382276,Commercial Associate,Graduate,Married,Rented,1,5,0
+Male,Yes,Yes,632440,Commercial Associate,Post Graduate,Married,Rented,3,1,1
+Male,Yes,Yes,657524,Working,Graduate,Divorced,House,6,2,0
+Male,Yes,No,949248,Pensioner,Graduate,Single,Rented,1,4,0
+Female,No,No,664930,Working,Post Graduate,Married,Rented,6,0,0
+Male,Yes,No,598418,Commercial Associate,Secondary,Married,Apartment,1,0,1
+Female,Yes,Yes,727664,Working,Secondary,Single,House,4,0,1
+Female,Yes,No,111724,Working,Post Graduate,Single,Apartment,6,0,0
+Female,No,No,271457,Working,Secondary,Married,Apartment,2,0,1
+Female,Yes,Yes,118911,Working,Secondary,Single,Rented,1,5,0
+Male,No,Yes,762408,Working,Graduate,Married,Apartment,2,1,1
+Male,No,No,747093,Pensioner,Graduate,Married,House,6,4,0
+Male,Yes,Yes,434405,Pensioner,Secondary,Single,Rented,4,2,1
+Female,Yes,No,610466,Working,Secondary,Divorced,Rented,6,5,0
+Male,No,No,952503,Commercial Associate,Post Graduate,Divorced,Rented,3,3,0
+Male,No,No,833423,Pensioner,Post Graduate,Single,House,6,3,0
+Male,Yes,Yes,365459,Working,Post Graduate,Married,Rented,1,3,0
+Male,No,Yes,580025,Working,Graduate,Single,Rented,1,4,0
+Male,No,No,69290,Working,Graduate,Married,House,3,5,0
+Male,No,No,530993,Commercial Associate,Graduate,Married,House,4,2,1
+Male,No,No,683230,Working,Post Graduate,Married,Rented,2,0,1
+Male,Yes,No,394462,Pensioner,Graduate,Married,Apartment,4,3,0
+Female,No,No,115733,Commercial Associate,Graduate,Married,Apartment,2,4,0
+Female,No,Yes,560698,Pensioner,Graduate,Single,House,1,2,1
+Male,Yes,Yes,776148,Commercial Associate,Post Graduate,Divorced,Apartment,6,3,0
+Male,No,No,408136,Working,Graduate,Single,Rented,4,5,0
+Female,Yes,Yes,853919,Working,Secondary,Divorced,Apartment,3,5,0
+Female,No,No,526635,Commercial Associate,Graduate,Single,House,5,0,0
+Female,Yes,Yes,312611,Pensioner,Graduate,Married,Apartment,1,1,1
+Female,Yes,Yes,434515,Pensioner,Post Graduate,Divorced,House,5,4,0
+Female,Yes,No,728887,Pensioner,Post Graduate,Divorced,Apartment,6,3,0
+Female,Yes,No,168722,Pensioner,Secondary,Single,House,5,1,0
+Male,Yes,No,767361,Commercial Associate,Secondary,Single,House,5,5,0
+Male,No,Yes,817430,Pensioner,Graduate,Married,Rented,1,0,1
+Male,Yes,Yes,629283,Commercial Associate,Secondary,Single,Apartment,5,3,0
+Female,No,No,801506,Pensioner,Secondary,Divorced,House,6,3,0
+Female,No,No,228649,Pensioner,Post Graduate,Divorced,House,6,0,0
+Male,No,No,160588,Working,Secondary,Single,House,3,4,0
+Male,No,Yes,342597,Commercial Associate,Post Graduate,Divorced,Apartment,5,3,0
+Female,No,No,766152,Pensioner,Graduate,Divorced,Rented,3,2,1
+Female,No,Yes,269333,Working,Post Graduate,Married,Apartment,4,3,0
+Female,No,No,182888,Commercial Associate,Secondary,Single,Rented,5,4,0
+Male,No,No,50755,Commercial Associate,Graduate,Single,Apartment,3,3,0
+Male,No,No,907062,Working,Secondary,Divorced,Apartment,1,4,0
+Female,Yes,No,633258,Commercial Associate,Post Graduate,Divorced,Apartment,2,1,1
+Female,Yes,No,240016,Commercial Associate,Secondary,Divorced,Apartment,3,2,0
+Female,Yes,No,803056,Commercial Associate,Post Graduate,Single,Apartment,6,5,0
+Female,No,No,414001,Commercial Associate,Post Graduate,Single,Rented,2,3,0
+Male,No,No,304595,Commercial Associate,Secondary,Single,Apartment,3,4,0
+Male,Yes,No,395882,Commercial Associate,Post Graduate,Single,House,6,0,0
+Male,No,No,922348,Pensioner,Graduate,Divorced,Rented,2,1,1
+Female,No,No,96739,Pensioner,Graduate,Single,Rented,5,2,0
+Female,No,No,226651,Working,Graduate,Divorced,House,4,5,0
+Female,Yes,Yes,615564,Commercial Associate,Post Graduate,Single,Apartment,3,2,1
+Female,No,No,62797,Working,Graduate,Single,House,4,1,0
+Female,Yes,Yes,719918,Pensioner,Post Graduate,Divorced,Apartment,5,5,0
+Female,Yes,Yes,641085,Commercial Associate,Graduate,Divorced,House,4,0,1
+Male,No,No,771230,Commercial Associate,Graduate,Married,House,6,2,0
+Male,Yes,No,211617,Working,Secondary,Divorced,House,5,0,0
+Male,Yes,Yes,464196,Working,Post Graduate,Divorced,Rented,4,5,0
+Male,Yes,No,407817,Commercial Associate,Graduate,Divorced,House,3,0,1
+Male,Yes,Yes,239034,Pensioner,Post Graduate,Single,House,3,0,0
+Male,Yes,Yes,130883,Working,Graduate,Married,Apartment,4,3,0
+Female,Yes,No,533982,Pensioner,Secondary,Single,Rented,2,4,0
+Male,Yes,No,525653,Working,Post Graduate,Single,House,4,1,1
+Female,Yes,Yes,974540,Pensioner,Post Graduate,Married,Rented,1,3,0
+Male,No,Yes,611485,Commercial Associate,Post Graduate,Single,Apartment,1,3,0
+Female,No,Yes,119277,Pensioner,Secondary,Single,House,1,3,0
+Female,No,Yes,311057,Working,Graduate,Divorced,Apartment,2,3,0
+Male,No,No,669234,Commercial Associate,Post Graduate,Married,House,5,4,0
+Female,Yes,Yes,772349,Pensioner,Graduate,Single,House,2,2,1
+Female,No,No,586907,Commercial Associate,Secondary,Married,House,5,3,0
+Female,No,Yes,415111,Pensioner,Secondary,Single,House,5,3,0
+Male,Yes,No,765858,Working,Graduate,Married,Rented,2,1,1
+Female,Yes,No,69421,Pensioner,Post Graduate,Single,House,6,0,0
+Female,Yes,Yes,691275,Commercial Associate,Graduate,Single,Rented,5,3,0
+Male,No,Yes,935448,Working,Secondary,Single,Apartment,6,5,0
+Male,Yes,Yes,576118,Pensioner,Graduate,Married,Rented,1,5,0
+Female,No,Yes,94976,Pensioner,Post Graduate,Married,Rented,5,5,0
+Female,Yes,Yes,628289,Working,Graduate,Single,Apartment,3,2,1
+Male,No,Yes,866955,Pensioner,Secondary,Divorced,Apartment,5,1,0
+Female,Yes,No,412029,Pensioner,Graduate,Married,Rented,1,4,0
+Female,Yes,No,829994,Commercial Associate,Post Graduate,Single,Apartment,5,0,0
+Male,No,Yes,816705,Pensioner,Graduate,Single,House,2,2,1
+Female,Yes,Yes,674848,Working,Graduate,Single,Rented,5,3,0
+Female,Yes,No,792913,Commercial Associate,Post Graduate,Married,Apartment,2,2,1
+Male,Yes,Yes,542598,Pensioner,Post Graduate,Single,Rented,3,4,0
+Male,No,No,268736,Pensioner,Graduate,Married,Apartment,4,0,1
+Female,No,No,910431,Commercial Associate,Secondary,Single,Apartment,5,4,0
+Female,Yes,Yes,549102,Commercial Associate,Secondary,Single,Apartment,3,3,0
+Female,No,Yes,815623,Working,Post Graduate,Divorced,Rented,4,5,0
+Female,No,Yes,301566,Working,Graduate,Single,Apartment,3,3,0
+Male,No,No,480146,Working,Secondary,Married,Rented,4,3,0
+Male,Yes,No,549002,Pensioner,Graduate,Married,House,5,3,0
+Male,Yes,Yes,581892,Pensioner,Post Graduate,Divorced,Apartment,1,3,0
+Female,Yes,Yes,796584,Working,Secondary,Divorced,House,2,2,1
+Male,Yes,Yes,665377,Commercial Associate,Secondary,Married,Rented,1,3,0
+Female,Yes,Yes,632371,Pensioner,Post Graduate,Single,Apartment,1,1,1
+Male,No,Yes,561794,Working,Graduate,Single,House,5,3,0
+Female,Yes,Yes,172916,Pensioner,Secondary,Single,House,3,3,0
+Male,Yes,No,604780,Pensioner,Graduate,Divorced,House,2,4,0
+Male,No,Yes,957995,Commercial Associate,Post Graduate,Divorced,House,5,1,0
+Female,Yes,Yes,885272,Working,Secondary,Divorced,House,5,2,0
+Male,Yes,No,570640,Commercial Associate,Graduate,Single,House,4,4,0
+Female,No,No,763990,Pensioner,Graduate,Married,Apartment,2,1,1
+Male,Yes,Yes,596458,Pensioner,Graduate,Divorced,Rented,4,2,1
+Female,Yes,No,678830,Pensioner,Graduate,Divorced,Apartment,4,2,1
+Male,Yes,No,232106,Commercial Associate,Graduate,Married,Rented,3,1,0
+Female,No,No,106180,Commercial Associate,Post Graduate,Divorced,Rented,3,5,0
+Female,Yes,Yes,840365,Pensioner,Post Graduate,Single,Rented,6,5,0
+Male,Yes,No,441134,Working,Post Graduate,Divorced,Apartment,5,0,0
+Male,No,No,743325,Commercial Associate,Post Graduate,Divorced,Apartment,1,3,0
+Male,No,Yes,174057,Pensioner,Post Graduate,Married,Rented,4,4,0
+Male,Yes,No,795389,Working,Graduate,Divorced,Rented,3,0,1
+Female,No,No,408116,Pensioner,Graduate,Married,Rented,4,2,1
+Female,No,No,149650,Commercial Associate,Secondary,Married,Apartment,4,4,0
+Female,Yes,No,133711,Working,Secondary,Married,House,2,1,0
+Male,Yes,Yes,129323,Commercial Associate,Post Graduate,Divorced,Apartment,6,5,0
+Male,Yes,Yes,437278,Pensioner,Post Graduate,Married,House,6,3,0
+Female,No,Yes,657929,Pensioner,Secondary,Married,Rented,2,1,1
+Male,No,Yes,201547,Working,Graduate,Single,House,3,4,0
+Male,Yes,No,334499,Commercial Associate,Graduate,Single,Apartment,1,2,1
+Male,Yes,No,572409,Working,Graduate,Single,House,1,4,0
+Male,No,No,132534,Pensioner,Secondary,Single,Apartment,1,0,0
+Female,Yes,No,589326,Pensioner,Post Graduate,Divorced,House,5,3,0
+Female,No,No,469455,Pensioner,Post Graduate,Single,Rented,3,5,0
+Female,No,No,541350,Commercial Associate,Graduate,Divorced,House,3,1,1
+Male,Yes,Yes,547785,Working,Post Graduate,Single,House,1,4,0
+Female,No,No,823699,Working,Secondary,Divorced,House,3,2,1
+Female,Yes,Yes,996362,Pensioner,Graduate,Single,Apartment,3,4,0
+Female,No,Yes,948658,Commercial Associate,Secondary,Single,Apartment,3,0,1
+Male,Yes,No,689833,Commercial Associate,Secondary,Single,Rented,4,5,0
+Female,No,Yes,106845,Pensioner,Graduate,Single,House,6,2,0
+Female,Yes,No,402823,Commercial Associate,Post Graduate,Single,House,3,1,1
+Female,Yes,Yes,130826,Pensioner,Post Graduate,Single,House,6,0,0
+Male,Yes,Yes,365803,Commercial Associate,Post Graduate,Divorced,Rented,6,4,0
+Male,No,No,580681,Pensioner,Graduate,Divorced,House,3,4,0
+Female,Yes,Yes,438987,Pensioner,Graduate,Single,Rented,1,2,1
+Female,Yes,No,463739,Commercial Associate,Secondary,Single,Apartment,3,1,1
+Male,No,No,863044,Working,Secondary,Divorced,House,3,4,0
+Female,Yes,Yes,921605,Pensioner,Graduate,Divorced,Apartment,4,5,0
+Female,No,Yes,517180,Commercial Associate,Post Graduate,Single,Apartment,1,0,1
+Female,Yes,No,107031,Pensioner,Post Graduate,Married,Apartment,6,4,0
+Female,No,No,572013,Working,Graduate,Divorced,Apartment,1,1,1
+Male,Yes,Yes,278697,Commercial Associate,Secondary,Divorced,Apartment,6,2,0
+Female,Yes,Yes,357624,Pensioner,Graduate,Single,Rented,6,1,0
+Female,No,Yes,571571,Working,Post Graduate,Single,Apartment,4,0,1
+Female,No,No,959712,Commercial Associate,Post Graduate,Single,House,1,0,1
+Male,No,No,356751,Pensioner,Secondary,Divorced,Rented,3,4,0
+Female,No,No,179873,Pensioner,Graduate,Single,Apartment,5,0,0
+Male,Yes,Yes,800350,Pensioner,Graduate,Divorced,Apartment,4,5,0
+Female,Yes,No,569909,Working,Secondary,Single,House,2,2,1
+Female,No,No,463912,Pensioner,Post Graduate,Single,House,6,0,0
+Male,No,No,329373,Commercial Associate,Graduate,Single,House,4,2,1
+Male,No,Yes,239535,Working,Post Graduate,Married,Apartment,2,4,0
+Female,Yes,No,59962,Pensioner,Graduate,Single,House,4,3,0
+Female,Yes,Yes,99793,Pensioner,Secondary,Single,Rented,6,0,0
+Male,Yes,No,100571,Pensioner,Graduate,Single,House,6,2,0
+Male,No,Yes,552528,Working,Secondary,Divorced,Rented,4,3,0
+Male,Yes,Yes,360552,Commercial Associate,Graduate,Single,House,4,2,1
+Female,No,Yes,376780,Commercial Associate,Secondary,Married,Rented,4,1,1
+Male,Yes,Yes,91704,Working,Graduate,Divorced,House,2,3,0
+Female,No,Yes,877621,Working,Secondary,Divorced,Rented,4,1,1
+Female,No,No,769612,Working,Post Graduate,Divorced,House,1,0,1
+Male,Yes,No,864805,Commercial Associate,Secondary,Single,Apartment,5,5,0
+Female,No,Yes,895219,Commercial Associate,Secondary,Divorced,House,1,0,1
+Male,No,No,73818,Commercial Associate,Post Graduate,Divorced,Rented,2,1,0
+Male,Yes,No,135053,Working,Graduate,Single,House,1,4,0
+Female,Yes,No,621265,Commercial Associate,Post Graduate,Divorced,House,1,4,0
+Female,No,No,349416,Commercial Associate,Post Graduate,Married,Apartment,6,5,0
+Female,No,Yes,892953,Working,Post Graduate,Married,Rented,4,3,0
+Male,Yes,Yes,350905,Working,Graduate,Divorced,Rented,4,2,1
+Female,No,No,521846,Working,Post Graduate,Married,House,4,3,0
+Female,No,No,151938,Commercial Associate,Secondary,Married,Apartment,3,4,0
+Male,Yes,No,232036,Commercial Associate,Graduate,Married,House,3,3,0
+Female,No,No,672705,Commercial Associate,Secondary,Married,House,2,5,0
+Male,Yes,No,822166,Pensioner,Post Graduate,Married,House,6,1,0
+Female,Yes,No,363069,Working,Secondary,Single,Rented,4,4,0
+Female,Yes,No,457124,Pensioner,Secondary,Divorced,Rented,3,5,0
+Male,Yes,No,348187,Commercial Associate,Post Graduate,Single,House,1,3,0
+Male,No,Yes,793232,Pensioner,Graduate,Married,Rented,4,5,0
+Male,No,No,132522,Pensioner,Post Graduate,Married,Apartment,4,2,0
+Female,No,Yes,836643,Pensioner,Graduate,Married,Rented,4,3,0
+Male,No,Yes,445765,Working,Secondary,Married,House,5,0,0
+Male,No,No,580029,Commercial Associate,Post Graduate,Married,Rented,5,0,0
+Male,No,No,907544,Working,Graduate,Divorced,House,2,2,1
+Male,Yes,No,81612,Pensioner,Post Graduate,Divorced,Apartment,3,3,0
+Female,No,Yes,282162,Working,Graduate,Divorced,House,2,2,1
+Female,No,Yes,426048,Commercial Associate,Graduate,Married,Apartment,1,2,1
+Male,No,No,146035,Pensioner,Secondary,Married,House,1,5,0
+Female,Yes,No,244869,Working,Post Graduate,Married,Rented,2,3,0
+Female,Yes,Yes,332094,Commercial Associate,Graduate,Single,Rented,4,0,1
+Male,No,No,444527,Commercial Associate,Post Graduate,Married,Rented,3,1,1
+Female,Yes,Yes,762856,Working,Post Graduate,Married,House,1,4,0
+Female,Yes,No,485199,Working,Graduate,Single,House,1,1,1
+Male,No,Yes,116143,Working,Secondary,Divorced,Apartment,2,3,0
+Male,No,No,861649,Working,Secondary,Divorced,House,2,5,0
+Female,Yes,No,70509,Working,Graduate,Married,Apartment,1,0,0
+Male,Yes,No,892516,Pensioner,Graduate,Single,Apartment,4,2,1
+Male,No,Yes,139096,Pensioner,Graduate,Married,Rented,5,5,0
+Male,Yes,No,372552,Commercial Associate,Secondary,Single,Apartment,1,1,1
+Female,No,Yes,79729,Pensioner,Post Graduate,Married,Apartment,6,5,0
+Male,No,Yes,305107,Working,Graduate,Married,Apartment,6,0,0
+Male,Yes,Yes,607999,Working,Graduate,Divorced,Rented,1,5,0
+Female,Yes,No,782555,Pensioner,Graduate,Divorced,Apartment,2,4,0
+Female,Yes,Yes,688063,Working,Graduate,Single,Rented,1,1,1
+Female,Yes,No,876696,Commercial Associate,Post Graduate,Single,House,3,3,0
+Male,No,Yes,963471,Working,Graduate,Married,Apartment,2,0,1
+Female,No,No,977716,Working,Post Graduate,Divorced,House,6,5,0
+Female,No,No,688490,Working,Secondary,Divorced,House,5,2,0
+Female,Yes,Yes,839886,Pensioner,Graduate,Divorced,Apartment,2,5,0
+Female,No,Yes,465291,Commercial Associate,Graduate,Single,Apartment,2,5,0
+Female,No,No,850631,Working,Post Graduate,Married,Rented,3,0,1
+Female,No,No,454772,Pensioner,Post Graduate,Married,Apartment,4,1,1
+Male,No,Yes,131470,Working,Graduate,Married,Rented,4,4,0
+Female,Yes,No,442583,Commercial Associate,Post Graduate,Married,Rented,4,2,1
+Male,No,No,150993,Working,Graduate,Divorced,Rented,3,2,0
+Female,No,No,956408,Pensioner,Secondary,Divorced,Rented,4,5,0
+Male,No,Yes,450014,Commercial Associate,Secondary,Divorced,House,5,2,0
+Male,Yes,No,266120,Working,Secondary,Married,Rented,5,0,0
+Female,No,Yes,837714,Commercial Associate,Post Graduate,Divorced,House,3,1,1
+Female,No,Yes,640494,Commercial Associate,Post Graduate,Single,House,5,3,0
+Female,No,Yes,370546,Working,Graduate,Divorced,Rented,1,0,1
+Male,Yes,Yes,314107,Working,Secondary,Married,Apartment,6,2,0
+Male,Yes,No,671169,Commercial Associate,Graduate,Single,Apartment,3,1,1
+Male,No,No,178478,Commercial Associate,Secondary,Single,House,6,1,0
+Female,Yes,Yes,997791,Commercial Associate,Graduate,Divorced,Rented,4,2,1
+Male,Yes,Yes,699608,Working,Post Graduate,Married,Rented,2,1,1
+Male,No,Yes,997202,Pensioner,Secondary,Divorced,Rented,6,1,0
+Male,No,Yes,758732,Working,Secondary,Divorced,Apartment,5,5,0
+Female,No,No,510075,Pensioner,Post Graduate,Divorced,Apartment,5,0,0
+Female,Yes,Yes,117529,Commercial Associate,Graduate,Single,House,5,3,0
+Female,No,Yes,528986,Pensioner,Post Graduate,Single,House,3,2,1
+Male,Yes,No,742448,Working,Secondary,Married,Rented,4,1,1
+Male,Yes,No,206895,Pensioner,Post Graduate,Divorced,House,6,4,0
+Female,Yes,No,481013,Pensioner,Secondary,Married,Apartment,6,5,0
+Male,No,No,615764,Working,Secondary,Divorced,Apartment,2,5,0
+Female,No,Yes,110725,Commercial Associate,Graduate,Single,Apartment,4,0,0
+Male,Yes,Yes,478782,Commercial Associate,Graduate,Married,House,1,5,0
+Male,Yes,Yes,338441,Commercial Associate,Graduate,Single,House,6,0,0
+Male,Yes,No,378352,Working,Secondary,Single,Apartment,2,1,1
+Male,Yes,Yes,836286,Commercial Associate,Post Graduate,Single,Apartment,6,2,0
+Male,No,No,238021,Commercial Associate,Post Graduate,Married,House,1,0,0
+Female,Yes,Yes,932676,Commercial Associate,Graduate,Divorced,House,5,1,0
+Female,No,No,117604,Working,Post Graduate,Married,House,4,4,0
+Female,Yes,No,723439,Commercial Associate,Secondary,Single,House,3,5,0
+Female,Yes,Yes,428322,Working,Graduate,Single,Rented,1,3,0
+Male,No,Yes,586954,Working,Graduate,Single,House,3,5,0
+Female,Yes,Yes,310018,Pensioner,Post Graduate,Divorced,House,6,1,0
+Male,Yes,No,779855,Pensioner,Graduate,Divorced,House,5,1,0
+Male,Yes,No,582296,Commercial Associate,Secondary,Married,House,2,0,1
+Female,No,Yes,534695,Working,Graduate,Married,Apartment,6,0,0
+Male,Yes,No,626909,Working,Secondary,Single,Rented,5,2,0
+Male,Yes,Yes,727916,Pensioner,Secondary,Married,House,3,4,0
+Male,No,Yes,609860,Working,Secondary,Divorced,Apartment,6,0,0
+Female,No,No,226127,Working,Graduate,Single,Rented,3,4,0
+Female,No,Yes,858802,Commercial Associate,Graduate,Divorced,Rented,4,0,1
+Male,Yes,No,798900,Working,Post Graduate,Single,Rented,4,3,0
+Male,Yes,Yes,777285,Pensioner,Post Graduate,Single,Rented,3,4,0
+Male,Yes,No,943064,Working,Graduate,Married,Rented,4,5,0
+Female,Yes,No,800876,Commercial Associate,Secondary,Married,Apartment,1,2,1
+Male,No,No,944834,Pensioner,Secondary,Divorced,Rented,2,4,0
+Male,No,No,778987,Working,Graduate,Divorced,Apartment,6,4,0
+Male,Yes,Yes,112266,Commercial Associate,Graduate,Single,Rented,5,5,0
+Female,Yes,Yes,662430,Commercial Associate,Graduate,Single,House,3,4,0
+Male,Yes,Yes,284653,Working,Graduate,Married,Apartment,5,5,0
+Female,Yes,No,89382,Pensioner,Secondary,Divorced,House,2,4,0
+Female,Yes,Yes,719141,Pensioner,Post Graduate,Divorced,Rented,6,1,0
+Female,Yes,Yes,442111,Working,Graduate,Single,Apartment,3,1,1
+Female,Yes,Yes,477313,Working,Post Graduate,Single,House,5,3,0
+Male,Yes,Yes,537018,Commercial Associate,Secondary,Divorced,House,1,4,0
+Male,Yes,No,260161,Working,Graduate,Divorced,House,3,4,0
+Female,Yes,Yes,405894,Working,Secondary,Married,Rented,4,0,1
+Female,Yes,No,711744,Commercial Associate,Post Graduate,Married,House,3,5,0
+Male,Yes,No,493784,Pensioner,Graduate,Single,Rented,2,3,0
+Female,No,No,349565,Working,Secondary,Single,Rented,2,5,0
+Female,Yes,Yes,419723,Pensioner,Post Graduate,Divorced,House,1,5,0
+Female,Yes,Yes,664238,Pensioner,Post Graduate,Divorced,Rented,4,3,0
+Female,Yes,No,234827,Commercial Associate,Graduate,Married,Rented,5,4,0
+Female,Yes,Yes,68698,Pensioner,Secondary,Married,Apartment,6,0,0
+Male,Yes,No,353975,Pensioner,Secondary,Married,Rented,6,2,0
+Male,No,Yes,434093,Pensioner,Secondary,Single,Apartment,2,0,1
+Female,No,No,287128,Commercial Associate,Post Graduate,Single,House,3,3,0
+Female,No,No,744690,Commercial Associate,Secondary,Married,House,2,5,0
+Female,No,Yes,642465,Pensioner,Post Graduate,Single,Apartment,2,4,0
+Female,No,No,50785,Working,Graduate,Divorced,Rented,6,3,0
+Male,Yes,No,187213,Pensioner,Graduate,Divorced,House,5,4,0
+Female,No,Yes,473000,Commercial Associate,Post Graduate,Divorced,Apartment,3,0,1
+Female,No,No,329206,Working,Post Graduate,Single,Apartment,4,4,0
+Male,No,Yes,595719,Commercial Associate,Graduate,Married,House,4,0,1
+Female,No,No,713869,Pensioner,Graduate,Single,Apartment,3,2,1
+Female,Yes,Yes,167984,Working,Graduate,Divorced,Rented,1,5,0
+Female,Yes,Yes,931080,Commercial Associate,Post Graduate,Married,Apartment,3,1,1
+Male,No,No,254541,Working,Post Graduate,Single,House,5,2,0
+Male,Yes,Yes,772494,Pensioner,Post Graduate,Married,Apartment,2,4,0
+Male,No,No,995843,Pensioner,Graduate,Single,Apartment,2,4,0
+Female,No,Yes,715242,Pensioner,Post Graduate,Divorced,Rented,4,4,0
+Female,Yes,Yes,614824,Commercial Associate,Graduate,Married,Apartment,3,4,0
+Male,No,No,699348,Working,Secondary,Single,Rented,2,0,1
+Male,Yes,Yes,808600,Working,Post Graduate,Married,House,1,2,1
+Female,No,Yes,990814,Commercial Associate,Graduate,Divorced,Apartment,2,2,1
+Female,No,Yes,635271,Commercial Associate,Secondary,Divorced,Apartment,2,4,0
+Female,Yes,Yes,212520,Commercial Associate,Post Graduate,Divorced,Rented,3,3,0
+Male,Yes,No,195542,Commercial Associate,Post Graduate,Single,Rented,6,4,0
+Female,No,No,308741,Commercial Associate,Graduate,Divorced,Rented,5,3,0
+Female,No,Yes,510152,Pensioner,Graduate,Single,House,5,5,0
+Female,No,No,506970,Working,Graduate,Divorced,House,4,1,1
+Male,Yes,Yes,646725,Working,Post Graduate,Divorced,Apartment,6,5,0
+Female,No,No,110926,Pensioner,Secondary,Married,House,6,2,0
+Female,No,No,861133,Commercial Associate,Graduate,Single,House,2,3,0
+Female,No,No,408974,Commercial Associate,Graduate,Single,House,2,0,1
+Female,Yes,No,239726,Working,Secondary,Divorced,Rented,5,5,0
+Female,No,Yes,424725,Working,Graduate,Divorced,Apartment,4,4,0
+Male,Yes,No,52197,Commercial Associate,Post Graduate,Married,House,5,3,0
+Male,Yes,Yes,305204,Working,Secondary,Divorced,Rented,5,1,0
+Male,No,No,581613,Pensioner,Post Graduate,Married,Rented,6,3,0
+Male,No,No,941453,Commercial Associate,Post Graduate,Divorced,Rented,2,5,0
+Female,Yes,No,216842,Commercial Associate,Post Graduate,Divorced,Rented,3,2,0
+Male,Yes,No,694467,Pensioner,Post Graduate,Single,Apartment,2,1,1
+Male,Yes,Yes,688664,Commercial Associate,Graduate,Married,House,5,0,0
+Male,No,No,566339,Pensioner,Secondary,Divorced,Apartment,6,3,0
+Male,No,No,188705,Commercial Associate,Graduate,Married,Apartment,3,3,0
+Male,No,No,603237,Commercial Associate,Secondary,Divorced,Rented,5,2,0
+Female,Yes,No,538212,Commercial Associate,Post Graduate,Single,Apartment,1,2,1
+Female,Yes,Yes,895067,Working,Graduate,Single,Apartment,5,0,0
+Female,Yes,Yes,926557,Pensioner,Post Graduate,Single,Apartment,3,0,1
+Female,Yes,No,156602,Working,Secondary,Divorced,House,6,3,0
+Female,Yes,No,490235,Working,Graduate,Divorced,Apartment,2,4,0
+Female,Yes,No,502782,Working,Secondary,Single,House,3,5,0
+Female,Yes,Yes,225470,Pensioner,Post Graduate,Divorced,House,5,3,0
+Female,Yes,Yes,689187,Commercial Associate,Post Graduate,Married,Apartment,4,2,1
+Male,No,No,752593,Commercial Associate,Post Graduate,Single,House,5,2,0
+Male,Yes,No,365905,Working,Post Graduate,Divorced,Apartment,4,4,0
+Male,No,No,799756,Working,Post Graduate,Married,Rented,6,5,0
+Male,Yes,No,703837,Pensioner,Graduate,Married,Apartment,2,3,0
+Male,No,Yes,553422,Commercial Associate,Secondary,Single,Rented,2,3,0
+Female,No,Yes,878135,Pensioner,Graduate,Divorced,House,1,1,1
+Female,Yes,Yes,465581,Commercial Associate,Post Graduate,Married,House,1,2,1
+Male,Yes,Yes,191134,Pensioner,Secondary,Divorced,House,6,0,0
+Female,No,Yes,722858,Commercial Associate,Graduate,Married,House,5,2,0
+Male,No,Yes,548850,Pensioner,Post Graduate,Single,Rented,3,4,0
+Male,Yes,No,564652,Pensioner,Secondary,Married,Rented,3,4,0
+Male,No,No,679885,Pensioner,Secondary,Single,Rented,2,5,0
+Female,No,Yes,522562,Pensioner,Secondary,Married,Rented,3,1,1
+Male,No,Yes,554067,Pensioner,Secondary,Single,House,4,0,1
+Female,No,Yes,718372,Commercial Associate,Graduate,Divorced,House,3,5,0
+Female,Yes,No,293941,Working,Graduate,Single,Rented,3,5,0
+Female,No,No,412244,Commercial Associate,Secondary,Divorced,House,6,1,0
+Female,No,No,499594,Working,Secondary,Divorced,Apartment,1,1,1
+Male,Yes,No,980505,Pensioner,Post Graduate,Married,Rented,1,3,0
+Female,No,No,834286,Pensioner,Graduate,Single,Apartment,2,5,0
+Female,Yes,Yes,496221,Commercial Associate,Secondary,Divorced,Rented,3,3,0
+Male,No,Yes,161542,Working,Post Graduate,Divorced,Rented,6,2,0
+Female,No,No,873793,Working,Secondary,Single,House,5,3,0
+Male,Yes,Yes,190663,Working,Post Graduate,Single,Rented,2,0,0
+Male,Yes,Yes,492190,Commercial Associate,Secondary,Single,Rented,4,4,0
+Female,Yes,Yes,524033,Commercial Associate,Secondary,Married,House,3,2,1
+Female,Yes,Yes,479441,Working,Secondary,Single,Rented,1,3,0
+Female,No,Yes,99128,Commercial Associate,Post Graduate,Married,Rented,6,5,0
+Female,Yes,No,178859,Pensioner,Secondary,Divorced,Rented,3,0,0
+Male,Yes,No,451214,Working,Post Graduate,Divorced,House,4,2,1
+Male,Yes,No,102477,Commercial Associate,Secondary,Married,Apartment,3,5,0
+Male,Yes,No,357301,Commercial Associate,Graduate,Married,Rented,5,3,0
+Female,No,Yes,804412,Commercial Associate,Graduate,Divorced,Apartment,2,3,0
+Female,No,No,159018,Pensioner,Secondary,Single,Rented,1,1,0
+Female,No,No,407414,Working,Secondary,Single,Rented,3,1,1
+Male,No,No,577594,Pensioner,Post Graduate,Married,House,3,2,1
+Female,Yes,Yes,902433,Working,Graduate,Married,House,3,0,1
+Female,No,Yes,204143,Pensioner,Secondary,Divorced,Rented,5,4,0
+Male,No,Yes,88003,Commercial Associate,Graduate,Married,Rented,5,2,0
+Female,Yes,Yes,717662,Pensioner,Graduate,Divorced,Apartment,3,0,1
+Female,Yes,No,781434,Pensioner,Secondary,Married,Rented,6,5,0
+Male,No,Yes,469277,Working,Graduate,Divorced,Apartment,3,0,1
+Male,No,Yes,899132,Commercial Associate,Post Graduate,Married,House,1,2,1
+Female,Yes,Yes,793334,Pensioner,Post Graduate,Divorced,House,3,5,0
+Female,Yes,Yes,454458,Commercial Associate,Post Graduate,Divorced,Apartment,4,0,1
+Female,Yes,No,651198,Commercial Associate,Graduate,Divorced,Apartment,5,0,0
+Female,Yes,Yes,527071,Pensioner,Post Graduate,Single,Apartment,5,2,0
+Female,Yes,No,883186,Commercial Associate,Graduate,Single,House,3,4,0
+Male,Yes,No,95022,Working,Graduate,Divorced,Rented,2,5,0
+Male,No,No,150354,Commercial Associate,Graduate,Single,House,1,5,0
+Female,No,Yes,237779,Working,Post Graduate,Single,Rented,2,1,0
+Male,No,No,436669,Commercial Associate,Secondary,Single,Rented,2,3,0
+Female,Yes,Yes,311150,Pensioner,Post Graduate,Married,House,4,2,1
+Female,No,Yes,654657,Working,Secondary,Married,Rented,4,4,0
+Male,Yes,Yes,730886,Working,Graduate,Married,Rented,4,3,0
+Male,Yes,No,700265,Working,Secondary,Married,House,3,0,1
+Male,Yes,No,203173,Working,Graduate,Divorced,House,6,5,0
+Female,No,No,762215,Pensioner,Post Graduate,Single,House,1,5,0
+Female,No,Yes,667079,Working,Post Graduate,Married,Rented,5,0,0
+Male,No,Yes,679484,Working,Post Graduate,Divorced,Rented,5,4,0
+Male,No,Yes,134513,Commercial Associate,Graduate,Divorced,House,1,0,0
+Female,No,No,995097,Pensioner,Graduate,Single,House,4,2,1
+Female,No,No,648379,Pensioner,Post Graduate,Divorced,Apartment,4,4,0
+Female,No,Yes,456969,Commercial Associate,Graduate,Single,House,6,5,0
+Male,No,Yes,463901,Pensioner,Post Graduate,Single,Apartment,2,4,0
+Male,No,Yes,53617,Commercial Associate,Secondary,Single,House,6,0,0
+Female,Yes,Yes,508069,Working,Graduate,Single,Rented,1,3,0
+Male,No,No,983882,Working,Graduate,Divorced,Rented,1,1,1
+Female,Yes,No,194428,Commercial Associate,Secondary,Married,House,6,1,0
+Male,No,No,468845,Working,Graduate,Single,Rented,6,0,0
+Female,No,Yes,801071,Commercial Associate,Secondary,Divorced,Apartment,4,4,0
+Female,Yes,Yes,951186,Working,Secondary,Single,Apartment,2,2,1
+Male,Yes,No,235262,Commercial Associate,Post Graduate,Married,House,6,2,0
+Female,Yes,Yes,924339,Commercial Associate,Graduate,Divorced,Apartment,4,0,1
+Female,Yes,No,502024,Commercial Associate,Secondary,Single,House,3,4,0
+Female,Yes,Yes,868986,Working,Graduate,Single,Apartment,1,0,1
+Male,Yes,Yes,167081,Pensioner,Secondary,Married,House,2,2,0
+Female,Yes,No,520042,Working,Post Graduate,Divorced,Apartment,6,1,0
+Male,Yes,Yes,613585,Working,Post Graduate,Married,House,3,4,0
+Female,Yes,No,551498,Commercial Associate,Graduate,Single,House,1,1,1
+Female,No,No,174485,Pensioner,Graduate,Divorced,House,5,5,0
+Female,No,No,759345,Working,Post Graduate,Single,House,3,5,0
+Male,No,No,488396,Commercial Associate,Graduate,Married,Apartment,5,1,0
+Female,No,Yes,98608,Working,Secondary,Divorced,Apartment,1,1,0
+Female,No,Yes,941097,Commercial Associate,Secondary,Married,House,3,1,1
+Female,No,Yes,62372,Commercial Associate,Secondary,Divorced,Apartment,4,5,0
+Female,No,No,878470,Commercial Associate,Post Graduate,Divorced,House,3,1,1
+Male,No,Yes,870121,Working,Post Graduate,Divorced,House,6,4,0
+Male,Yes,No,382953,Pensioner,Secondary,Married,Rented,2,1,1
+Female,No,Yes,376526,Pensioner,Graduate,Single,House,3,3,0
+Male,Yes,Yes,642683,Pensioner,Graduate,Single,Apartment,4,1,1
+Female,Yes,No,292518,Pensioner,Graduate,Single,Apartment,4,5,0
+Male,No,Yes,267152,Working,Secondary,Divorced,House,2,0,1
+Male,No,No,362330,Working,Post Graduate,Divorced,Rented,5,0,0
+Male,No,No,510912,Working,Secondary,Single,Rented,5,0,0
+Male,Yes,No,350787,Commercial Associate,Secondary,Single,Apartment,6,1,0
+Male,Yes,Yes,712025,Commercial Associate,Graduate,Divorced,House,2,1,1
+Male,No,No,318786,Commercial Associate,Post Graduate,Single,Rented,4,1,1
+Male,No,No,682362,Pensioner,Secondary,Married,House,5,4,0
+Female,Yes,No,753444,Pensioner,Post Graduate,Married,House,2,3,0
+Female,No,Yes,809957,Pensioner,Post Graduate,Single,Apartment,2,5,0
+Female,No,No,841792,Commercial Associate,Secondary,Divorced,House,5,1,0
+Female,No,No,593178,Pensioner,Post Graduate,Divorced,Rented,4,4,0
+Female,No,No,401983,Pensioner,Graduate,Married,House,4,4,0
+Male,No,No,252763,Commercial Associate,Secondary,Divorced,House,5,2,0
+Male,No,No,618077,Commercial Associate,Post Graduate,Single,Rented,6,4,0
+Male,No,No,817865,Working,Post Graduate,Single,House,3,0,1
+Male,Yes,No,582236,Working,Graduate,Divorced,House,2,5,0
+Female,Yes,Yes,513562,Working,Post Graduate,Single,House,5,3,0
+Female,Yes,No,182480,Commercial Associate,Graduate,Single,Apartment,3,4,0
+Female,Yes,No,253949,Commercial Associate,Secondary,Divorced,Rented,4,4,0
+Male,Yes,Yes,137493,Commercial Associate,Secondary,Married,Apartment,6,1,0
+Female,No,Yes,561140,Working,Post Graduate,Divorced,Apartment,3,4,0
+Female,No,Yes,624485,Pensioner,Secondary,Married,House,6,3,0
+Male,No,No,897981,Working,Post Graduate,Single,House,2,2,1
+Male,Yes,No,666271,Pensioner,Secondary,Divorced,Rented,5,5,0
+Male,No,No,739995,Working,Graduate,Married,Rented,2,1,1
+Male,No,Yes,633246,Working,Secondary,Married,House,4,3,0
+Female,Yes,Yes,401666,Working,Secondary,Married,House,3,0,1
+Male,No,Yes,542982,Commercial Associate,Post Graduate,Divorced,Rented,4,5,0
+Male,Yes,Yes,312089,Pensioner,Graduate,Divorced,House,1,0,1
+Female,No,No,495676,Working,Post Graduate,Married,Rented,2,5,0
+Male,Yes,No,632153,Commercial Associate,Secondary,Married,Apartment,1,1,1
+Male,No,No,185475,Pensioner,Graduate,Single,Apartment,1,1,0
+Male,No,Yes,219709,Pensioner,Post Graduate,Single,Apartment,4,2,0
+Male,Yes,Yes,456862,Commercial Associate,Post Graduate,Divorced,Apartment,5,0,0
+Male,Yes,Yes,575696,Working,Post Graduate,Divorced,Rented,4,5,0
+Female,No,Yes,161715,Commercial Associate,Graduate,Divorced,House,2,3,0
+Male,Yes,Yes,901188,Pensioner,Graduate,Single,House,1,1,1
+Male,Yes,No,746334,Pensioner,Post Graduate,Divorced,Rented,3,5,0
+Male,No,Yes,290166,Working,Secondary,Married,Apartment,3,0,1
+Male,Yes,Yes,597090,Working,Post Graduate,Divorced,House,6,2,0
+Female,Yes,Yes,783284,Working,Graduate,Single,Rented,3,0,1
+Female,Yes,No,755991,Commercial Associate,Post Graduate,Married,Apartment,4,2,1
+Female,Yes,Yes,437509,Pensioner,Graduate,Married,Apartment,5,0,0
+Male,No,Yes,580736,Working,Post Graduate,Single,Apartment,2,4,0
+Male,No,No,409271,Pensioner,Graduate,Divorced,Apartment,2,4,0
+Female,Yes,Yes,289445,Commercial Associate,Secondary,Single,House,3,0,1
+Female,No,Yes,676742,Commercial Associate,Post Graduate,Married,Apartment,6,1,0
+Male,No,Yes,884809,Pensioner,Post Graduate,Divorced,Apartment,4,3,0
+Male,No,Yes,946100,Working,Post Graduate,Single,House,5,5,0
+Male,Yes,Yes,899981,Working,Post Graduate,Married,Rented,3,1,1
+Male,Yes,Yes,734953,Working,Post Graduate,Married,Rented,6,3,0
+Female,Yes,Yes,797595,Working,Post Graduate,Divorced,Apartment,3,2,1
+Female,Yes,No,590080,Pensioner,Graduate,Married,House,1,5,0
+Female,No,Yes,531454,Commercial Associate,Secondary,Single,Rented,6,1,0
+Male,No,No,87551,Pensioner,Graduate,Married,House,3,2,0
+Male,Yes,Yes,879372,Working,Graduate,Single,Rented,5,4,0
+Female,No,Yes,987844,Commercial Associate,Graduate,Single,Apartment,5,4,0
+Male,No,Yes,142803,Working,Graduate,Married,Apartment,2,1,0
+Male,Yes,Yes,678325,Commercial Associate,Graduate,Single,Apartment,3,5,0
+Female,Yes,Yes,511990,Working,Secondary,Married,Apartment,3,1,1
+Female,No,No,854580,Pensioner,Secondary,Married,House,5,5,0
+Male,Yes,Yes,918174,Commercial Associate,Post Graduate,Married,Apartment,4,4,0
+Male,Yes,Yes,423447,Working,Graduate,Divorced,Rented,4,2,1
+Male,Yes,Yes,939115,Working,Graduate,Divorced,House,1,5,0
+Female,No,No,444545,Working,Post Graduate,Divorced,Rented,5,3,0
+Female,Yes,Yes,221355,Working,Post Graduate,Divorced,Apartment,4,1,0
+Male,No,Yes,188869,Commercial Associate,Secondary,Single,Rented,3,4,0
+Male,Yes,No,336962,Pensioner,Post Graduate,Married,House,5,3,0
+Male,Yes,No,231013,Pensioner,Graduate,Divorced,Rented,3,1,0
+Female,Yes,Yes,316420,Commercial Associate,Graduate,Single,Apartment,3,4,0
+Male,Yes,Yes,78761,Commercial Associate,Post Graduate,Married,House,1,1,0
+Male,Yes,No,119173,Working,Secondary,Divorced,Apartment,1,0,0
+Female,No,Yes,953641,Commercial Associate,Post Graduate,Divorced,Apartment,5,3,0
+Female,Yes,Yes,995446,Working,Secondary,Married,House,3,3,0
+Female,Yes,Yes,557241,Pensioner,Post Graduate,Single,House,3,2,1
+Female,Yes,No,583773,Pensioner,Graduate,Married,House,6,2,0
+Male,No,Yes,790525,Pensioner,Graduate,Married,Apartment,1,0,1
+Male,No,No,431048,Commercial Associate,Secondary,Married,Apartment,4,1,1
+Female,Yes,Yes,219609,Working,Graduate,Divorced,Apartment,6,4,0
+Male,Yes,No,962471,Commercial Associate,Post Graduate,Divorced,Rented,1,2,1
+Male,Yes,No,741205,Pensioner,Post Graduate,Married,House,6,3,0
+Male,Yes,No,555073,Working,Secondary,Divorced,House,4,2,1
+Female,No,No,648970,Working,Post Graduate,Married,Apartment,6,2,0
+Female,No,Yes,327385,Pensioner,Graduate,Single,Apartment,5,0,0
+Female,No,Yes,196756,Commercial Associate,Secondary,Single,House,6,1,0
+Female,No,No,742842,Commercial Associate,Graduate,Married,Apartment,1,0,1
+Female,Yes,No,777637,Pensioner,Secondary,Single,House,4,1,1
+Female,No,Yes,956334,Commercial Associate,Secondary,Divorced,House,6,3,0
+Male,No,No,123030,Pensioner,Post Graduate,Married,Rented,3,3,0
+Female,Yes,Yes,855731,Commercial Associate,Graduate,Married,Rented,3,1,1
+Female,Yes,No,125374,Pensioner,Secondary,Divorced,Apartment,1,3,0
+Female,No,Yes,127037,Pensioner,Secondary,Married,Apartment,4,0,0
+Female,Yes,Yes,828085,Commercial Associate,Post Graduate,Single,Rented,1,1,1
+Male,No,No,418140,Commercial Associate,Graduate,Married,Apartment,1,1,1
+Male,No,Yes,313482,Pensioner,Secondary,Divorced,House,3,3,0
+Female,Yes,No,949209,Commercial Associate,Graduate,Single,Rented,6,3,0
+Female,Yes,No,847504,Working,Graduate,Married,Apartment,3,0,1
+Male,No,No,283277,Working,Secondary,Single,House,5,0,0
+Male,No,No,77712,Pensioner,Graduate,Married,Rented,5,1,0
+Male,Yes,No,430707,Pensioner,Secondary,Single,Apartment,2,1,1
+Male,No,Yes,128441,Commercial Associate,Secondary,Divorced,House,3,3,0
+Female,No,No,513297,Working,Post Graduate,Divorced,House,3,3,0
+Male,No,No,345157,Commercial Associate,Secondary,Single,Apartment,6,2,0
+Female,Yes,No,836202,Working,Graduate,Single,House,1,3,0
+Male,No,No,147659,Working,Graduate,Single,Rented,3,0,0
+Male,Yes,No,240688,Commercial Associate,Post Graduate,Divorced,Apartment,4,5,0
+Female,Yes,Yes,677551,Working,Secondary,Married,House,2,3,0
+Female,Yes,No,924336,Working,Secondary,Married,Apartment,6,1,0
+Male,Yes,No,780014,Working,Secondary,Married,Rented,5,0,0
+Male,No,Yes,393152,Commercial Associate,Secondary,Married,Apartment,3,1,1
+Male,No,No,98220,Working,Graduate,Married,Rented,6,5,0
+Male,Yes,No,637676,Commercial Associate,Post Graduate,Divorced,Apartment,4,1,1
+Male,Yes,No,788850,Pensioner,Post Graduate,Married,Rented,1,3,0
+Male,No,Yes,53431,Commercial Associate,Post Graduate,Single,House,1,3,0
+Female,No,Yes,539865,Working,Graduate,Single,Apartment,3,4,0
+Female,No,Yes,107966,Commercial Associate,Secondary,Divorced,Apartment,5,3,0
+Male,No,Yes,918992,Working,Graduate,Married,Rented,3,0,1
+Female,Yes,No,525166,Commercial Associate,Post Graduate,Single,Rented,6,3,0
+Male,No,Yes,718784,Working,Post Graduate,Single,House,3,5,0
+Female,Yes,No,332842,Working,Graduate,Single,House,1,5,0
+Male,Yes,Yes,501705,Working,Graduate,Divorced,House,3,2,1
+Male,Yes,No,69999,Working,Graduate,Married,Apartment,1,4,0
+Male,No,Yes,619666,Working,Graduate,Single,House,2,2,1
+Male,Yes,Yes,613909,Pensioner,Post Graduate,Single,Apartment,6,2,0
+Male,Yes,Yes,734376,Pensioner,Post Graduate,Divorced,Apartment,3,3,0
+Female,Yes,Yes,95587,Pensioner,Post Graduate,Single,House,6,2,0
+Female,No,No,777059,Commercial Associate,Secondary,Single,Apartment,1,4,0
+Female,No,No,67918,Pensioner,Post Graduate,Married,House,2,2,0
+Female,No,Yes,389060,Commercial Associate,Post Graduate,Single,House,5,5,0
+Male,No,Yes,647220,Working,Post Graduate,Divorced,House,6,1,0
+Male,No,Yes,464668,Pensioner,Post Graduate,Divorced,House,5,3,0
+Male,No,No,849313,Working,Graduate,Single,Apartment,1,5,0
+Male,Yes,No,191942,Working,Secondary,Divorced,Apartment,4,2,0
+Male,No,No,949277,Commercial Associate,Secondary,Single,Rented,3,2,1
+Male,No,No,292751,Working,Secondary,Single,House,4,3,0
+Female,No,Yes,504792,Pensioner,Graduate,Single,Apartment,4,1,1
+Female,Yes,No,345464,Commercial Associate,Graduate,Single,Rented,4,3,0
+Female,Yes,No,336172,Commercial Associate,Graduate,Married,Apartment,3,5,0
+Male,Yes,No,135858,Working,Secondary,Single,House,4,3,0
+Male,Yes,No,316998,Pensioner,Graduate,Divorced,Apartment,1,2,1
+Male,No,Yes,807379,Pensioner,Post Graduate,Married,Rented,4,1,1
+Male,Yes,Yes,688068,Working,Secondary,Married,House,4,2,1
+Male,No,No,144459,Working,Graduate,Single,Rented,4,0,0
+Male,Yes,No,445980,Working,Graduate,Divorced,Rented,6,3,0
+Male,Yes,No,957753,Working,Secondary,Married,House,2,5,0
+Female,No,No,486114,Pensioner,Graduate,Divorced,Apartment,5,2,0
+Female,No,No,478656,Commercial Associate,Graduate,Married,Rented,2,3,0
+Male,Yes,Yes,131291,Working,Post Graduate,Married,House,2,5,0
+Female,No,Yes,670417,Pensioner,Post Graduate,Single,Apartment,3,2,1
+Male,No,Yes,674403,Working,Post Graduate,Single,House,6,1,0
+Male,No,Yes,80776,Pensioner,Secondary,Divorced,Apartment,1,1,0
+Male,Yes,Yes,263561,Pensioner,Post Graduate,Married,Apartment,4,2,1
+Female,No,Yes,913344,Commercial Associate,Graduate,Married,Apartment,2,4,0
+Female,Yes,Yes,100159,Pensioner,Graduate,Single,Apartment,4,2,0
+Male,Yes,No,555053,Pensioner,Post Graduate,Divorced,House,1,0,1
+Male,Yes,Yes,742919,Pensioner,Post Graduate,Married,House,2,4,0
+Male,Yes,No,447483,Working,Secondary,Married,Apartment,5,4,0
+Female,Yes,Yes,463274,Working,Secondary,Married,Rented,4,4,0
+Female,Yes,No,960264,Commercial Associate,Graduate,Married,House,3,2,1
+Male,No,Yes,699126,Pensioner,Graduate,Married,House,1,5,0
+Female,Yes,No,120438,Pensioner,Secondary,Married,House,3,0,0
+Female,Yes,No,732247,Commercial Associate,Secondary,Single,House,3,2,1
+Female,Yes,Yes,247205,Commercial Associate,Graduate,Single,Rented,5,4,0
+Male,No,Yes,897036,Pensioner,Graduate,Married,Rented,4,4,0
+Female,Yes,No,637633,Working,Secondary,Married,House,5,5,0
+Male,No,No,180003,Commercial Associate,Secondary,Single,House,6,5,0
+Female,Yes,No,980848,Pensioner,Graduate,Single,Rented,3,5,0
+Female,Yes,Yes,727676,Working,Post Graduate,Divorced,Rented,2,4,0
+Male,Yes,Yes,434988,Working,Post Graduate,Married,Rented,3,0,1
+Female,No,No,111843,Pensioner,Secondary,Married,Apartment,1,1,0
+Male,Yes,Yes,868785,Commercial Associate,Graduate,Single,House,2,1,1
+Male,Yes,No,141156,Working,Post Graduate,Divorced,Apartment,4,2,0
+Female,Yes,No,130682,Pensioner,Post Graduate,Single,Apartment,1,5,0
+Female,Yes,No,283325,Working,Post Graduate,Divorced,Rented,5,4,0
+Female,No,Yes,350088,Working,Graduate,Single,House,6,1,0
+Male,Yes,Yes,758092,Pensioner,Secondary,Single,Apartment,3,1,1
+Female,No,Yes,202732,Working,Secondary,Married,Rented,6,4,0
+Female,No,Yes,614395,Working,Post Graduate,Married,House,3,3,0
+Male,No,Yes,463957,Commercial Associate,Graduate,Married,Apartment,1,5,0
+Male,Yes,Yes,483462,Pensioner,Post Graduate,Single,Rented,5,2,0
+Male,Yes,Yes,526191,Commercial Associate,Graduate,Single,House,4,0,1
+Male,Yes,Yes,554112,Pensioner,Graduate,Divorced,Rented,3,2,1
+Male,No,No,961805,Working,Secondary,Single,Rented,2,1,1
+Male,Yes,Yes,873388,Commercial Associate,Post Graduate,Married,Rented,6,0,0
+Male,No,Yes,913309,Pensioner,Graduate,Single,Rented,4,3,0
+Male,Yes,Yes,711823,Pensioner,Graduate,Single,House,1,2,1
+Male,Yes,Yes,971496,Working,Post Graduate,Married,Rented,6,2,0
+Male,No,Yes,702776,Commercial Associate,Graduate,Divorced,House,5,1,0
+Male,No,No,231419,Working,Graduate,Single,House,6,0,0
+Female,No,Yes,417437,Pensioner,Graduate,Single,House,2,1,1
+Male,No,Yes,67768,Pensioner,Secondary,Divorced,Rented,1,3,0
+Male,No,No,116353,Working,Secondary,Married,House,2,4,0
+Female,Yes,Yes,463180,Commercial Associate,Graduate,Divorced,House,5,1,0
+Female,Yes,Yes,541187,Working,Post Graduate,Divorced,Rented,2,3,0
+Male,Yes,Yes,608335,Working,Graduate,Married,Apartment,4,0,1
+Female,No,Yes,320626,Working,Secondary,Divorced,Rented,4,5,0
+Female,Yes,Yes,644747,Commercial Associate,Secondary,Single,House,4,3,0
+Female,No,Yes,134862,Pensioner,Post Graduate,Divorced,Rented,3,2,0
+Female,Yes,No,552292,Pensioner,Graduate,Married,Rented,5,5,0
+Female,No,Yes,560408,Commercial Associate,Secondary,Single,Rented,1,1,1
+Male,No,No,848868,Working,Secondary,Divorced,House,1,5,0
+Male,Yes,No,936101,Pensioner,Post Graduate,Married,Apartment,3,2,1
+Female,No,Yes,663592,Working,Post Graduate,Divorced,Apartment,1,5,0
+Male,No,No,715097,Pensioner,Secondary,Married,House,1,1,1
+Male,No,No,585183,Working,Post Graduate,Married,Apartment,1,3,0
+Male,No,No,663633,Commercial Associate,Post Graduate,Married,Apartment,6,3,0
+Female,Yes,No,692797,Commercial Associate,Graduate,Married,Apartment,1,2,1
+Female,Yes,No,274114,Pensioner,Post Graduate,Single,Rented,3,5,0
+Female,Yes,Yes,548491,Pensioner,Secondary,Married,Rented,1,1,1
+Female,No,No,180822,Pensioner,Secondary,Married,Apartment,6,0,0
+Female,No,Yes,899932,Working,Secondary,Single,Rented,3,1,1
+Male,Yes,No,558345,Commercial Associate,Post Graduate,Divorced,Rented,4,4,0
+Male,Yes,Yes,927580,Working,Graduate,Single,Apartment,4,5,0
+Male,No,Yes,191063,Working,Secondary,Divorced,Apartment,1,5,0
+Male,Yes,Yes,942073,Working,Graduate,Single,House,2,4,0
+Female,No,Yes,622916,Pensioner,Post Graduate,Single,House,6,3,0
+Female,Yes,Yes,422239,Pensioner,Secondary,Single,Rented,5,0,0
+Male,No,Yes,342643,Working,Post Graduate,Married,Rented,1,3,0
+Male,Yes,Yes,363087,Pensioner,Post Graduate,Divorced,Apartment,6,5,0
+Female,Yes,No,180278,Pensioner,Secondary,Divorced,House,3,0,0
+Female,No,Yes,902910,Working,Secondary,Married,House,2,4,0
+Male,Yes,Yes,206102,Working,Graduate,Divorced,Apartment,3,2,0
+Female,Yes,Yes,278769,Working,Post Graduate,Married,House,4,2,1
+Male,Yes,No,81341,Pensioner,Graduate,Divorced,Rented,5,5,0
+Female,Yes,Yes,579724,Commercial Associate,Graduate,Divorced,Rented,4,5,0
+Male,No,No,698481,Commercial Associate,Post Graduate,Married,Rented,1,2,1
+Male,Yes,Yes,415401,Working,Secondary,Married,Apartment,4,4,0
+Female,No,Yes,290692,Pensioner,Secondary,Married,Apartment,5,0,0
+Female,No,Yes,415976,Pensioner,Post Graduate,Divorced,House,1,5,0
+Male,Yes,Yes,673728,Commercial Associate,Graduate,Married,Apartment,3,0,1
+Female,Yes,Yes,531863,Commercial Associate,Graduate,Single,Rented,4,4,0
+Male,Yes,Yes,954431,Pensioner,Secondary,Divorced,Apartment,5,4,0
+Male,Yes,Yes,556584,Commercial Associate,Graduate,Single,Rented,1,0,1
+Female,Yes,Yes,80901,Working,Secondary,Single,Apartment,5,0,0
+Male,Yes,Yes,182332,Pensioner,Post Graduate,Married,Rented,4,3,0
+Female,Yes,No,738033,Pensioner,Secondary,Divorced,Rented,2,1,1
+Male,Yes,Yes,877723,Working,Secondary,Married,Rented,4,5,0
+Male,No,No,199413,Commercial Associate,Post Graduate,Divorced,Rented,2,0,0
+Female,Yes,No,648154,Working,Graduate,Divorced,House,5,0,0
+Male,Yes,Yes,862393,Commercial Associate,Secondary,Divorced,House,4,1,1
+Female,No,No,469810,Working,Graduate,Single,Apartment,6,1,0
+Female,Yes,No,940394,Commercial Associate,Secondary,Divorced,Rented,5,2,0
+Male,No,No,585729,Commercial Associate,Secondary,Married,Apartment,4,0,1
+Male,Yes,Yes,545218,Commercial Associate,Secondary,Divorced,Rented,4,0,1
+Female,Yes,Yes,290657,Commercial Associate,Secondary,Single,House,2,2,1
+Male,No,No,820060,Working,Post Graduate,Divorced,Apartment,4,0,1
+Male,Yes,Yes,555394,Pensioner,Secondary,Single,House,2,0,1
+Male,No,Yes,345697,Working,Post Graduate,Married,House,1,0,1
+Male,Yes,No,780403,Working,Secondary,Married,House,4,0,1
+Male,No,No,535776,Pensioner,Post Graduate,Divorced,House,3,0,1
+Female,No,Yes,355152,Pensioner,Post Graduate,Single,House,2,1,1
+Male,Yes,No,434666,Working,Graduate,Divorced,Rented,5,3,0
+Female,Yes,Yes,361503,Commercial Associate,Graduate,Married,Rented,1,2,1
+Female,Yes,Yes,661667,Commercial Associate,Secondary,Married,House,3,4,0
+Male,Yes,No,215850,Working,Post Graduate,Married,Apartment,3,4,0
+Male,Yes,Yes,136168,Pensioner,Post Graduate,Divorced,Rented,1,1,0
+Female,No,Yes,180236,Working,Post Graduate,Divorced,Rented,2,0,0
+Male,No,No,699099,Pensioner,Graduate,Divorced,House,5,5,0
+Male,No,Yes,653562,Commercial Associate,Secondary,Single,Apartment,1,2,1
+Male,Yes,No,700061,Commercial Associate,Secondary,Divorced,Apartment,3,2,1
+Female,Yes,No,190571,Working,Graduate,Single,Rented,5,2,0
+Female,No,Yes,946620,Working,Secondary,Single,Apartment,6,2,0
+Female,No,No,567965,Commercial Associate,Post Graduate,Divorced,Apartment,2,4,0
+Male,No,Yes,805602,Commercial Associate,Secondary,Single,House,6,5,0
+Male,Yes,Yes,267178,Pensioner,Post Graduate,Single,Rented,2,1,1
+Male,No,No,854849,Commercial Associate,Graduate,Single,House,6,1,0
+Male,Yes,Yes,635642,Commercial Associate,Secondary,Single,Apartment,1,4,0
+Male,Yes,Yes,777864,Pensioner,Post Graduate,Married,House,1,2,1
+Male,No,Yes,692426,Commercial Associate,Post Graduate,Single,Apartment,6,0,0
+Female,Yes,No,613159,Pensioner,Post Graduate,Divorced,House,2,5,0
+Male,Yes,Yes,755647,Commercial Associate,Post Graduate,Single,Apartment,4,4,0
+Male,No,No,327248,Working,Secondary,Divorced,Rented,4,2,1
+Female,No,No,873735,Pensioner,Graduate,Divorced,Rented,2,5,0
+Male,No,No,523127,Working,Secondary,Single,Apartment,6,1,0
+Male,Yes,No,541532,Pensioner,Post Graduate,Divorced,Apartment,6,3,0
+Male,Yes,No,530267,Commercial Associate,Post Graduate,Divorced,Apartment,5,3,0
+Female,Yes,No,161653,Working,Graduate,Married,Rented,1,3,0
+Female,No,No,887298,Working,Post Graduate,Divorced,Apartment,5,1,0
+Female,Yes,No,332599,Commercial Associate,Graduate,Single,Rented,4,2,1
+Female,Yes,No,978509,Pensioner,Secondary,Married,Rented,3,0,1
+Male,No,Yes,589267,Pensioner,Graduate,Divorced,Rented,3,1,1
+Female,No,Yes,432902,Pensioner,Graduate,Single,House,5,0,0
+Male,No,No,904102,Commercial Associate,Post Graduate,Married,House,3,3,0
+Male,Yes,Yes,656919,Working,Post Graduate,Single,Rented,6,1,0
+Male,Yes,Yes,538185,Working,Graduate,Single,Apartment,2,3,0
+Male,Yes,No,481802,Pensioner,Post Graduate,Married,Rented,1,4,0
+Male,Yes,Yes,335563,Working,Graduate,Single,Rented,6,4,0
+Male,No,Yes,430951,Working,Graduate,Married,Rented,5,3,0
+Male,Yes,Yes,531407,Pensioner,Graduate,Married,Apartment,3,2,1
+Female,No,Yes,77215,Working,Post Graduate,Divorced,Apartment,6,0,0
+Female,No,Yes,102931,Working,Post Graduate,Divorced,Rented,4,3,0
+Male,Yes,Yes,313485,Commercial Associate,Post Graduate,Divorced,Rented,2,4,0
+Female,No,No,988364,Working,Graduate,Married,Apartment,6,2,0
+Female,No,No,531984,Commercial Associate,Secondary,Single,Apartment,3,3,0
+Male,No,Yes,257135,Pensioner,Graduate,Married,House,4,5,0
+Male,Yes,Yes,285562,Commercial Associate,Graduate,Single,Apartment,2,5,0
+Male,Yes,No,912344,Working,Graduate,Divorced,Apartment,6,0,0
+Female,Yes,No,486285,Commercial Associate,Post Graduate,Divorced,Rented,6,5,0
+Female,Yes,Yes,833078,Commercial Associate,Graduate,Single,House,1,1,1
+Male,Yes,Yes,758589,Working,Post Graduate,Married,Apartment,5,0,0
+Female,Yes,No,827872,Commercial Associate,Post Graduate,Single,House,6,4,0
+Female,No,No,494815,Pensioner,Graduate,Divorced,House,2,2,1
+Female,No,Yes,961065,Working,Secondary,Divorced,Apartment,6,5,0
+Female,Yes,Yes,756649,Pensioner,Post Graduate,Single,Apartment,3,3,0
+Male,No,Yes,884668,Pensioner,Secondary,Divorced,Apartment,6,3,0
+Male,Yes,No,636862,Working,Graduate,Divorced,House,4,5,0
+Male,Yes,Yes,854332,Working,Secondary,Divorced,House,1,2,1
+Female,Yes,Yes,912434,Commercial Associate,Graduate,Married,Apartment,4,4,0
+Female,No,Yes,426272,Working,Graduate,Single,House,1,0,1
+Male,No,Yes,899812,Working,Secondary,Single,House,5,0,0
+Male,Yes,No,488658,Working,Graduate,Married,Rented,5,3,0
+Male,Yes,No,179856,Commercial Associate,Post Graduate,Divorced,House,5,1,0
+Female,No,Yes,97972,Commercial Associate,Graduate,Married,Rented,5,0,0
+Male,Yes,Yes,563328,Commercial Associate,Graduate,Single,Rented,4,4,0
+Female,No,Yes,734598,Pensioner,Secondary,Married,Apartment,4,4,0
+Female,No,No,551053,Commercial Associate,Graduate,Divorced,Apartment,2,4,0
+Male,No,No,269890,Commercial Associate,Graduate,Divorced,Apartment,3,4,0
+Female,No,Yes,827354,Working,Graduate,Single,House,3,5,0
+Male,No,No,436505,Commercial Associate,Graduate,Single,Rented,1,2,1
+Female,No,Yes,582483,Working,Secondary,Married,Rented,6,4,0
+Male,Yes,No,366850,Pensioner,Secondary,Single,Apartment,5,5,0
+Female,Yes,No,395406,Pensioner,Post Graduate,Married,Apartment,5,5,0
+Male,Yes,No,411104,Pensioner,Graduate,Single,Rented,3,4,0
+Male,Yes,No,409418,Working,Graduate,Married,Rented,1,2,1
+Female,No,No,61690,Pensioner,Post Graduate,Married,Rented,4,2,0
+Male,Yes,No,572094,Pensioner,Secondary,Single,House,2,0,1
+Male,No,No,606504,Pensioner,Graduate,Single,Rented,1,2,1
+Female,No,Yes,976544,Commercial Associate,Secondary,Single,House,3,2,1
+Male,No,No,815184,Pensioner,Graduate,Single,Rented,1,1,1
+Female,No,No,159201,Commercial Associate,Secondary,Single,Rented,2,4,0
+Male,No,No,51303,Commercial Associate,Secondary,Divorced,Rented,6,2,0
+Male,Yes,Yes,952749,Commercial Associate,Post Graduate,Married,Apartment,4,4,0
+Female,No,No,502362,Pensioner,Secondary,Divorced,Apartment,4,3,0
+Male,No,No,712246,Pensioner,Secondary,Single,House,3,5,0
+Male,No,No,782440,Commercial Associate,Graduate,Married,House,1,3,0
+Male,No,Yes,599184,Working,Graduate,Single,House,6,1,0
+Female,No,Yes,319356,Working,Secondary,Divorced,House,3,5,0
+Female,No,Yes,223961,Working,Graduate,Divorced,House,6,4,0
+Male,Yes,Yes,110509,Commercial Associate,Post Graduate,Divorced,Apartment,5,4,0
+Female,No,No,735341,Commercial Associate,Post Graduate,Married,Apartment,1,1,1
+Female,Yes,No,962822,Working,Graduate,Married,House,5,2,0
+Female,Yes,Yes,914604,Pensioner,Graduate,Single,Rented,5,4,0
+Male,No,No,417961,Pensioner,Post Graduate,Single,House,1,4,0
+Male,No,No,778351,Pensioner,Post Graduate,Married,House,1,3,0
+Male,No,Yes,681835,Pensioner,Graduate,Married,Apartment,3,5,0
+Male,No,No,120137,Commercial Associate,Graduate,Single,House,4,1,0
+Male,No,No,829211,Working,Post Graduate,Divorced,Apartment,3,3,0
+Female,Yes,Yes,733837,Pensioner,Secondary,Divorced,Rented,5,0,0
+Female,Yes,Yes,732621,Commercial Associate,Graduate,Divorced,House,2,0,1
+Male,Yes,No,570794,Working,Post Graduate,Divorced,Apartment,4,0,1
+Male,Yes,Yes,295615,Commercial Associate,Secondary,Single,Apartment,1,1,1
+Female,Yes,Yes,829625,Commercial Associate,Secondary,Divorced,Rented,1,5,0
+Male,Yes,No,887246,Commercial Associate,Secondary,Divorced,House,3,3,0
+Female,No,Yes,776737,Working,Secondary,Married,Rented,3,3,0
+Male,No,Yes,379139,Pensioner,Post Graduate,Single,Apartment,5,1,0
+Female,Yes,No,985375,Commercial Associate,Graduate,Married,House,1,1,1
+Female,No,Yes,480289,Pensioner,Secondary,Single,Rented,2,1,1
+Female,No,No,624371,Commercial Associate,Secondary,Divorced,Rented,2,5,0
+Female,Yes,Yes,762199,Pensioner,Post Graduate,Divorced,Rented,2,5,0
+Male,Yes,Yes,132188,Working,Post Graduate,Divorced,House,4,3,0
+Male,Yes,Yes,164521,Pensioner,Secondary,Single,Rented,3,0,0
+Male,Yes,No,439411,Working,Secondary,Divorced,House,6,2,0
+Female,No,No,123797,Working,Graduate,Single,Apartment,4,0,0
+Male,Yes,Yes,337747,Pensioner,Secondary,Married,Apartment,2,4,0
+Female,Yes,No,379031,Commercial Associate,Secondary,Married,House,3,1,1
+Male,Yes,Yes,474420,Commercial Associate,Secondary,Single,Apartment,2,3,0
+Female,Yes,Yes,993553,Commercial Associate,Post Graduate,Married,Rented,6,1,0
+Male,No,No,150289,Working,Post Graduate,Single,Apartment,5,0,0
+Female,No,No,381039,Commercial Associate,Post Graduate,Single,Apartment,2,5,0
+Female,Yes,No,385545,Pensioner,Secondary,Divorced,Rented,6,0,0
+Male,No,Yes,111056,Commercial Associate,Secondary,Divorced,Rented,6,0,0
+Female,Yes,No,169462,Working,Graduate,Married,Rented,3,5,0
+Female,No,No,943136,Working,Graduate,Divorced,House,5,0,0
+Male,Yes,Yes,517629,Commercial Associate,Secondary,Married,Rented,1,4,0
+Female,Yes,Yes,635245,Commercial Associate,Graduate,Single,House,4,5,0
+Male,Yes,Yes,686488,Commercial Associate,Secondary,Single,Rented,1,3,0
+Female,Yes,Yes,736360,Working,Graduate,Single,House,1,0,1
+Female,No,No,121865,Commercial Associate,Graduate,Married,Rented,4,5,0
+Male,Yes,Yes,220493,Commercial Associate,Post Graduate,Divorced,House,4,3,0
+Female,Yes,No,282251,Pensioner,Graduate,Divorced,Apartment,4,5,0
+Male,Yes,Yes,701923,Commercial Associate,Post Graduate,Single,House,4,0,1
+Male,Yes,Yes,164676,Pensioner,Secondary,Divorced,House,5,4,0
+Male,Yes,No,96974,Pensioner,Post Graduate,Single,Apartment,6,3,0
+Male,No,Yes,635677,Working,Secondary,Married,Rented,1,2,1
+Male,Yes,Yes,53594,Working,Post Graduate,Single,Rented,4,0,0
+Male,No,Yes,547462,Pensioner,Secondary,Married,House,1,3,0
+Female,No,No,414435,Pensioner,Secondary,Single,House,2,4,0
+Male,Yes,No,105037,Pensioner,Graduate,Married,House,2,0,0
+Male,No,Yes,97561,Commercial Associate,Graduate,Single,Apartment,3,5,0
+Female,No,No,747806,Pensioner,Graduate,Single,Apartment,1,1,1
+Male,Yes,No,689301,Pensioner,Secondary,Divorced,House,6,4,0
+Male,No,No,475970,Working,Secondary,Single,Apartment,4,2,1
+Male,Yes,Yes,900152,Working,Post Graduate,Single,Apartment,1,1,1
+Male,No,No,249343,Working,Post Graduate,Divorced,House,5,3,0
+Male,No,Yes,907974,Pensioner,Post Graduate,Single,House,3,0,1
+Male,No,No,778696,Commercial Associate,Post Graduate,Single,Apartment,5,2,0
+Female,Yes,Yes,499711,Pensioner,Post Graduate,Married,Apartment,6,4,0
+Male,Yes,No,118558,Pensioner,Post Graduate,Married,Apartment,6,3,0
+Male,Yes,No,399032,Pensioner,Post Graduate,Divorced,Apartment,2,3,0
+Male,No,No,640804,Working,Graduate,Single,House,6,0,0
+Male,Yes,No,771495,Pensioner,Secondary,Divorced,Rented,3,1,1
+Female,No,No,191252,Commercial Associate,Post Graduate,Single,Rented,5,4,0
+Female,Yes,No,154279,Working,Post Graduate,Married,House,5,4,0
+Female,No,No,238693,Commercial Associate,Graduate,Divorced,Apartment,4,2,0
+Female,Yes,No,927991,Pensioner,Graduate,Divorced,Apartment,6,0,0
+Male,Yes,Yes,158720,Pensioner,Graduate,Single,House,1,2,0
+Female,Yes,Yes,289493,Commercial Associate,Graduate,Married,House,3,4,0
+Male,No,Yes,437896,Working,Secondary,Married,House,1,2,1
+Female,No,No,82802,Commercial Associate,Graduate,Married,House,3,2,0
+Male,No,Yes,872615,Commercial Associate,Graduate,Single,Rented,5,2,0
+Male,No,No,661665,Pensioner,Secondary,Single,House,2,0,1
+Female,No,No,201898,Working,Graduate,Single,House,3,3,0
+Female,No,Yes,967181,Working,Post Graduate,Married,Apartment,4,5,0
+Male,Yes,Yes,497271,Pensioner,Post Graduate,Married,Apartment,3,1,1
+Male,Yes,No,175813,Pensioner,Secondary,Married,Apartment,1,1,0
+Female,No,Yes,600924,Pensioner,Post Graduate,Divorced,House,2,4,0
+Male,Yes,No,824162,Pensioner,Secondary,Divorced,House,6,0,0
+Male,No,No,485487,Pensioner,Secondary,Single,House,4,2,1
+Female,No,Yes,384254,Commercial Associate,Secondary,Single,Apartment,2,4,0
+Male,Yes,No,550293,Pensioner,Secondary,Divorced,House,2,4,0
+Male,No,Yes,852744,Working,Secondary,Divorced,House,2,2,1
+Female,Yes,Yes,50205,Commercial Associate,Secondary,Married,Apartment,5,4,0
+Male,No,No,730612,Pensioner,Graduate,Single,House,3,2,1
+Female,No,No,903470,Working,Secondary,Married,Rented,1,4,0
+Female,No,No,54825,Working,Post Graduate,Divorced,House,6,3,0
+Male,No,No,907129,Commercial Associate,Secondary,Divorced,Apartment,4,1,1
+Male,No,No,970340,Commercial Associate,Secondary,Single,House,5,1,0
+Female,No,Yes,824657,Commercial Associate,Secondary,Divorced,House,6,4,0
+Male,No,Yes,256343,Commercial Associate,Post Graduate,Single,House,2,0,1
+Male,Yes,No,621932,Commercial Associate,Secondary,Divorced,House,4,0,1
+Male,No,Yes,495174,Pensioner,Secondary,Divorced,House,1,2,1
+Female,No,No,205129,Pensioner,Post Graduate,Divorced,House,5,0,0
+Female,Yes,Yes,201899,Pensioner,Graduate,Single,Rented,5,2,0
+Female,Yes,No,442624,Commercial Associate,Secondary,Divorced,Apartment,4,3,0
+Female,No,No,141146,Commercial Associate,Graduate,Divorced,Rented,3,0,0
+Female,Yes,Yes,327729,Commercial Associate,Secondary,Single,Rented,6,1,0
+Female,Yes,Yes,716419,Commercial Associate,Graduate,Divorced,House,1,5,0
+Male,Yes,Yes,718658,Pensioner,Graduate,Single,Rented,6,4,0
+Female,No,No,511727,Pensioner,Secondary,Married,House,2,4,0
+Female,No,Yes,829412,Working,Post Graduate,Single,House,4,5,0
+Male,No,Yes,503906,Working,Post Graduate,Single,Apartment,4,1,1
+Female,Yes,Yes,908103,Pensioner,Secondary,Divorced,House,4,0,1
+Female,Yes,No,291452,Working,Post Graduate,Single,Rented,3,3,0
+Female,No,No,749589,Pensioner,Secondary,Single,Rented,4,3,0
+Female,Yes,No,905941,Pensioner,Graduate,Married,House,1,5,0
+Male,No,No,822491,Pensioner,Secondary,Single,House,3,2,1
+Male,Yes,Yes,923651,Commercial Associate,Graduate,Married,House,1,3,0
+Male,No,No,456915,Working,Post Graduate,Divorced,Rented,1,1,1
+Female,No,Yes,214747,Commercial Associate,Post Graduate,Single,Rented,1,4,0
+Female,Yes,No,499306,Working,Graduate,Married,Apartment,3,2,1
+Male,No,Yes,853053,Pensioner,Post Graduate,Married,House,3,5,0
+Female,Yes,No,216955,Pensioner,Post Graduate,Divorced,Apartment,4,2,0
+Female,Yes,No,933915,Commercial Associate,Post Graduate,Married,Rented,2,0,1
+Female,Yes,No,669703,Working,Graduate,Single,House,2,4,0
+Male,No,No,70342,Commercial Associate,Graduate,Married,House,5,3,0
+Male,Yes,No,644495,Commercial Associate,Graduate,Single,Apartment,2,0,1
+Male,No,Yes,782497,Commercial Associate,Graduate,Divorced,House,6,2,0
+Female,Yes,No,851388,Working,Secondary,Divorced,House,6,0,0
+Male,No,No,740726,Working,Secondary,Divorced,House,5,2,0
+Male,No,No,727155,Working,Graduate,Divorced,House,6,3,0
+Female,Yes,Yes,504061,Commercial Associate,Graduate,Single,Apartment,2,0,1
+Male,Yes,Yes,415442,Pensioner,Post Graduate,Divorced,Apartment,2,4,0
+Female,No,Yes,802381,Commercial Associate,Graduate,Divorced,Rented,6,4,0
+Male,Yes,No,246328,Working,Secondary,Single,Apartment,4,3,0
+Female,Yes,Yes,196565,Working,Graduate,Divorced,Rented,1,2,0
+Female,No,No,639817,Pensioner,Graduate,Divorced,Apartment,5,2,0
+Male,No,No,720042,Pensioner,Graduate,Single,Apartment,2,3,0
+Male,Yes,Yes,829127,Commercial Associate,Post Graduate,Married,Apartment,5,2,0
+Female,No,Yes,802614,Commercial Associate,Secondary,Divorced,House,6,2,0
+Male,No,No,827784,Commercial Associate,Post Graduate,Single,Rented,2,1,1
+Female,Yes,No,393651,Working,Secondary,Divorced,House,2,0,1
+Male,Yes,No,983174,Pensioner,Post Graduate,Married,House,4,1,1
+Female,Yes,No,845912,Commercial Associate,Graduate,Divorced,Rented,2,1,1
+Male,No,No,350684,Working,Secondary,Divorced,House,2,5,0
+Female,Yes,No,969670,Commercial Associate,Secondary,Divorced,Rented,1,2,1
+Female,No,No,245558,Pensioner,Graduate,Divorced,House,5,0,0
+Female,Yes,Yes,613618,Pensioner,Post Graduate,Divorced,Rented,5,0,0
+Male,No,Yes,53740,Working,Graduate,Married,Rented,5,4,0
+Male,No,Yes,963089,Pensioner,Graduate,Single,Rented,5,1,0
+Female,No,No,551184,Pensioner,Secondary,Married,House,3,5,0
+Male,No,No,735097,Commercial Associate,Secondary,Married,House,4,3,0
+Male,Yes,No,123600,Working,Secondary,Divorced,Apartment,4,0,0
+Female,No,Yes,93114,Pensioner,Post Graduate,Married,Apartment,3,0,0
+Male,No,No,954898,Commercial Associate,Secondary,Single,House,4,2,1
+Female,No,Yes,971991,Commercial Associate,Post Graduate,Married,Rented,5,0,0
+Male,No,No,764618,Pensioner,Post Graduate,Divorced,Rented,3,3,0
+Male,No,No,784010,Commercial Associate,Secondary,Married,Apartment,2,3,0
+Female,No,No,601067,Pensioner,Secondary,Married,Rented,2,2,1
+Female,Yes,Yes,278208,Working,Post Graduate,Divorced,Rented,6,3,0
+Female,Yes,No,221193,Pensioner,Post Graduate,Divorced,Apartment,6,5,0
+Male,Yes,Yes,116659,Working,Graduate,Single,House,2,1,0
+Male,No,Yes,700784,Pensioner,Post Graduate,Married,House,4,4,0
+Male,No,Yes,269973,Commercial Associate,Secondary,Divorced,House,1,4,0
+Female,No,Yes,227616,Commercial Associate,Secondary,Single,Rented,6,5,0
+Male,Yes,Yes,359250,Commercial Associate,Post Graduate,Single,Apartment,4,3,0
+Female,Yes,No,662633,Pensioner,Secondary,Divorced,House,1,4,0
+Female,Yes,Yes,158607,Pensioner,Post Graduate,Divorced,House,5,4,0
+Female,Yes,Yes,786232,Pensioner,Secondary,Divorced,House,5,0,0
+Female,Yes,Yes,388856,Working,Secondary,Divorced,Rented,3,5,0
+Female,Yes,No,442096,Pensioner,Graduate,Divorced,Rented,3,5,0
+Male,Yes,No,359205,Working,Post Graduate,Single,House,1,2,1
+Female,No,Yes,870004,Commercial Associate,Graduate,Single,House,5,2,0
+Male,No,No,559910,Working,Post Graduate,Married,Rented,6,3,0
+Male,No,No,799449,Commercial Associate,Secondary,Divorced,Rented,1,0,1
+Male,Yes,Yes,311350,Working,Secondary,Single,House,6,0,0
+Female,Yes,Yes,779926,Commercial Associate,Graduate,Divorced,Rented,4,3,0
+Male,No,Yes,243767,Pensioner,Graduate,Single,Rented,4,3,0
+Female,No,No,953129,Working,Graduate,Married,Apartment,4,0,1
+Female,No,No,894520,Pensioner,Graduate,Married,Apartment,4,0,1
+Male,No,No,654350,Commercial Associate,Post Graduate,Married,House,6,0,0
+Male,No,Yes,951492,Working,Post Graduate,Married,House,1,3,0
+Male,No,No,794406,Working,Post Graduate,Married,House,6,5,0
+Female,Yes,No,424868,Commercial Associate,Secondary,Married,House,5,3,0
+Male,No,Yes,141676,Working,Post Graduate,Married,House,3,5,0
+Male,No,No,807699,Pensioner,Graduate,Divorced,Rented,5,0,0
+Male,No,No,271939,Working,Graduate,Divorced,Apartment,5,2,0
+Female,No,No,607174,Working,Graduate,Married,Rented,2,5,0
+Male,No,No,782507,Commercial Associate,Post Graduate,Single,House,6,0,0
+Female,Yes,Yes,468060,Working,Graduate,Divorced,Rented,6,1,0
+Male,No,Yes,131735,Commercial Associate,Post Graduate,Married,House,5,2,0
+Female,No,Yes,952217,Working,Graduate,Single,House,3,3,0
+Female,Yes,Yes,591325,Pensioner,Graduate,Married,Apartment,6,1,0
+Female,No,No,102655,Pensioner,Graduate,Single,Apartment,3,3,0
+Male,No,Yes,657487,Working,Graduate,Married,Apartment,5,1,0
+Male,Yes,No,830085,Working,Post Graduate,Married,House,2,0,1
+Female,No,No,406083,Commercial Associate,Post Graduate,Married,Rented,1,3,0
+Female,Yes,No,249474,Commercial Associate,Secondary,Single,House,5,3,0
+Female,No,No,572914,Commercial Associate,Secondary,Married,Rented,1,4,0
+Male,Yes,Yes,288776,Commercial Associate,Graduate,Divorced,Apartment,5,1,0
+Male,Yes,No,847475,Working,Graduate,Single,Rented,6,4,0
+Male,No,Yes,886362,Commercial Associate,Post Graduate,Single,Rented,5,1,0
+Male,No,No,911370,Pensioner,Post Graduate,Married,House,5,2,0
+Male,Yes,No,51220,Pensioner,Graduate,Married,House,3,5,0
+Female,No,Yes,742027,Pensioner,Secondary,Married,Apartment,4,4,0
+Male,No,Yes,804049,Commercial Associate,Secondary,Married,Apartment,4,3,0
+Female,No,Yes,704626,Commercial Associate,Graduate,Single,House,6,3,0
+Male,No,Yes,291452,Pensioner,Secondary,Married,House,5,3,0
+Male,Yes,No,147844,Pensioner,Graduate,Married,Apartment,6,2,0
+Male,No,Yes,757898,Pensioner,Graduate,Single,House,5,2,0
+Male,No,No,944564,Commercial Associate,Post Graduate,Married,Rented,5,1,0
+Male,Yes,Yes,806468,Commercial Associate,Post Graduate,Married,Apartment,6,4,0
+Male,Yes,No,672130,Commercial Associate,Post Graduate,Divorced,Apartment,3,5,0
+Male,No,Yes,409736,Pensioner,Post Graduate,Divorced,Rented,2,0,1
+Female,Yes,No,100027,Working,Secondary,Married,House,2,2,0
+Female,No,No,51070,Pensioner,Secondary,Divorced,Rented,1,0,0
+Female,Yes,No,573168,Pensioner,Secondary,Divorced,Apartment,5,5,0
+Male,No,No,925660,Commercial Associate,Graduate,Divorced,House,2,2,1
+Female,No,No,790964,Commercial Associate,Secondary,Married,House,1,5,0
+Male,Yes,No,156732,Working,Graduate,Married,Rented,4,4,0
+Female,Yes,No,806899,Working,Graduate,Married,Rented,6,0,0
+Female,Yes,No,527946,Commercial Associate,Secondary,Married,Apartment,5,2,0
+Female,No,No,592941,Working,Secondary,Single,Apartment,5,1,0
+Male,No,No,257342,Commercial Associate,Post Graduate,Divorced,Rented,6,5,0
+Male,No,No,207071,Working,Graduate,Married,Apartment,5,5,0
+Female,No,Yes,804076,Pensioner,Graduate,Single,House,2,2,1
+Male,Yes,Yes,643668,Pensioner,Post Graduate,Divorced,Rented,1,5,0
+Female,No,Yes,196964,Working,Graduate,Single,House,5,5,0
+Male,No,No,798980,Working,Graduate,Divorced,House,6,2,0
+Female,Yes,No,651777,Pensioner,Secondary,Divorced,Apartment,4,1,1
+Male,No,Yes,388326,Pensioner,Graduate,Divorced,Apartment,5,0,0
+Male,No,No,535439,Working,Graduate,Married,House,1,2,1
+Female,No,Yes,487057,Pensioner,Secondary,Married,Rented,2,3,0
+Female,No,Yes,894904,Pensioner,Secondary,Married,House,1,5,0
+Female,No,No,904241,Pensioner,Post Graduate,Single,House,4,2,1
+Female,Yes,Yes,408569,Pensioner,Secondary,Single,Rented,1,5,0
+Female,No,No,317901,Pensioner,Post Graduate,Divorced,Apartment,5,2,0
+Female,Yes,Yes,356460,Working,Graduate,Single,House,6,4,0
+Male,No,Yes,188428,Commercial Associate,Secondary,Divorced,House,6,2,0
+Female,Yes,Yes,442944,Pensioner,Graduate,Single,Apartment,2,3,0
+Female,Yes,Yes,388286,Commercial Associate,Post Graduate,Divorced,Apartment,4,3,0
+Female,Yes,No,800900,Commercial Associate,Post Graduate,Married,Apartment,2,1,1
+Male,No,No,821546,Pensioner,Secondary,Married,Apartment,3,1,1
+Female,Yes,No,217157,Pensioner,Graduate,Single,House,4,4,0
+Female,No,Yes,837627,Pensioner,Secondary,Single,Rented,6,5,0
+Female,No,No,163210,Pensioner,Graduate,Single,Rented,5,4,0
+Male,No,Yes,572036,Pensioner,Graduate,Single,Rented,4,4,0
+Female,Yes,Yes,712741,Commercial Associate,Post Graduate,Single,Rented,5,0,0
+Female,Yes,Yes,393446,Working,Post Graduate,Divorced,House,2,5,0
+Male,Yes,Yes,379912,Commercial Associate,Secondary,Single,Apartment,3,3,0
+Female,Yes,Yes,867748,Pensioner,Post Graduate,Single,Rented,1,2,1
+Male,No,Yes,521180,Pensioner,Graduate,Divorced,House,2,3,0
+Female,Yes,Yes,500686,Commercial Associate,Secondary,Divorced,Rented,3,4,0
+Male,No,Yes,531339,Pensioner,Graduate,Divorced,Apartment,6,3,0
+Female,Yes,Yes,547736,Working,Secondary,Single,Apartment,5,5,0
+Male,Yes,No,387439,Pensioner,Post Graduate,Divorced,Apartment,6,0,0
+Male,No,No,618699,Commercial Associate,Secondary,Single,House,3,1,1
+Male,Yes,Yes,899089,Pensioner,Secondary,Single,House,6,5,0
+Male,No,Yes,261774,Commercial Associate,Post Graduate,Married,Rented,4,5,0
+Female,Yes,Yes,432312,Commercial Associate,Post Graduate,Married,House,2,4,0
+Male,No,No,190050,Working,Graduate,Divorced,Rented,6,1,0
+Female,No,No,868813,Commercial Associate,Graduate,Single,House,4,3,0
+Male,No,Yes,526073,Pensioner,Secondary,Married,Apartment,5,0,0
+Male,No,Yes,224716,Working,Secondary,Married,Apartment,6,0,0
+Female,Yes,No,313079,Commercial Associate,Post Graduate,Married,Rented,2,1,1
+Male,No,Yes,337474,Pensioner,Post Graduate,Divorced,Apartment,4,4,0
+Male,No,Yes,556512,Commercial Associate,Graduate,Married,House,3,5,0
+Male,No,No,622673,Working,Post Graduate,Married,Apartment,6,2,0
+Female,No,No,899947,Pensioner,Graduate,Married,House,4,3,0
+Male,No,Yes,738194,Working,Post Graduate,Divorced,Rented,2,3,0
+Female,Yes,No,785487,Commercial Associate,Post Graduate,Single,Rented,4,1,1
+Male,Yes,No,613053,Commercial Associate,Graduate,Divorced,Apartment,6,1,0
+Male,Yes,Yes,518069,Working,Post Graduate,Married,Rented,1,5,0
+Male,No,Yes,848556,Pensioner,Post Graduate,Divorced,House,4,4,0
+Male,Yes,No,338389,Working,Post Graduate,Divorced,Apartment,5,4,0
+Male,Yes,No,763276,Commercial Associate,Secondary,Married,Rented,4,4,0
+Male,No,Yes,250897,Pensioner,Secondary,Single,Apartment,6,5,0
+Male,Yes,No,849747,Working,Secondary,Single,Rented,2,2,1
+Female,Yes,Yes,993689,Pensioner,Secondary,Married,House,3,0,1
+Male,No,Yes,626227,Commercial Associate,Post Graduate,Married,Rented,2,4,0
+Male,No,No,128971,Commercial Associate,Secondary,Divorced,Rented,1,2,0
+Female,No,Yes,634070,Pensioner,Secondary,Single,House,6,1,0
+Female,No,No,237808,Commercial Associate,Graduate,Single,Rented,6,3,0
+Female,Yes,No,391719,Pensioner,Graduate,Single,Rented,2,2,1
+Male,Yes,No,519504,Commercial Associate,Post Graduate,Married,Apartment,6,0,0
+Male,No,Yes,301367,Pensioner,Post Graduate,Divorced,Rented,3,1,1
+Female,Yes,Yes,328262,Commercial Associate,Graduate,Single,Rented,3,5,0
+Female,No,Yes,111998,Pensioner,Post Graduate,Divorced,Apartment,3,1,0
+Female,Yes,Yes,632129,Pensioner,Secondary,Single,Apartment,6,3,0
+Female,No,Yes,416957,Working,Post Graduate,Divorced,Apartment,6,2,0
+Female,Yes,Yes,196227,Commercial Associate,Secondary,Single,Rented,5,4,0
+Male,No,Yes,185849,Pensioner,Secondary,Married,Rented,3,0,0
+Female,No,Yes,619975,Commercial Associate,Secondary,Single,Apartment,3,0,1
+Male,No,Yes,911318,Working,Graduate,Married,House,5,2,0
+Female,Yes,Yes,60353,Commercial Associate,Post Graduate,Single,Apartment,5,3,0
+Male,Yes,No,553484,Commercial Associate,Post Graduate,Married,House,4,2,1
+Male,Yes,Yes,667542,Commercial Associate,Post Graduate,Divorced,Rented,6,4,0
+Female,Yes,Yes,810721,Commercial Associate,Secondary,Divorced,House,4,0,1
+Male,Yes,No,279877,Pensioner,Graduate,Divorced,Rented,2,1,1
+Male,Yes,Yes,946084,Working,Graduate,Divorced,Rented,4,2,1
+Male,No,No,184234,Commercial Associate,Graduate,Divorced,Rented,4,1,0
+Female,Yes,Yes,969637,Pensioner,Graduate,Divorced,Apartment,3,0,1
+Male,No,No,268032,Commercial Associate,Post Graduate,Divorced,Apartment,1,4,0
+Male,Yes,Yes,914185,Pensioner,Post Graduate,Single,Apartment,4,2,1
+Male,Yes,Yes,311689,Commercial Associate,Secondary,Married,Apartment,6,2,0
+Male,No,Yes,654588,Commercial Associate,Graduate,Divorced,House,1,0,1
+Female,Yes,No,505240,Pensioner,Post Graduate,Married,Apartment,2,5,0
+Male,No,No,376400,Working,Post Graduate,Married,House,2,0,1
+Female,No,Yes,851352,Commercial Associate,Graduate,Divorced,Rented,6,5,0
+Female,Yes,No,138335,Pensioner,Graduate,Divorced,Apartment,4,5,0
+Female,No,Yes,326690,Working,Secondary,Married,House,3,4,0
+Female,Yes,No,895742,Commercial Associate,Post Graduate,Divorced,Apartment,6,1,0
+Female,Yes,No,166713,Pensioner,Post Graduate,Divorced,Apartment,5,4,0
+Female,No,No,710660,Working,Post Graduate,Divorced,Apartment,2,0,1
+Male,No,No,910108,Working,Post Graduate,Single,House,1,1,1
+Female,Yes,No,706798,Commercial Associate,Post Graduate,Single,House,6,2,0
+Female,Yes,No,908241,Pensioner,Secondary,Married,Apartment,3,4,0
+Female,Yes,No,75812,Commercial Associate,Post Graduate,Married,Apartment,1,0,0
+Female,Yes,Yes,144343,Commercial Associate,Post Graduate,Married,Apartment,2,0,0
+Female,No,Yes,844136,Commercial Associate,Graduate,Divorced,Apartment,6,4,0
+Female,No,No,244630,Commercial Associate,Graduate,Married,House,2,4,0
+Male,Yes,No,622938,Working,Graduate,Single,Rented,3,4,0
+Female,No,Yes,896479,Commercial Associate,Post Graduate,Divorced,Apartment,1,4,0
+Male,Yes,Yes,149614,Working,Secondary,Single,House,2,2,0
+Male,No,Yes,120642,Pensioner,Secondary,Married,Rented,4,3,0
+Male,Yes,Yes,360793,Commercial Associate,Graduate,Married,Rented,4,1,1
+Female,No,No,372588,Pensioner,Post Graduate,Married,Rented,6,4,0
+Male,Yes,Yes,621661,Commercial Associate,Post Graduate,Married,Rented,6,1,0
+Male,Yes,Yes,631311,Commercial Associate,Graduate,Married,Apartment,6,0,0
+Female,Yes,Yes,88469,Working,Post Graduate,Single,House,6,0,0
+Male,No,Yes,543300,Working,Secondary,Married,Apartment,6,0,0
+Male,No,No,599302,Commercial Associate,Secondary,Married,Rented,6,2,0
+Female,Yes,No,821914,Working,Graduate,Single,Apartment,4,5,0
+Female,No,No,962474,Working,Post Graduate,Married,Apartment,4,2,1
+Male,Yes,No,147820,Pensioner,Post Graduate,Single,Apartment,5,1,0
+Male,Yes,Yes,601012,Working,Post Graduate,Single,Apartment,1,1,1
+Female,No,Yes,378997,Pensioner,Post Graduate,Married,House,5,4,0
+Female,Yes,Yes,913274,Pensioner,Post Graduate,Divorced,House,3,0,1
+Female,Yes,No,246402,Pensioner,Secondary,Divorced,Rented,3,3,0
+Male,No,Yes,885586,Commercial Associate,Secondary,Married,House,6,4,0
+Female,No,No,348025,Pensioner,Post Graduate,Divorced,Rented,3,1,1
+Female,Yes,Yes,93688,Commercial Associate,Secondary,Single,Apartment,6,0,0
+Male,Yes,Yes,462319,Pensioner,Secondary,Divorced,Rented,2,4,0
+Male,No,Yes,520618,Commercial Associate,Post Graduate,Single,Rented,5,4,0
+Female,No,Yes,342354,Working,Post Graduate,Married,Rented,1,3,0
+Male,Yes,No,810351,Commercial Associate,Secondary,Divorced,Rented,2,0,1
+Female,No,Yes,689956,Working,Secondary,Single,House,3,4,0
+Female,Yes,Yes,103204,Pensioner,Post Graduate,Single,Apartment,4,1,0
+Male,No,No,817325,Pensioner,Secondary,Married,Apartment,4,2,1
+Male,Yes,No,719948,Commercial Associate,Post Graduate,Single,Apartment,1,1,1
+Female,Yes,Yes,386824,Commercial Associate,Secondary,Married,House,5,2,0
+Female,Yes,Yes,908682,Pensioner,Graduate,Divorced,House,1,0,1
+Male,No,Yes,401954,Commercial Associate,Graduate,Married,Rented,6,3,0
+Male,No,No,272946,Working,Graduate,Divorced,House,1,5,0
+Male,No,Yes,493045,Working,Secondary,Single,Rented,4,3,0
+Female,No,Yes,870338,Pensioner,Post Graduate,Single,Apartment,4,3,0
+Male,Yes,No,283659,Working,Secondary,Married,Rented,6,5,0
+Male,No,No,744163,Commercial Associate,Post Graduate,Married,House,4,1,1
+Female,Yes,Yes,265516,Commercial Associate,Graduate,Married,House,6,4,0
+Female,No,Yes,693095,Commercial Associate,Secondary,Single,House,4,5,0
+Male,No,No,790949,Pensioner,Graduate,Single,Apartment,4,2,1
+Male,No,No,925946,Pensioner,Secondary,Divorced,Rented,4,0,1
+Male,Yes,Yes,512687,Commercial Associate,Post Graduate,Single,House,3,4,0
+Female,No,Yes,375954,Working,Graduate,Married,House,2,2,1
+Male,Yes,Yes,161820,Commercial Associate,Post Graduate,Divorced,Apartment,1,2,0
+Male,Yes,Yes,772647,Working,Post Graduate,Single,House,4,3,0
+Female,No,Yes,851877,Pensioner,Secondary,Married,House,5,0,0
+Female,No,No,323486,Pensioner,Secondary,Married,Rented,1,3,0
+Male,Yes,No,71858,Commercial Associate,Secondary,Divorced,Rented,6,2,0
+Female,No,Yes,774329,Pensioner,Secondary,Single,Rented,2,4,0
+Male,No,No,575891,Working,Post Graduate,Single,House,3,1,1
+Male,No,No,61788,Commercial Associate,Secondary,Divorced,Rented,1,2,0
+Female,No,Yes,62587,Working,Secondary,Single,House,4,2,0
+Male,Yes,No,975247,Pensioner,Graduate,Single,Apartment,1,4,0
+Female,No,Yes,378841,Pensioner,Post Graduate,Single,Rented,4,4,0
+Female,No,Yes,382517,Working,Post Graduate,Divorced,House,2,3,0
+Female,Yes,No,901612,Commercial Associate,Graduate,Divorced,Rented,1,4,0
+Male,Yes,No,765621,Commercial Associate,Post Graduate,Divorced,Rented,4,5,0
+Female,No,Yes,239836,Commercial Associate,Post Graduate,Married,Apartment,3,3,0
+Male,Yes,No,91664,Working,Graduate,Divorced,Rented,2,0,0
+Female,Yes,Yes,569037,Pensioner,Secondary,Married,House,5,4,0
+Female,Yes,Yes,221305,Commercial Associate,Secondary,Single,Apartment,1,2,0
+Female,No,Yes,397154,Commercial Associate,Post Graduate,Single,House,1,3,0
+Male,No,No,290882,Working,Graduate,Divorced,Rented,2,1,1
+Male,No,No,211683,Working,Graduate,Divorced,House,4,2,0
+Male,No,Yes,829188,Commercial Associate,Post Graduate,Married,House,1,0,1
+Female,No,No,737887,Commercial Associate,Graduate,Divorced,House,1,2,1
+Male,No,Yes,770810,Commercial Associate,Graduate,Single,Rented,4,1,1
+Male,No,No,775167,Commercial Associate,Graduate,Married,Rented,3,4,0
+Female,No,Yes,701673,Commercial Associate,Secondary,Single,Rented,1,0,1
+Male,Yes,Yes,93937,Commercial Associate,Secondary,Married,Rented,2,1,0
+Female,Yes,No,477679,Working,Graduate,Married,House,2,1,1
+Female,Yes,No,722716,Commercial Associate,Graduate,Married,Apartment,5,5,0
+Male,No,Yes,482843,Working,Graduate,Single,House,2,4,0
+Male,No,No,736939,Pensioner,Post Graduate,Married,House,3,1,1
+Male,No,No,373537,Working,Graduate,Married,Apartment,4,0,1
+Female,Yes,No,54222,Commercial Associate,Post Graduate,Married,Rented,1,5,0
+Female,No,No,649809,Commercial Associate,Graduate,Divorced,House,1,2,1
+Male,Yes,Yes,844783,Working,Post Graduate,Single,House,3,2,1
+Male,Yes,No,179529,Pensioner,Graduate,Single,Apartment,5,5,0
+Male,No,No,381823,Commercial Associate,Graduate,Divorced,Rented,2,0,1
+Female,No,No,72367,Working,Graduate,Married,House,6,4,0
+Male,Yes,No,571284,Working,Post Graduate,Divorced,House,4,1,1
+Female,No,No,334124,Pensioner,Graduate,Married,Rented,4,1,1
+Female,Yes,Yes,438584,Working,Secondary,Married,Apartment,2,4,0
+Male,Yes,No,193367,Pensioner,Post Graduate,Single,House,6,0,0
+Female,No,No,954254,Pensioner,Graduate,Single,House,6,0,0
+Male,Yes,Yes,741952,Pensioner,Post Graduate,Married,Rented,5,3,0
+Male,No,Yes,285282,Commercial Associate,Graduate,Single,Rented,6,2,0
+Male,No,No,934758,Working,Secondary,Divorced,Rented,5,4,0
+Female,No,No,896153,Commercial Associate,Post Graduate,Single,Rented,4,0,1
+Female,Yes,No,523495,Commercial Associate,Post Graduate,Married,House,5,3,0
+Female,Yes,Yes,519455,Pensioner,Secondary,Divorced,Apartment,2,5,0
+Male,Yes,No,342113,Commercial Associate,Secondary,Divorced,Apartment,6,4,0
+Male,No,Yes,338144,Commercial Associate,Graduate,Married,House,4,0,1
+Male,No,Yes,186156,Working,Secondary,Single,House,3,0,0
+Female,No,No,628406,Pensioner,Graduate,Divorced,Apartment,4,5,0
+Female,Yes,Yes,141835,Pensioner,Post Graduate,Divorced,Apartment,1,5,0
+Male,No,No,637941,Commercial Associate,Graduate,Single,Rented,2,2,1
+Female,Yes,No,658284,Pensioner,Secondary,Single,House,1,5,0
+Male,No,Yes,581137,Pensioner,Post Graduate,Married,House,4,0,1
+Male,No,Yes,994845,Pensioner,Secondary,Divorced,Rented,6,3,0
+Male,Yes,Yes,491619,Working,Secondary,Married,Apartment,3,0,1
+Male,No,No,677644,Pensioner,Post Graduate,Divorced,Rented,3,5,0
+Female,No,Yes,952051,Pensioner,Post Graduate,Divorced,House,6,5,0
+Female,No,Yes,396563,Working,Secondary,Married,Apartment,6,1,0
+Male,Yes,Yes,946665,Pensioner,Graduate,Married,Rented,6,4,0
+Male,Yes,Yes,695275,Commercial Associate,Post Graduate,Single,Rented,1,4,0
+Male,Yes,Yes,678784,Commercial Associate,Secondary,Divorced,House,4,4,0
+Female,Yes,Yes,949170,Working,Graduate,Divorced,Rented,1,0,1
+Female,No,No,984472,Pensioner,Graduate,Divorced,Apartment,6,4,0
+Male,Yes,Yes,84424,Pensioner,Secondary,Single,House,5,3,0
+Female,Yes,No,276206,Pensioner,Graduate,Single,Apartment,3,4,0
+Female,No,No,546540,Pensioner,Graduate,Single,Rented,2,4,0
+Female,No,Yes,606076,Commercial Associate,Graduate,Married,Rented,3,5,0
+Female,No,Yes,774080,Working,Secondary,Married,Rented,5,0,0
+Male,Yes,Yes,451951,Commercial Associate,Graduate,Single,House,2,2,1
+Female,No,Yes,106694,Working,Secondary,Married,Rented,6,0,0
+Male,Yes,Yes,665563,Commercial Associate,Secondary,Divorced,Rented,6,2,0
+Male,No,Yes,499680,Working,Post Graduate,Single,Rented,5,5,0
+Male,No,No,562511,Working,Post Graduate,Married,House,6,1,0
+Female,No,Yes,876427,Working,Secondary,Divorced,Apartment,2,1,1
+Male,No,No,140318,Working,Post Graduate,Divorced,House,2,0,0
+Female,No,No,296753,Working,Graduate,Single,House,3,1,1
+Male,No,Yes,768919,Pensioner,Graduate,Married,House,4,2,1
+Female,Yes,Yes,230083,Pensioner,Secondary,Married,Apartment,5,4,0
+Female,Yes,Yes,109719,Pensioner,Secondary,Divorced,Apartment,4,5,0
+Female,No,No,770689,Commercial Associate,Post Graduate,Single,House,2,3,0
+Female,No,No,563913,Pensioner,Secondary,Married,Rented,5,5,0
+Male,Yes,Yes,509321,Working,Graduate,Single,Apartment,1,4,0
+Male,No,No,784916,Commercial Associate,Post Graduate,Single,House,6,1,0
+Female,No,Yes,521249,Working,Graduate,Single,House,1,0,1
+Female,Yes,No,832876,Commercial Associate,Post Graduate,Single,Rented,3,0,1
+Female,No,No,476816,Pensioner,Graduate,Divorced,House,6,2,0
+Female,Yes,No,942174,Working,Post Graduate,Single,Apartment,4,4,0
+Female,No,Yes,270879,Pensioner,Post Graduate,Married,Rented,1,3,0
+Female,No,Yes,121029,Commercial Associate,Post Graduate,Married,House,2,3,0
+Female,Yes,Yes,182110,Working,Graduate,Single,Rented,6,0,0
+Female,Yes,Yes,750198,Commercial Associate,Post Graduate,Divorced,House,1,5,0
+Female,No,Yes,730544,Working,Post Graduate,Divorced,Apartment,3,1,1
+Female,Yes,Yes,774906,Working,Graduate,Single,Apartment,4,0,1
+Female,No,Yes,585615,Pensioner,Graduate,Single,House,4,1,1
+Female,No,Yes,750464,Working,Post Graduate,Married,Apartment,5,0,0
+Male,No,Yes,224765,Pensioner,Graduate,Divorced,Apartment,5,2,0
+Female,Yes,No,914429,Commercial Associate,Secondary,Married,Rented,2,3,0
+Male,Yes,No,447624,Pensioner,Graduate,Single,Apartment,4,0,1
+Female,Yes,Yes,336752,Working,Post Graduate,Married,Apartment,5,5,0
+Male,Yes,Yes,147147,Working,Secondary,Single,Rented,6,3,0
+Male,Yes,Yes,507778,Commercial Associate,Post Graduate,Single,Apartment,4,0,1
+Male,Yes,Yes,915412,Pensioner,Secondary,Divorced,Rented,1,0,1
+Female,No,Yes,493480,Working,Graduate,Single,Apartment,6,0,0
+Male,No,No,888394,Pensioner,Post Graduate,Single,Apartment,1,1,1
+Female,Yes,No,261739,Working,Graduate,Married,House,3,3,0
+Male,No,Yes,463329,Working,Post Graduate,Divorced,House,6,2,0
+Male,No,No,326300,Pensioner,Post Graduate,Single,Rented,4,3,0
+Female,No,Yes,647146,Working,Post Graduate,Married,Apartment,1,5,0
+Female,No,Yes,388294,Working,Graduate,Single,Apartment,5,1,0
+Female,Yes,Yes,708029,Working,Secondary,Single,House,5,0,0
+Female,No,No,94681,Pensioner,Post Graduate,Married,House,6,5,0
+Female,No,Yes,575980,Working,Post Graduate,Divorced,Rented,3,5,0
+Male,No,Yes,453236,Pensioner,Post Graduate,Single,Rented,5,0,0
+Female,No,Yes,228987,Working,Post Graduate,Divorced,House,3,0,0
+Female,No,No,208160,Commercial Associate,Post Graduate,Single,Rented,5,0,0
+Female,Yes,Yes,341668,Pensioner,Graduate,Divorced,Apartment,3,5,0
+Male,No,Yes,869523,Commercial Associate,Secondary,Divorced,Rented,4,5,0
+Male,No,Yes,432323,Commercial Associate,Graduate,Single,Apartment,1,4,0
+Male,No,No,753913,Pensioner,Graduate,Married,Rented,1,1,1
+Female,No,Yes,568906,Pensioner,Secondary,Divorced,House,2,4,0
+Female,Yes,No,86165,Working,Post Graduate,Divorced,House,1,0,0
+Female,No,No,659131,Pensioner,Secondary,Divorced,Apartment,4,2,1
+Female,No,No,123219,Working,Graduate,Single,Rented,2,1,0
+Female,Yes,No,660637,Commercial Associate,Graduate,Single,Apartment,2,1,1
+Male,No,Yes,227714,Commercial Associate,Graduate,Divorced,Rented,2,3,0
+Male,Yes,Yes,679575,Working,Post Graduate,Married,Rented,5,2,0
+Male,Yes,Yes,343976,Pensioner,Secondary,Married,Apartment,1,5,0
+Female,No,No,763456,Pensioner,Secondary,Single,Apartment,3,5,0
+Female,No,Yes,483699,Commercial Associate,Secondary,Divorced,Rented,3,3,0
+Female,No,Yes,444129,Commercial Associate,Secondary,Divorced,Apartment,4,4,0
+Male,No,No,390098,Commercial Associate,Graduate,Married,House,6,1,0
+Male,No,No,129331,Working,Secondary,Married,Rented,1,3,0
+Male,No,Yes,97210,Working,Secondary,Married,Apartment,4,2,0
+Female,Yes,Yes,731518,Pensioner,Secondary,Married,House,2,3,0
+Male,Yes,Yes,826404,Commercial Associate,Post Graduate,Divorced,Rented,3,4,0
+Male,Yes,Yes,68947,Working,Secondary,Divorced,Rented,3,1,0
+Male,No,Yes,459229,Commercial Associate,Post Graduate,Single,House,4,3,0
+Female,Yes,No,354687,Commercial Associate,Secondary,Divorced,Rented,3,5,0
+Male,No,No,519098,Commercial Associate,Post Graduate,Single,Rented,1,0,1
+Female,Yes,No,192856,Commercial Associate,Secondary,Married,House,6,2,0
+Male,Yes,No,566140,Working,Graduate,Divorced,Rented,3,3,0
+Female,No,Yes,378264,Pensioner,Secondary,Married,Apartment,6,3,0
+Female,No,No,738163,Working,Graduate,Single,House,5,4,0
+Female,Yes,Yes,253014,Pensioner,Post Graduate,Single,Rented,6,0,0
+Female,No,Yes,823786,Working,Post Graduate,Married,House,5,3,0
+Female,Yes,No,411831,Working,Post Graduate,Divorced,Rented,5,5,0
+Male,No,Yes,668863,Pensioner,Graduate,Single,Apartment,4,1,1
+Male,Yes,Yes,426115,Commercial Associate,Secondary,Single,Rented,2,2,1
+Male,Yes,Yes,130974,Working,Secondary,Divorced,Apartment,1,4,0
+Male,Yes,No,582972,Pensioner,Graduate,Married,Rented,6,5,0
+Female,Yes,Yes,904961,Pensioner,Post Graduate,Married,Apartment,4,1,1
+Female,No,Yes,603800,Working,Post Graduate,Divorced,Apartment,6,5,0
+Female,Yes,Yes,149833,Working,Post Graduate,Single,House,4,1,0
+Female,Yes,Yes,86476,Pensioner,Post Graduate,Divorced,Apartment,4,3,0
+Male,Yes,No,617690,Commercial Associate,Secondary,Single,House,6,5,0
+Female,Yes,No,810136,Pensioner,Post Graduate,Divorced,Apartment,6,0,0
+Female,Yes,No,982410,Commercial Associate,Post Graduate,Single,House,1,5,0
+Male,Yes,Yes,831011,Commercial Associate,Secondary,Single,Apartment,1,2,1
+Male,Yes,Yes,456807,Pensioner,Graduate,Single,House,5,0,0
+Female,No,Yes,440571,Commercial Associate,Secondary,Married,Apartment,4,5,0
+Male,No,Yes,526024,Commercial Associate,Graduate,Divorced,Apartment,5,3,0
+Female,No,Yes,142502,Pensioner,Secondary,Divorced,House,1,4,0
+Male,No,Yes,927188,Pensioner,Post Graduate,Single,House,5,1,0
+Female,Yes,No,677453,Pensioner,Secondary,Divorced,House,5,4,0
+Male,Yes,No,479434,Commercial Associate,Post Graduate,Divorced,Apartment,1,3,0
+Male,No,Yes,198297,Pensioner,Secondary,Single,House,2,2,0
+Female,Yes,Yes,82844,Pensioner,Secondary,Single,Rented,6,0,0
+Female,No,Yes,720096,Working,Secondary,Married,House,2,3,0
+Male,No,No,76552,Working,Secondary,Divorced,Rented,3,1,0
+Male,Yes,No,915294,Commercial Associate,Graduate,Married,Rented,1,1,1
+Female,No,No,287696,Commercial Associate,Post Graduate,Divorced,Rented,1,1,1
+Male,Yes,No,732228,Pensioner,Graduate,Married,Rented,1,3,0
+Female,Yes,Yes,839256,Pensioner,Post Graduate,Married,Rented,2,4,0
+Female,Yes,No,594349,Pensioner,Post Graduate,Divorced,Rented,6,1,0
+Female,Yes,Yes,238149,Working,Graduate,Single,Rented,1,5,0
+Male,Yes,Yes,681521,Commercial Associate,Secondary,Married,Rented,3,5,0
+Female,Yes,No,267074,Working,Secondary,Married,Rented,4,0,1
+Female,No,No,858298,Working,Post Graduate,Married,Rented,1,3,0
+Female,Yes,No,174851,Working,Secondary,Single,Apartment,6,2,0
+Male,Yes,No,767438,Pensioner,Graduate,Married,Apartment,3,0,1
+Male,No,Yes,755616,Pensioner,Post Graduate,Single,House,5,2,0
+Female,No,Yes,115412,Working,Secondary,Single,Rented,3,4,0
+Female,Yes,Yes,846305,Pensioner,Secondary,Divorced,House,4,0,1
+Male,Yes,Yes,76263,Working,Secondary,Single,Apartment,1,0,0
+Female,No,Yes,780531,Pensioner,Secondary,Single,Apartment,6,4,0
+Female,Yes,No,441582,Working,Post Graduate,Divorced,Rented,1,3,0
+Male,No,No,207093,Commercial Associate,Graduate,Divorced,House,5,0,0
+Male,Yes,Yes,128165,Commercial Associate,Secondary,Married,Apartment,2,4,0
+Female,Yes,No,74704,Commercial Associate,Secondary,Divorced,Rented,3,1,0
+Male,Yes,No,850549,Pensioner,Graduate,Divorced,House,4,3,0
+Female,Yes,Yes,623254,Pensioner,Post Graduate,Divorced,Rented,5,1,0
+Female,No,No,71362,Commercial Associate,Post Graduate,Single,Rented,2,5,0
+Female,No,Yes,771906,Working,Graduate,Divorced,Apartment,5,4,0
+Male,No,No,318134,Pensioner,Graduate,Married,Apartment,2,0,1
+Female,Yes,Yes,339404,Pensioner,Post Graduate,Married,Rented,1,4,0
+Female,No,No,261479,Working,Graduate,Single,Rented,3,4,0
+Female,Yes,No,570375,Commercial Associate,Post Graduate,Married,Rented,5,5,0
+Male,Yes,Yes,314838,Commercial Associate,Graduate,Single,Apartment,5,3,0
+Female,No,No,955923,Pensioner,Post Graduate,Married,Apartment,2,2,1
+Male,Yes,No,477470,Pensioner,Graduate,Single,Rented,2,5,0
+Male,Yes,Yes,694913,Pensioner,Post Graduate,Single,House,6,1,0
+Female,Yes,No,805381,Pensioner,Secondary,Divorced,Rented,3,3,0
+Male,Yes,No,912697,Pensioner,Post Graduate,Single,House,5,1,0
+Male,No,No,683894,Working,Post Graduate,Married,Rented,5,5,0
+Female,Yes,Yes,992671,Working,Secondary,Divorced,Apartment,4,4,0
+Female,No,No,565482,Commercial Associate,Post Graduate,Divorced,House,1,3,0
+Female,No,No,525897,Working,Graduate,Single,Rented,5,5,0
+Male,No,No,796974,Pensioner,Post Graduate,Divorced,Apartment,6,5,0
+Male,No,Yes,548011,Working,Post Graduate,Married,Rented,5,4,0
+Female,Yes,No,725937,Commercial Associate,Secondary,Divorced,Apartment,5,4,0
+Male,No,No,412288,Working,Secondary,Divorced,Apartment,4,2,1
+Female,Yes,No,121142,Pensioner,Graduate,Single,Apartment,4,4,0
+Female,No,Yes,452959,Working,Graduate,Divorced,Apartment,2,5,0
+Female,Yes,No,213876,Working,Post Graduate,Married,Apartment,3,4,0
+Male,No,Yes,815720,Pensioner,Secondary,Divorced,House,2,4,0
+Female,No,No,439711,Commercial Associate,Post Graduate,Single,Apartment,3,0,1
+Female,Yes,Yes,477080,Commercial Associate,Secondary,Divorced,Rented,4,4,0
+Male,No,No,771602,Working,Secondary,Single,Apartment,3,4,0
+Female,Yes,Yes,135371,Pensioner,Graduate,Married,Rented,1,5,0
+Female,Yes,No,758135,Pensioner,Graduate,Divorced,House,6,4,0
+Female,No,Yes,669254,Commercial Associate,Secondary,Single,Apartment,4,1,1
+Male,Yes,Yes,639528,Working,Secondary,Divorced,Apartment,6,1,0
+Male,No,No,481478,Pensioner,Graduate,Single,Apartment,1,1,1
+Female,Yes,Yes,153077,Pensioner,Secondary,Divorced,House,2,5,0
+Female,No,Yes,756582,Commercial Associate,Graduate,Single,House,6,4,0
+Male,Yes,No,768096,Commercial Associate,Graduate,Married,Rented,6,0,0
+Female,Yes,No,561778,Pensioner,Secondary,Married,Apartment,2,5,0
+Female,No,Yes,943895,Working,Post Graduate,Married,Apartment,4,3,0
+Female,Yes,Yes,964745,Commercial Associate,Post Graduate,Divorced,Apartment,4,1,1
+Female,Yes,Yes,561076,Working,Post Graduate,Divorced,House,2,0,1
+Male,Yes,No,889255,Pensioner,Graduate,Married,Rented,2,1,1
+Male,No,No,831217,Commercial Associate,Post Graduate,Single,Rented,6,5,0
+Male,No,No,839668,Working,Post Graduate,Single,Apartment,6,3,0
+Male,Yes,Yes,431963,Working,Secondary,Married,Rented,6,2,0
+Female,No,Yes,967333,Pensioner,Graduate,Single,Apartment,3,0,1
+Female,No,No,68317,Working,Post Graduate,Married,House,6,3,0
+Male,Yes,No,572761,Pensioner,Secondary,Divorced,House,3,1,1
+Male,No,No,132736,Working,Post Graduate,Divorced,Apartment,2,0,0
+Male,Yes,Yes,474793,Working,Post Graduate,Divorced,House,5,2,0
+Male,Yes,Yes,929164,Commercial Associate,Graduate,Single,Apartment,5,0,0
+Female,No,Yes,506356,Working,Post Graduate,Single,Rented,2,5,0
+Female,Yes,No,479890,Working,Post Graduate,Divorced,Apartment,4,2,1
+Male,Yes,Yes,96301,Pensioner,Secondary,Married,Apartment,3,3,0
+Female,No,Yes,779781,Pensioner,Secondary,Married,Rented,3,5,0
+Female,Yes,Yes,312956,Commercial Associate,Post Graduate,Married,Apartment,5,4,0
+Female,No,No,670048,Pensioner,Secondary,Divorced,Rented,1,5,0
+Male,No,Yes,587188,Working,Secondary,Single,Apartment,1,1,1
+Male,Yes,No,819786,Pensioner,Post Graduate,Divorced,Rented,1,1,1
+Female,No,Yes,832432,Commercial Associate,Graduate,Divorced,House,6,5,0
+Male,Yes,Yes,646385,Working,Post Graduate,Divorced,House,5,4,0
+Female,No,Yes,746040,Commercial Associate,Secondary,Divorced,Apartment,6,4,0
+Male,Yes,Yes,948116,Working,Post Graduate,Married,Rented,6,4,0
+Male,Yes,Yes,849434,Pensioner,Graduate,Married,Apartment,2,1,1
+Male,Yes,No,398322,Working,Post Graduate,Single,Apartment,1,0,1
+Female,No,No,350234,Commercial Associate,Secondary,Single,Apartment,1,2,1
+Female,No,No,786899,Pensioner,Post Graduate,Married,Apartment,1,0,1
+Female,No,No,73770,Commercial Associate,Post Graduate,Married,Rented,5,2,0
+Female,No,Yes,171012,Commercial Associate,Secondary,Married,Rented,1,0,0
+Female,No,No,594857,Commercial Associate,Post Graduate,Divorced,House,3,0,1
+Female,Yes,No,943129,Pensioner,Post Graduate,Single,Apartment,6,4,0
+Female,Yes,Yes,158438,Commercial Associate,Graduate,Single,Rented,1,5,0
+Male,No,No,265471,Working,Secondary,Married,Rented,1,4,0
+Female,Yes,Yes,575808,Working,Secondary,Divorced,Apartment,1,1,1
+Male,Yes,Yes,486865,Working,Post Graduate,Divorced,Rented,1,1,1
+Female,Yes,Yes,428057,Commercial Associate,Secondary,Single,Rented,6,0,0
+Male,Yes,Yes,911154,Commercial Associate,Graduate,Married,House,6,4,0
+Female,Yes,Yes,887928,Working,Secondary,Divorced,Apartment,3,2,1
+Female,Yes,No,929712,Working,Post Graduate,Divorced,Rented,2,4,0
+Male,No,Yes,287866,Pensioner,Secondary,Single,House,6,0,0
+Female,No,No,837616,Commercial Associate,Post Graduate,Married,Apartment,1,1,1
+Male,No,Yes,299607,Pensioner,Graduate,Single,Apartment,3,5,0
+Female,No,Yes,947405,Commercial Associate,Graduate,Single,House,6,0,0
+Female,No,No,557484,Commercial Associate,Post Graduate,Divorced,Apartment,6,1,0
+Female,No,Yes,66190,Commercial Associate,Graduate,Married,Apartment,1,2,0
+Female,No,No,528864,Working,Post Graduate,Married,Apartment,4,0,1
+Male,Yes,No,90739,Working,Secondary,Divorced,Apartment,1,1,0
+Female,Yes,No,154029,Pensioner,Secondary,Divorced,Apartment,3,4,0
+Female,Yes,Yes,535050,Commercial Associate,Post Graduate,Divorced,Apartment,2,1,1
+Female,Yes,Yes,133393,Commercial Associate,Graduate,Married,House,1,1,0
+Female,Yes,Yes,563360,Pensioner,Post Graduate,Divorced,House,1,2,1
+Male,Yes,Yes,601488,Pensioner,Post Graduate,Married,Rented,3,3,0
+Male,No,Yes,809705,Commercial Associate,Graduate,Divorced,House,3,4,0
+Male,Yes,No,423724,Commercial Associate,Secondary,Divorced,Rented,5,2,0
+Male,No,No,784288,Commercial Associate,Post Graduate,Single,Rented,2,0,1
+Female,Yes,Yes,773328,Commercial Associate,Post Graduate,Divorced,House,2,5,0
+Female,Yes,Yes,301329,Pensioner,Graduate,Divorced,Apartment,6,1,0
+Male,No,Yes,511937,Working,Secondary,Married,Apartment,4,2,1
+Female,No,No,695295,Pensioner,Secondary,Divorced,House,3,3,0
+Male,Yes,No,525244,Pensioner,Graduate,Married,House,3,0,1
+Male,Yes,No,581100,Pensioner,Graduate,Single,Apartment,1,2,1
+Male,No,No,693015,Pensioner,Graduate,Married,Apartment,6,5,0
+Female,No,Yes,914872,Commercial Associate,Graduate,Single,Apartment,4,0,1
+Male,Yes,Yes,834285,Pensioner,Post Graduate,Married,Apartment,5,1,0
+Male,No,No,378664,Pensioner,Graduate,Married,House,1,3,0
+Female,Yes,No,476305,Working,Graduate,Single,Rented,2,5,0
+Male,Yes,No,699494,Pensioner,Secondary,Married,Apartment,6,0,0
+Male,Yes,No,194688,Working,Secondary,Single,Rented,3,2,0
+Female,No,Yes,542575,Pensioner,Post Graduate,Single,House,2,2,1
+Male,No,Yes,316973,Working,Graduate,Single,Apartment,4,1,1
+Male,No,No,793571,Commercial Associate,Graduate,Single,Rented,3,1,1
+Male,No,Yes,783450,Pensioner,Graduate,Married,Apartment,6,2,0
+Female,No,No,523150,Pensioner,Post Graduate,Married,House,3,3,0
+Female,No,No,170961,Commercial Associate,Graduate,Divorced,Apartment,6,2,0
+Male,Yes,No,434783,Working,Secondary,Single,Apartment,6,3,0
+Female,Yes,Yes,588542,Commercial Associate,Graduate,Married,House,3,3,0
+Male,No,Yes,268112,Commercial Associate,Post Graduate,Single,Apartment,2,5,0
+Male,Yes,Yes,836438,Working,Graduate,Married,House,3,3,0
+Female,Yes,Yes,123825,Commercial Associate,Post Graduate,Divorced,Apartment,2,0,0
+Male,Yes,No,690290,Pensioner,Graduate,Married,Rented,6,0,0
+Female,No,Yes,649725,Working,Post Graduate,Divorced,Apartment,3,1,1
+Female,No,Yes,171380,Working,Graduate,Married,Apartment,2,1,0
+Male,Yes,No,651297,Working,Secondary,Divorced,House,3,4,0
+Male,No,Yes,702541,Working,Post Graduate,Married,Rented,6,3,0
+Female,Yes,Yes,968989,Working,Secondary,Married,House,3,0,1
+Male,No,No,864549,Commercial Associate,Graduate,Divorced,Rented,4,3,0
+Female,Yes,No,817793,Working,Secondary,Single,Apartment,5,4,0
+Male,No,Yes,769095,Pensioner,Graduate,Married,Apartment,6,5,0
+Female,No,No,892913,Commercial Associate,Graduate,Divorced,Apartment,2,1,1
+Male,Yes,No,125026,Working,Secondary,Married,Apartment,3,1,0
+Female,Yes,No,646226,Commercial Associate,Post Graduate,Divorced,House,3,3,0
+Female,No,No,112018,Working,Secondary,Single,House,1,4,0
+Female,Yes,No,319173,Commercial Associate,Secondary,Divorced,Apartment,3,0,1
+Male,Yes,No,253257,Working,Post Graduate,Divorced,Apartment,1,4,0
+Female,Yes,No,918926,Commercial Associate,Secondary,Married,House,3,3,0
+Male,No,No,547267,Commercial Associate,Post Graduate,Married,House,3,1,1
+Female,Yes,No,436772,Commercial Associate,Secondary,Divorced,Rented,3,3,0
+Female,No,No,307857,Commercial Associate,Secondary,Married,House,6,5,0
+Male,No,No,579721,Commercial Associate,Secondary,Married,House,2,0,1
+Male,Yes,No,616943,Working,Post Graduate,Divorced,House,1,4,0
+Female,Yes,No,76862,Pensioner,Secondary,Single,House,3,3,0
+Female,No,Yes,191193,Commercial Associate,Post Graduate,Married,House,1,5,0
+Female,Yes,Yes,399861,Commercial Associate,Graduate,Divorced,Apartment,6,3,0
+Female,No,Yes,806576,Commercial Associate,Post Graduate,Single,House,4,3,0
+Male,No,No,976047,Pensioner,Graduate,Divorced,Rented,1,0,1
+Female,Yes,No,492927,Commercial Associate,Secondary,Single,Apartment,1,2,1
+Female,No,Yes,958212,Commercial Associate,Secondary,Single,House,4,3,0
+Female,No,No,554637,Pensioner,Graduate,Married,Rented,2,5,0
+Female,No,No,783070,Commercial Associate,Graduate,Single,Apartment,1,1,1
+Male,Yes,Yes,940515,Working,Graduate,Married,House,6,0,0
+Male,No,No,278267,Commercial Associate,Post Graduate,Single,House,2,5,0
+Male,Yes,No,79508,Commercial Associate,Secondary,Single,House,5,3,0
+Male,No,No,671102,Pensioner,Secondary,Single,House,2,5,0
+Male,No,Yes,807014,Working,Secondary,Single,Apartment,5,0,0
+Male,No,Yes,53903,Working,Post Graduate,Married,House,2,0,0
+Male,Yes,No,839836,Commercial Associate,Secondary,Married,Rented,1,3,0
+Male,Yes,No,564433,Pensioner,Post Graduate,Single,Rented,6,4,0
+Female,Yes,Yes,633142,Commercial Associate,Post Graduate,Divorced,House,3,2,1
+Male,Yes,Yes,66793,Working,Post Graduate,Single,House,2,5,0
+Male,Yes,No,679782,Working,Post Graduate,Married,Apartment,6,5,0
+Female,Yes,Yes,684039,Working,Post Graduate,Single,Rented,1,4,0
+Female,Yes,Yes,87983,Commercial Associate,Secondary,Divorced,House,3,5,0
+Female,No,No,914719,Commercial Associate,Post Graduate,Single,Apartment,4,2,1
+Female,Yes,No,933150,Commercial Associate,Post Graduate,Single,Apartment,4,0,1
+Female,Yes,No,874446,Working,Graduate,Single,Rented,5,1,0
+Male,No,No,733659,Working,Post Graduate,Single,Apartment,5,5,0
+Female,No,Yes,699746,Pensioner,Secondary,Divorced,House,5,2,0
+Female,Yes,No,574282,Commercial Associate,Graduate,Divorced,Apartment,6,0,0
+Male,No,No,933435,Pensioner,Post Graduate,Divorced,House,2,0,1
+Female,No,Yes,182261,Commercial Associate,Secondary,Divorced,Apartment,4,3,0
+Female,Yes,No,302107,Working,Graduate,Single,Apartment,1,0,1
+Male,No,No,470202,Commercial Associate,Graduate,Divorced,House,1,1,1
+Female,Yes,No,606945,Commercial Associate,Post Graduate,Divorced,Apartment,6,0,0
+Male,No,Yes,271450,Pensioner,Post Graduate,Married,Apartment,6,1,0
+Male,Yes,No,287438,Commercial Associate,Secondary,Single,Apartment,6,5,0
+Female,Yes,Yes,349676,Working,Secondary,Married,House,3,4,0
+Female,Yes,Yes,308715,Working,Secondary,Single,Apartment,6,0,0
+Female,Yes,Yes,197001,Pensioner,Post Graduate,Divorced,Rented,1,3,0
+Female,Yes,No,126205,Commercial Associate,Graduate,Divorced,Apartment,5,3,0
+Female,No,Yes,272291,Working,Post Graduate,Single,Apartment,5,5,0
+Male,No,No,123023,Commercial Associate,Graduate,Single,Apartment,4,0,0
+Male,Yes,Yes,451968,Working,Secondary,Divorced,House,3,0,1
+Male,Yes,Yes,786693,Pensioner,Post Graduate,Single,Rented,1,0,1
+Male,No,Yes,356302,Pensioner,Secondary,Married,Apartment,4,5,0
+Female,No,Yes,360411,Commercial Associate,Graduate,Married,Rented,2,5,0
+Female,No,Yes,344763,Pensioner,Post Graduate,Single,House,4,3,0
+Female,No,Yes,691111,Commercial Associate,Secondary,Divorced,Apartment,1,1,1
+Male,Yes,No,753556,Commercial Associate,Graduate,Single,House,1,2,1
+Female,No,Yes,765289,Commercial Associate,Graduate,Single,Rented,5,0,0
+Female,Yes,No,312393,Commercial Associate,Secondary,Single,House,1,5,0
+Female,Yes,Yes,435197,Commercial Associate,Secondary,Divorced,Rented,1,5,0
+Female,No,No,100660,Working,Secondary,Married,Rented,5,4,0
+Male,Yes,No,444672,Working,Post Graduate,Single,House,5,1,0
+Female,No,No,521284,Pensioner,Secondary,Divorced,Apartment,6,4,0
+Female,Yes,Yes,904689,Pensioner,Graduate,Single,House,4,3,0
+Female,Yes,No,384939,Pensioner,Secondary,Divorced,Apartment,2,2,1
+Female,No,No,836059,Commercial Associate,Secondary,Single,Apartment,3,0,1
+Female,No,No,156466,Pensioner,Post Graduate,Single,Apartment,2,4,0
+Female,No,No,592145,Commercial Associate,Secondary,Married,Apartment,4,1,1
+Female,Yes,No,82581,Pensioner,Post Graduate,Married,Apartment,6,0,0
+Male,Yes,Yes,957451,Pensioner,Post Graduate,Married,Rented,2,1,1
+Male,Yes,Yes,187496,Pensioner,Post Graduate,Single,Apartment,1,1,0
+Male,No,No,832345,Pensioner,Post Graduate,Single,Apartment,2,1,1
+Female,No,Yes,132523,Pensioner,Secondary,Divorced,Apartment,1,1,0
+Female,Yes,No,951255,Pensioner,Graduate,Divorced,House,2,3,0
+Female,Yes,No,683320,Commercial Associate,Secondary,Single,Apartment,5,1,0
+Male,Yes,No,658703,Working,Secondary,Single,Apartment,3,1,1
+Female,No,Yes,719665,Working,Secondary,Single,Apartment,2,5,0
+Male,Yes,No,765226,Commercial Associate,Post Graduate,Divorced,House,2,2,1
+Male,No,No,94730,Commercial Associate,Post Graduate,Married,Apartment,1,1,0
+Female,No,Yes,482853,Working,Post Graduate,Divorced,House,2,3,0
+Male,No,No,161036,Pensioner,Secondary,Single,House,6,2,0
+Male,No,Yes,383397,Commercial Associate,Post Graduate,Single,House,4,0,1
+Male,No,Yes,368009,Commercial Associate,Secondary,Divorced,Rented,6,3,0
+Male,Yes,No,375123,Pensioner,Secondary,Divorced,House,3,0,1
+Male,No,No,416924,Working,Secondary,Single,Apartment,5,4,0
+Female,No,No,395197,Commercial Associate,Graduate,Single,House,5,0,0
+Male,Yes,No,883265,Commercial Associate,Post Graduate,Divorced,Apartment,2,0,1
+Male,No,Yes,649253,Commercial Associate,Post Graduate,Married,Rented,3,3,0
+Female,No,Yes,469254,Pensioner,Post Graduate,Divorced,Rented,4,1,1
+Male,No,No,885986,Commercial Associate,Graduate,Divorced,Apartment,6,3,0
+Female,No,No,773113,Commercial Associate,Secondary,Single,Rented,5,2,0
+Female,Yes,Yes,747308,Pensioner,Secondary,Single,Apartment,5,2,0
+Female,No,No,689299,Working,Post Graduate,Single,Rented,5,5,0
+Female,No,Yes,690557,Pensioner,Post Graduate,Single,Apartment,2,4,0
+Male,Yes,No,880452,Pensioner,Graduate,Divorced,Rented,6,5,0
+Male,No,Yes,522849,Pensioner,Graduate,Married,Apartment,2,5,0
+Female,Yes,Yes,541921,Working,Graduate,Divorced,House,5,2,0
+Male,Yes,No,597401,Commercial Associate,Post Graduate,Married,Apartment,4,0,1
+Male,Yes,No,259537,Commercial Associate,Graduate,Divorced,House,6,4,0
+Male,No,Yes,682157,Pensioner,Graduate,Married,Apartment,1,0,1
+Male,No,No,675062,Pensioner,Post Graduate,Married,House,5,3,0
+Female,No,Yes,201856,Pensioner,Post Graduate,Single,Rented,6,1,0
+Male,Yes,Yes,656282,Commercial Associate,Secondary,Single,Apartment,5,1,0
+Male,No,No,527840,Pensioner,Post Graduate,Single,Apartment,2,3,0
+Male,No,No,270440,Pensioner,Secondary,Single,House,2,1,1
+Male,Yes,No,125525,Working,Graduate,Single,Apartment,3,5,0
+Female,No,No,479063,Commercial Associate,Graduate,Single,Apartment,4,0,1
+Female,Yes,No,741649,Commercial Associate,Secondary,Married,Apartment,2,2,1
+Female,Yes,Yes,571535,Working,Post Graduate,Divorced,House,1,1,1
+Male,Yes,No,559091,Commercial Associate,Post Graduate,Single,Rented,3,2,1
+Female,No,No,123307,Pensioner,Post Graduate,Single,House,3,4,0
+Female,No,No,814834,Working,Graduate,Single,Rented,6,1,0
+Female,Yes,Yes,512032,Working,Post Graduate,Divorced,Rented,1,3,0
+Female,Yes,No,881598,Pensioner,Secondary,Single,House,1,3,0
+Male,No,No,158119,Working,Graduate,Married,Apartment,1,5,0
+Female,Yes,No,825264,Commercial Associate,Secondary,Single,House,1,0,1
+Female,No,Yes,655491,Pensioner,Graduate,Single,Apartment,4,5,0
+Female,Yes,Yes,498446,Commercial Associate,Graduate,Married,House,2,0,1
+Male,No,No,493956,Commercial Associate,Graduate,Married,House,4,5,0
+Female,No,No,250455,Working,Post Graduate,Single,Rented,2,2,1
+Male,Yes,Yes,377801,Working,Graduate,Single,Apartment,3,0,1
+Male,No,No,182401,Pensioner,Graduate,Divorced,Rented,6,4,0
+Male,No,No,410854,Pensioner,Graduate,Single,Apartment,5,5,0
+Female,Yes,Yes,91819,Commercial Associate,Secondary,Single,Apartment,3,0,0
+Male,Yes,No,305221,Pensioner,Secondary,Divorced,House,2,1,1
+Female,Yes,Yes,955726,Pensioner,Graduate,Divorced,Rented,1,0,1
+Female,Yes,No,864005,Pensioner,Graduate,Divorced,House,5,1,0
+Male,Yes,Yes,520077,Working,Secondary,Divorced,House,4,3,0
+Female,Yes,No,858810,Pensioner,Graduate,Divorced,Rented,5,1,0
+Female,Yes,No,58131,Commercial Associate,Post Graduate,Married,Apartment,5,3,0
+Female,No,No,704569,Commercial Associate,Secondary,Single,House,5,3,0
+Male,No,No,707831,Pensioner,Secondary,Divorced,House,4,0,1
+Male,No,Yes,345449,Pensioner,Graduate,Single,House,2,4,0
+Female,No,No,506229,Pensioner,Post Graduate,Married,Rented,2,4,0
+Male,Yes,Yes,866730,Pensioner,Secondary,Single,House,4,4,0
+Male,Yes,No,484528,Commercial Associate,Graduate,Divorced,House,4,1,1
+Male,No,Yes,716414,Pensioner,Secondary,Married,House,5,0,0
+Female,Yes,No,678510,Commercial Associate,Post Graduate,Married,Apartment,3,5,0
+Male,No,Yes,913585,Working,Graduate,Married,House,1,3,0
+Female,Yes,No,880326,Pensioner,Post Graduate,Single,Apartment,2,1,1
+Male,Yes,No,885363,Commercial Associate,Graduate,Married,House,6,4,0
+Female,No,No,869086,Working,Post Graduate,Divorced,Apartment,6,1,0
+Female,Yes,Yes,351575,Commercial Associate,Post Graduate,Married,Apartment,2,3,0
+Male,No,No,417171,Working,Post Graduate,Divorced,House,3,0,1
+Female,No,Yes,901056,Commercial Associate,Graduate,Married,House,6,3,0
+Female,No,No,407767,Commercial Associate,Secondary,Divorced,Apartment,2,5,0
+Female,Yes,No,800716,Commercial Associate,Secondary,Married,Apartment,6,1,0
+Female,No,No,257866,Pensioner,Secondary,Divorced,House,3,5,0
+Female,Yes,Yes,980585,Pensioner,Secondary,Married,Apartment,4,5,0
+Female,No,No,935767,Commercial Associate,Graduate,Divorced,Rented,4,2,1
+Male,Yes,No,171264,Pensioner,Secondary,Married,Apartment,3,5,0
+Female,Yes,No,939809,Commercial Associate,Graduate,Single,House,3,4,0
+Female,No,Yes,438892,Pensioner,Post Graduate,Divorced,House,4,4,0
+Female,No,No,522077,Working,Secondary,Married,Rented,2,0,1
+Male,No,Yes,632064,Pensioner,Post Graduate,Single,Rented,2,1,1
+Male,Yes,Yes,177504,Commercial Associate,Secondary,Divorced,Rented,1,5,0
+Male,Yes,Yes,945860,Working,Post Graduate,Married,House,6,1,0
+Female,No,Yes,981433,Commercial Associate,Secondary,Divorced,Rented,4,1,1
+Female,No,Yes,112003,Working,Secondary,Married,House,4,0,0
+Male,Yes,No,700612,Pensioner,Secondary,Single,House,2,2,1
+Male,Yes,No,236737,Commercial Associate,Graduate,Married,House,4,4,0
+Female,Yes,No,484632,Commercial Associate,Graduate,Divorced,Rented,5,1,0
+Male,Yes,No,890075,Commercial Associate,Graduate,Married,House,2,5,0
+Female,Yes,No,859672,Commercial Associate,Graduate,Married,Rented,6,5,0
+Male,No,Yes,562985,Pensioner,Graduate,Married,Rented,5,4,0
+Male,Yes,No,620078,Working,Graduate,Divorced,House,3,0,1
+Female,No,Yes,976942,Working,Post Graduate,Single,Rented,1,4,0
+Female,Yes,Yes,789117,Pensioner,Graduate,Single,Apartment,1,1,1
+Male,Yes,Yes,437413,Commercial Associate,Graduate,Married,Rented,5,4,0
+Male,No,No,722055,Commercial Associate,Graduate,Divorced,Apartment,2,4,0
+Male,No,Yes,633608,Working,Post Graduate,Divorced,House,4,4,0
+Male,Yes,Yes,864732,Pensioner,Secondary,Divorced,Rented,2,3,0
+Female,Yes,No,787629,Pensioner,Graduate,Divorced,House,5,3,0
+Female,Yes,No,965884,Pensioner,Post Graduate,Divorced,House,6,5,0
+Male,No,Yes,675180,Working,Graduate,Divorced,Apartment,1,4,0
+Male,No,No,95590,Pensioner,Graduate,Single,Rented,4,5,0
+Male,Yes,No,614682,Pensioner,Post Graduate,Married,House,3,5,0
+Male,Yes,No,532430,Commercial Associate,Post Graduate,Single,Rented,2,5,0
+Male,No,Yes,296788,Pensioner,Secondary,Married,Rented,4,4,0
+Male,No,No,795484,Pensioner,Post Graduate,Single,Rented,3,2,1
+Male,Yes,Yes,725336,Working,Post Graduate,Single,Apartment,2,0,1
+Male,No,Yes,384262,Working,Secondary,Married,Rented,4,3,0
+Male,Yes,Yes,625630,Commercial Associate,Post Graduate,Single,House,5,4,0
+Male,No,No,658239,Working,Post Graduate,Divorced,Rented,3,0,1
+Male,No,No,474482,Commercial Associate,Graduate,Married,Apartment,4,0,1
+Female,Yes,No,250297,Commercial Associate,Graduate,Married,Rented,6,0,0
+Female,Yes,Yes,237930,Commercial Associate,Graduate,Married,Rented,6,1,0
+Male,Yes,Yes,797636,Working,Secondary,Single,House,6,3,0
+Female,No,Yes,509419,Pensioner,Graduate,Divorced,Rented,4,1,1
+Male,Yes,No,301261,Commercial Associate,Graduate,Divorced,Apartment,1,5,0
+Male,No,Yes,458055,Commercial Associate,Graduate,Married,Apartment,4,0,1
+Male,No,No,673852,Commercial Associate,Post Graduate,Divorced,Rented,2,0,1
+Female,No,Yes,558336,Pensioner,Secondary,Married,House,1,1,1
+Female,No,No,258665,Pensioner,Secondary,Married,Apartment,3,3,0
+Male,No,Yes,840177,Pensioner,Graduate,Married,Apartment,6,5,0
+Male,Yes,Yes,327581,Pensioner,Graduate,Single,House,3,0,1
+Female,Yes,Yes,207488,Pensioner,Secondary,Married,Rented,1,2,0
+Male,No,No,959527,Working,Post Graduate,Single,Apartment,6,0,0
+Male,Yes,Yes,535838,Pensioner,Post Graduate,Single,Rented,1,3,0
+Male,No,No,67847,Pensioner,Secondary,Married,House,2,1,0
+Male,No,Yes,335819,Working,Post Graduate,Single,Rented,5,4,0
+Male,No,Yes,165044,Pensioner,Secondary,Married,Apartment,3,3,0
+Female,No,No,610103,Commercial Associate,Post Graduate,Divorced,Rented,3,3,0
+Female,No,Yes,694165,Working,Post Graduate,Single,Rented,2,0,1
+Female,Yes,No,946717,Working,Secondary,Divorced,Apartment,1,0,1
+Male,No,Yes,139950,Commercial Associate,Secondary,Single,House,2,5,0
+Female,No,No,454285,Working,Post Graduate,Single,Rented,6,3,0
+Female,No,Yes,523444,Commercial Associate,Graduate,Divorced,Apartment,2,1,1
+Female,No,No,408366,Working,Post Graduate,Married,House,4,0,1
+Female,Yes,Yes,573816,Working,Secondary,Divorced,House,6,5,0
+Male,Yes,Yes,202690,Pensioner,Secondary,Divorced,Apartment,2,0,0
+Female,Yes,No,652975,Pensioner,Graduate,Married,Apartment,2,4,0
+Female,No,Yes,426860,Commercial Associate,Secondary,Single,Rented,2,1,1
+Female,Yes,No,388331,Commercial Associate,Post Graduate,Divorced,Rented,6,4,0
+Female,No,No,96903,Commercial Associate,Post Graduate,Divorced,Apartment,4,3,0
+Female,No,Yes,698445,Commercial Associate,Post Graduate,Single,Rented,6,3,0
+Male,Yes,No,79528,Commercial Associate,Secondary,Single,Apartment,4,3,0
+Female,No,No,57608,Pensioner,Graduate,Married,Rented,4,2,0
+Male,No,No,537650,Working,Secondary,Divorced,House,2,5,0
+Male,No,No,253215,Pensioner,Graduate,Married,Apartment,5,2,0
+Female,No,Yes,103769,Commercial Associate,Secondary,Divorced,Rented,6,4,0
+Female,Yes,No,149221,Pensioner,Secondary,Married,Apartment,4,1,0
+Female,Yes,Yes,505248,Working,Secondary,Divorced,Apartment,4,3,0
+Male,Yes,No,649538,Commercial Associate,Secondary,Divorced,House,4,5,0
+Male,Yes,No,899233,Pensioner,Secondary,Married,Rented,5,3,0
+Female,Yes,No,713396,Working,Graduate,Divorced,Rented,1,1,1
+Female,Yes,Yes,487674,Commercial Associate,Secondary,Divorced,Rented,1,2,1
+Male,No,Yes,992327,Working,Graduate,Single,Apartment,4,2,1
+Female,No,No,761065,Working,Post Graduate,Divorced,Rented,1,4,0
+Female,Yes,Yes,66714,Commercial Associate,Post Graduate,Married,House,4,3,0
+Male,No,Yes,366528,Commercial Associate,Post Graduate,Divorced,Apartment,1,5,0
+Male,No,No,905492,Working,Secondary,Divorced,Apartment,3,5,0
+Female,Yes,Yes,838927,Commercial Associate,Secondary,Married,Apartment,2,2,1
+Female,Yes,No,710372,Pensioner,Secondary,Divorced,Rented,2,2,1
+Male,Yes,No,934796,Working,Secondary,Married,House,5,3,0
+Female,Yes,Yes,722277,Pensioner,Secondary,Single,Apartment,5,2,0
+Female,No,No,310465,Pensioner,Graduate,Single,Apartment,6,3,0
+Male,No,Yes,480207,Working,Post Graduate,Divorced,Rented,6,5,0
+Female,Yes,Yes,956467,Pensioner,Secondary,Married,Rented,6,2,0
+Male,No,No,980075,Pensioner,Post Graduate,Married,House,5,3,0
+Female,Yes,No,912472,Pensioner,Graduate,Single,Rented,4,4,0
+Female,No,No,932697,Commercial Associate,Secondary,Single,House,3,1,1
+Female,Yes,Yes,931597,Working,Graduate,Married,House,4,5,0
+Male,Yes,No,657856,Working,Graduate,Divorced,Apartment,3,2,1
+Male,No,No,866839,Commercial Associate,Post Graduate,Divorced,House,6,3,0
+Male,No,No,522136,Pensioner,Secondary,Married,Apartment,5,4,0
+Female,No,No,715103,Pensioner,Secondary,Married,Rented,4,4,0
+Male,Yes,Yes,690845,Pensioner,Graduate,Single,Apartment,4,3,0
+Female,No,Yes,585303,Pensioner,Secondary,Divorced,House,2,1,1
+Male,No,Yes,990107,Working,Graduate,Divorced,Apartment,3,0,1
+Male,Yes,No,818052,Working,Graduate,Single,Apartment,2,0,1
+Male,Yes,Yes,853909,Pensioner,Graduate,Married,Apartment,2,4,0
+Female,Yes,No,753742,Working,Secondary,Divorced,Rented,5,5,0
+Male,No,No,204008,Pensioner,Secondary,Married,Rented,4,3,0
+Male,No,Yes,363200,Commercial Associate,Post Graduate,Married,Apartment,5,4,0
+Female,Yes,Yes,195367,Pensioner,Secondary,Divorced,Apartment,5,5,0
+Male,Yes,Yes,164300,Working,Post Graduate,Divorced,House,2,3,0
+Female,Yes,No,851714,Commercial Associate,Graduate,Single,Rented,4,1,1
+Female,No,No,351805,Commercial Associate,Post Graduate,Married,Rented,2,0,1
+Female,Yes,Yes,591545,Pensioner,Graduate,Married,House,1,0,1
+Male,No,Yes,656433,Commercial Associate,Secondary,Married,Apartment,5,0,0
+Female,No,Yes,333827,Pensioner,Secondary,Single,House,1,0,1
+Female,Yes,No,807427,Working,Graduate,Single,Rented,6,5,0
+Female,Yes,Yes,674385,Commercial Associate,Secondary,Married,Rented,1,0,1
+Male,Yes,Yes,144934,Commercial Associate,Graduate,Married,Rented,3,0,0
+Female,Yes,No,527963,Pensioner,Secondary,Divorced,Rented,2,0,1
+Male,Yes,No,754894,Commercial Associate,Post Graduate,Divorced,House,4,3,0
+Female,No,Yes,837269,Commercial Associate,Secondary,Married,Rented,5,5,0
+Male,Yes,Yes,840223,Pensioner,Post Graduate,Divorced,House,6,2,0
+Female,No,Yes,587556,Commercial Associate,Post Graduate,Single,Apartment,1,1,1
+Female,Yes,Yes,144655,Working,Post Graduate,Married,Rented,6,4,0
+Male,Yes,No,421250,Working,Graduate,Single,House,1,2,1
+Female,Yes,Yes,182334,Working,Graduate,Single,House,2,3,0
+Female,Yes,Yes,310058,Pensioner,Secondary,Married,House,2,2,1
+Male,Yes,No,788132,Pensioner,Graduate,Divorced,Rented,1,3,0
+Male,Yes,No,284120,Commercial Associate,Post Graduate,Married,Apartment,4,0,1
+Female,Yes,Yes,601178,Commercial Associate,Graduate,Married,Rented,2,5,0
+Male,Yes,Yes,399960,Pensioner,Secondary,Married,House,1,2,1
+Female,Yes,Yes,388212,Pensioner,Post Graduate,Married,Apartment,6,0,0
+Male,No,No,838696,Commercial Associate,Graduate,Married,Rented,6,0,0
+Male,Yes,Yes,451990,Pensioner,Secondary,Single,Rented,2,3,0
+Male,Yes,No,60527,Working,Secondary,Divorced,Rented,6,4,0
+Male,Yes,No,170463,Pensioner,Secondary,Married,Apartment,5,1,0
+Female,No,Yes,695574,Commercial Associate,Graduate,Single,House,1,4,0
+Male,No,No,725587,Pensioner,Post Graduate,Single,Rented,3,3,0
+Male,Yes,Yes,906815,Commercial Associate,Post Graduate,Married,Rented,6,1,0
+Male,Yes,No,478815,Working,Secondary,Single,Apartment,5,4,0
+Female,Yes,Yes,692797,Commercial Associate,Secondary,Divorced,Apartment,4,5,0
+Male,No,Yes,288821,Commercial Associate,Post Graduate,Married,Apartment,3,3,0
+Male,No,No,170240,Pensioner,Secondary,Single,Apartment,1,5,0
+Female,No,Yes,757591,Working,Secondary,Divorced,Apartment,4,1,1
+Female,No,Yes,992543,Pensioner,Post Graduate,Married,Apartment,1,1,1
+Male,Yes,Yes,572010,Commercial Associate,Post Graduate,Divorced,Rented,3,3,0
+Female,Yes,Yes,307577,Working,Graduate,Divorced,Rented,5,2,0
+Male,No,Yes,725695,Commercial Associate,Graduate,Single,Rented,6,0,0
+Male,Yes,No,676396,Working,Post Graduate,Single,Apartment,4,2,1
+Female,Yes,No,671543,Pensioner,Graduate,Divorced,House,6,5,0
+Male,Yes,No,369112,Commercial Associate,Secondary,Single,House,4,0,1
+Female,No,Yes,255100,Pensioner,Graduate,Divorced,Rented,4,0,1
+Male,Yes,No,858935,Pensioner,Graduate,Married,Apartment,5,2,0
+Male,No,Yes,622226,Working,Post Graduate,Single,Rented,1,5,0
+Male,Yes,Yes,306221,Working,Secondary,Divorced,House,6,3,0
