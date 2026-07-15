@@ -1,0 +1,1001 @@
+Gender,Income_Type,Annual_Income,Employment_Years,Education,Approved
+Female,Pensioner,561936,4,Post Graduate,1
+Female,Working,101741,9,Graduate,0
+Female,Pensioner,740556,3,Graduate,1
+Male,Pensioner,971371,2,Graduate,1
+Male,Pensioner,831410,5,Graduate,1
+Male,Pensioner,659958,6,Secondary,1
+Male,Pensioner,380175,19,Graduate,1
+Male,Commercial Associate,343293,28,Secondary,1
+Female,Working,141998,26,Post Graduate,0
+Female,Pensioner,779134,1,Post Graduate,1
+Male,Pensioner,844197,19,Post Graduate,1
+Male,Pensioner,380861,12,Post Graduate,1
+Male,Commercial Associate,481243,17,Post Graduate,1
+Male,Working,127201,23,Graduate,0
+Male,Working,493695,22,Secondary,1
+Female,Working,101138,17,Post Graduate,0
+Female,Pensioner,887575,30,Graduate,1
+Male,Working,631868,29,Secondary,1
+Male,Commercial Associate,902907,3,Graduate,1
+Male,Commercial Associate,912661,7,Post Graduate,1
+Female,Pensioner,866073,19,Post Graduate,1
+Male,Pensioner,749682,12,Secondary,1
+Female,Working,94827,18,Post Graduate,0
+Female,Working,931886,26,Graduate,1
+Female,Working,386504,16,Graduate,1
+Female,Pensioner,824033,27,Post Graduate,1
+Male,Working,150193,2,Post Graduate,0
+Male,Working,324249,3,Secondary,1
+Male,Commercial Associate,123409,22,Graduate,0
+Female,Pensioner,463759,16,Post Graduate,1
+Female,Commercial Associate,430229,4,Post Graduate,1
+Male,Pensioner,522927,18,Post Graduate,1
+Female,Pensioner,234057,8,Post Graduate,1
+Male,Working,495250,12,Secondary,1
+Female,Working,868940,8,Secondary,1
+Male,Pensioner,530704,19,Post Graduate,1
+Female,Pensioner,854648,1,Graduate,0
+Female,Pensioner,165700,5,Post Graduate,0
+Male,Commercial Associate,743009,26,Post Graduate,1
+Female,Commercial Associate,643027,11,Graduate,1
+Female,Pensioner,802146,27,Graduate,1
+Female,Commercial Associate,191190,18,Graduate,0
+Male,Pensioner,515465,26,Secondary,1
+Female,Commercial Associate,477545,24,Secondary,1
+Male,Commercial Associate,387508,7,Graduate,1
+Male,Pensioner,354708,9,Post Graduate,1
+Female,Commercial Associate,256414,28,Graduate,1
+Male,Working,251908,24,Post Graduate,1
+Male,Pensioner,682528,10,Graduate,1
+Female,Pensioner,820727,17,Graduate,1
+Female,Pensioner,522398,11,Graduate,1
+Male,Commercial Associate,115609,18,Graduate,0
+Female,Pensioner,550525,9,Secondary,1
+Female,Pensioner,236717,13,Graduate,0
+Female,Commercial Associate,606976,8,Secondary,1
+Male,Working,234471,15,Graduate,0
+Male,Working,883014,6,Secondary,1
+Female,Working,658430,18,Secondary,1
+Female,Working,957351,2,Post Graduate,1
+Female,Pensioner,444562,21,Graduate,1
+Male,Working,377047,28,Post Graduate,1
+Female,Pensioner,215594,11,Secondary,0
+Female,Pensioner,912348,24,Secondary,1
+Female,Pensioner,369702,23,Graduate,1
+Male,Pensioner,358117,15,Graduate,1
+Male,Working,90403,14,Secondary,0
+Female,Pensioner,640440,4,Secondary,1
+Female,Commercial Associate,350738,9,Graduate,1
+Male,Working,285662,21,Graduate,1
+Male,Commercial Associate,105485,16,Graduate,0
+Female,Pensioner,860336,20,Secondary,1
+Male,Pensioner,295044,12,Secondary,1
+Female,Commercial Associate,854545,24,Post Graduate,1
+Female,Pensioner,350772,30,Post Graduate,1
+Male,Working,523675,6,Graduate,1
+Female,Working,788467,0,Secondary,0
+Female,Commercial Associate,186692,22,Graduate,0
+Female,Working,97628,9,Post Graduate,0
+Female,Working,153066,19,Post Graduate,0
+Female,Pensioner,539883,13,Secondary,1
+Male,Pensioner,93815,1,Secondary,0
+Male,Pensioner,866618,13,Graduate,1
+Female,Working,715495,24,Post Graduate,1
+Male,Commercial Associate,116625,10,Post Graduate,0
+Male,Working,698498,16,Graduate,1
+Male,Commercial Associate,168051,16,Secondary,0
+Female,Pensioner,120744,8,Graduate,0
+Male,Working,887266,21,Secondary,1
+Female,Pensioner,484678,22,Secondary,1
+Female,Commercial Associate,488617,22,Post Graduate,1
+Female,Commercial Associate,461883,7,Graduate,1
+Male,Pensioner,105226,21,Post Graduate,0
+Female,Pensioner,578773,14,Graduate,1
+Male,Commercial Associate,258794,18,Graduate,1
+Female,Pensioner,660424,23,Secondary,1
+Male,Working,221346,3,Post Graduate,1
+Male,Pensioner,579625,26,Post Graduate,1
+Male,Commercial Associate,515232,13,Graduate,1
+Female,Commercial Associate,448577,7,Secondary,1
+Female,Commercial Associate,812757,24,Graduate,1
+Female,Pensioner,246694,29,Graduate,0
+Female,Working,317139,7,Post Graduate,1
+Female,Pensioner,402789,19,Secondary,1
+Female,Working,984717,18,Secondary,1
+Male,Commercial Associate,871827,9,Graduate,1
+Female,Pensioner,974988,14,Post Graduate,1
+Female,Commercial Associate,245365,1,Post Graduate,1
+Female,Commercial Associate,322706,18,Post Graduate,1
+Male,Commercial Associate,80365,14,Secondary,0
+Female,Pensioner,327933,24,Secondary,1
+Male,Working,226043,8,Post Graduate,1
+Female,Commercial Associate,817439,4,Secondary,1
+Female,Commercial Associate,363095,1,Post Graduate,1
+Female,Pensioner,350640,24,Secondary,1
+Male,Pensioner,422013,24,Graduate,1
+Female,Working,865838,30,Post Graduate,1
+Male,Commercial Associate,199937,21,Post Graduate,0
+Male,Working,944997,15,Graduate,1
+Male,Pensioner,553031,9,Graduate,1
+Male,Commercial Associate,470790,9,Post Graduate,1
+Male,Working,120266,1,Secondary,0
+Male,Commercial Associate,486518,24,Post Graduate,1
+Female,Commercial Associate,331456,24,Post Graduate,1
+Female,Commercial Associate,392483,0,Post Graduate,1
+Female,Working,850512,22,Secondary,1
+Male,Working,937738,4,Post Graduate,1
+Female,Working,314784,23,Graduate,1
+Male,Pensioner,935745,15,Graduate,1
+Male,Working,722248,24,Post Graduate,1
+Male,Pensioner,512703,20,Post Graduate,1
+Male,Pensioner,364321,21,Graduate,1
+Female,Working,449102,18,Secondary,1
+Male,Pensioner,449383,2,Graduate,1
+Male,Pensioner,494633,17,Post Graduate,1
+Male,Pensioner,120179,15,Graduate,0
+Female,Pensioner,901176,20,Graduate,1
+Male,Working,120593,7,Secondary,0
+Female,Working,886848,18,Secondary,1
+Male,Commercial Associate,240287,3,Post Graduate,1
+Male,Pensioner,522692,20,Secondary,1
+Male,Pensioner,215190,21,Secondary,0
+Male,Commercial Associate,150734,7,Graduate,0
+Female,Pensioner,738863,17,Graduate,1
+Male,Working,919107,3,Secondary,1
+Male,Pensioner,258865,1,Post Graduate,1
+Female,Working,913691,1,Secondary,0
+Male,Pensioner,535860,21,Secondary,1
+Male,Commercial Associate,465346,25,Secondary,1
+Female,Pensioner,306919,21,Secondary,1
+Female,Working,439557,22,Secondary,1
+Male,Working,695177,20,Graduate,1
+Female,Working,536196,3,Secondary,1
+Male,Pensioner,739289,28,Secondary,1
+Male,Pensioner,781992,25,Post Graduate,1
+Female,Pensioner,263757,6,Secondary,1
+Male,Working,638569,25,Secondary,1
+Male,Pensioner,985983,16,Secondary,1
+Female,Working,812362,7,Secondary,1
+Female,Pensioner,482785,12,Secondary,1
+Female,Commercial Associate,610331,22,Graduate,1
+Female,Working,440780,15,Graduate,1
+Female,Pensioner,204644,8,Secondary,0
+Female,Pensioner,931262,17,Post Graduate,1
+Male,Commercial Associate,257542,14,Graduate,1
+Male,Working,789858,2,Post Graduate,1
+Male,Pensioner,869475,28,Post Graduate,1
+Female,Pensioner,991109,22,Secondary,1
+Female,Pensioner,483375,28,Graduate,1
+Male,Working,932494,20,Graduate,1
+Male,Working,596190,8,Graduate,1
+Female,Commercial Associate,345226,21,Post Graduate,1
+Female,Pensioner,702032,18,Secondary,1
+Male,Working,532366,16,Secondary,1
+Female,Commercial Associate,394490,1,Secondary,0
+Male,Working,948698,25,Secondary,1
+Female,Pensioner,703671,14,Post Graduate,1
+Male,Pensioner,563884,22,Graduate,1
+Male,Commercial Associate,789170,27,Post Graduate,1
+Female,Working,461353,3,Post Graduate,1
+Male,Pensioner,402324,28,Post Graduate,1
+Female,Working,795490,20,Graduate,1
+Male,Pensioner,349754,7,Post Graduate,1
+Female,Commercial Associate,492735,17,Graduate,1
+Female,Working,915143,22,Graduate,1
+Female,Pensioner,423363,13,Secondary,1
+Female,Pensioner,934498,15,Secondary,1
+Male,Pensioner,765448,30,Secondary,1
+Female,Commercial Associate,719176,25,Post Graduate,1
+Male,Commercial Associate,617679,20,Graduate,1
+Female,Commercial Associate,950779,19,Secondary,1
+Male,Pensioner,813471,29,Secondary,1
+Male,Commercial Associate,696168,14,Graduate,1
+Male,Commercial Associate,210451,5,Graduate,0
+Male,Working,850209,1,Graduate,0
+Female,Working,610327,20,Secondary,1
+Female,Commercial Associate,265568,6,Graduate,1
+Female,Commercial Associate,605171,30,Graduate,1
+Female,Pensioner,90216,4,Post Graduate,0
+Male,Pensioner,441110,18,Graduate,1
+Female,Working,526627,28,Graduate,1
+Male,Pensioner,235649,8,Graduate,0
+Male,Pensioner,244539,29,Post Graduate,1
+Female,Pensioner,280227,22,Secondary,1
+Female,Working,748011,20,Graduate,1
+Male,Working,723491,28,Post Graduate,1
+Male,Pensioner,253522,26,Secondary,1
+Male,Working,208397,22,Post Graduate,1
+Female,Pensioner,559293,9,Secondary,1
+Female,Commercial Associate,733681,27,Graduate,1
+Female,Working,191011,24,Secondary,0
+Female,Commercial Associate,379231,7,Post Graduate,1
+Female,Pensioner,310367,20,Post Graduate,1
+Female,Commercial Associate,155070,15,Post Graduate,0
+Female,Working,849225,26,Post Graduate,1
+Female,Working,871231,8,Secondary,1
+Male,Commercial Associate,878699,26,Secondary,1
+Female,Working,858082,6,Post Graduate,1
+Male,Pensioner,186833,24,Post Graduate,0
+Male,Commercial Associate,633259,13,Post Graduate,1
+Male,Pensioner,173248,11,Post Graduate,0
+Male,Commercial Associate,511131,5,Graduate,1
+Female,Working,944883,13,Graduate,1
+Female,Working,892395,1,Secondary,0
+Male,Commercial Associate,122871,8,Post Graduate,0
+Female,Working,600086,30,Post Graduate,1
+Male,Commercial Associate,747045,18,Secondary,1
+Female,Commercial Associate,292839,11,Graduate,1
+Female,Working,630916,12,Post Graduate,1
+Female,Pensioner,569966,16,Secondary,1
+Female,Commercial Associate,112269,22,Graduate,0
+Male,Pensioner,292818,13,Graduate,1
+Female,Commercial Associate,252273,26,Post Graduate,1
+Male,Working,848868,4,Graduate,1
+Female,Pensioner,313150,24,Post Graduate,1
+Female,Working,412471,4,Graduate,1
+Male,Working,344725,10,Post Graduate,1
+Female,Commercial Associate,490432,24,Graduate,1
+Female,Pensioner,204845,29,Post Graduate,1
+Male,Working,562488,15,Secondary,1
+Female,Pensioner,851955,20,Graduate,1
+Female,Working,839010,0,Graduate,0
+Male,Pensioner,587429,21,Secondary,1
+Male,Working,408377,23,Graduate,1
+Male,Pensioner,423686,20,Secondary,1
+Male,Pensioner,939370,1,Graduate,0
+Male,Working,794432,29,Graduate,1
+Female,Commercial Associate,561109,6,Secondary,1
+Male,Commercial Associate,407955,6,Post Graduate,1
+Male,Pensioner,98331,14,Post Graduate,0
+Female,Commercial Associate,844717,27,Post Graduate,1
+Female,Commercial Associate,295335,29,Graduate,1
+Female,Working,966275,19,Post Graduate,1
+Male,Working,134342,11,Secondary,0
+Female,Pensioner,375698,18,Post Graduate,1
+Female,Working,283802,0,Secondary,0
+Male,Commercial Associate,380024,5,Graduate,1
+Male,Pensioner,566827,29,Secondary,1
+Female,Commercial Associate,999870,25,Post Graduate,1
+Female,Commercial Associate,783677,30,Graduate,1
+Male,Working,149178,0,Graduate,0
+Female,Commercial Associate,967522,13,Post Graduate,1
+Male,Commercial Associate,171547,1,Secondary,0
+Male,Working,274148,1,Graduate,0
+Female,Working,258106,16,Graduate,1
+Male,Working,700547,14,Post Graduate,1
+Male,Commercial Associate,588637,16,Secondary,1
+Female,Commercial Associate,842231,2,Secondary,1
+Male,Working,146416,12,Post Graduate,0
+Female,Working,241536,26,Graduate,0
+Female,Commercial Associate,197759,12,Graduate,0
+Male,Working,727228,16,Post Graduate,1
+Female,Working,508903,9,Secondary,1
+Male,Commercial Associate,388964,27,Post Graduate,1
+Female,Working,940421,18,Post Graduate,1
+Female,Pensioner,421624,13,Post Graduate,1
+Female,Pensioner,615514,13,Post Graduate,1
+Male,Pensioner,618566,7,Graduate,1
+Male,Working,142111,29,Post Graduate,0
+Male,Commercial Associate,683174,3,Graduate,1
+Male,Pensioner,669496,29,Post Graduate,1
+Male,Commercial Associate,720275,28,Graduate,1
+Male,Working,80344,14,Graduate,0
+Male,Working,129465,24,Post Graduate,0
+Female,Working,105030,1,Secondary,0
+Female,Pensioner,980680,6,Secondary,1
+Male,Pensioner,433060,2,Post Graduate,1
+Male,Pensioner,927987,4,Post Graduate,1
+Male,Working,359869,8,Secondary,1
+Male,Working,263767,22,Secondary,1
+Male,Working,366956,21,Secondary,1
+Male,Working,617922,9,Post Graduate,1
+Female,Commercial Associate,300028,26,Secondary,1
+Male,Commercial Associate,223312,9,Secondary,0
+Female,Working,697442,14,Secondary,1
+Male,Commercial Associate,407271,28,Graduate,1
+Male,Commercial Associate,355920,1,Secondary,0
+Female,Pensioner,423318,26,Graduate,1
+Female,Commercial Associate,298292,15,Graduate,1
+Male,Commercial Associate,827581,20,Graduate,1
+Female,Pensioner,428227,7,Graduate,1
+Male,Pensioner,331107,13,Graduate,1
+Female,Pensioner,343577,18,Graduate,1
+Female,Pensioner,100824,24,Graduate,0
+Female,Pensioner,786731,4,Post Graduate,1
+Male,Working,527693,7,Secondary,1
+Male,Pensioner,111101,14,Post Graduate,0
+Male,Commercial Associate,287077,7,Secondary,1
+Male,Pensioner,200330,17,Post Graduate,1
+Female,Commercial Associate,289598,9,Secondary,1
+Female,Working,535506,19,Graduate,1
+Female,Pensioner,369119,22,Post Graduate,1
+Male,Pensioner,603045,13,Graduate,1
+Male,Commercial Associate,869832,18,Secondary,1
+Male,Commercial Associate,131116,0,Graduate,0
+Male,Working,987657,25,Secondary,1
+Male,Commercial Associate,956325,11,Graduate,1
+Female,Commercial Associate,646558,22,Graduate,1
+Male,Working,285240,6,Secondary,1
+Male,Pensioner,675590,12,Graduate,1
+Male,Working,267161,10,Graduate,1
+Male,Pensioner,994460,2,Secondary,1
+Female,Pensioner,998595,23,Post Graduate,1
+Male,Pensioner,705584,1,Secondary,0
+Female,Pensioner,168718,8,Post Graduate,0
+Female,Commercial Associate,582988,29,Graduate,1
+Male,Working,569314,5,Graduate,1
+Male,Working,946671,22,Post Graduate,1
+Male,Pensioner,299042,2,Secondary,1
+Female,Commercial Associate,427097,13,Post Graduate,1
+Female,Pensioner,719924,13,Graduate,1
+Male,Commercial Associate,422537,0,Graduate,0
+Female,Pensioner,921011,24,Post Graduate,1
+Male,Working,884167,21,Secondary,1
+Male,Working,224881,20,Post Graduate,1
+Female,Working,915654,6,Secondary,1
+Female,Pensioner,140926,11,Post Graduate,0
+Female,Working,142508,2,Graduate,0
+Female,Working,178234,25,Secondary,0
+Female,Working,396758,23,Post Graduate,1
+Female,Working,978837,22,Graduate,1
+Female,Commercial Associate,967964,27,Graduate,1
+Female,Working,414789,1,Secondary,0
+Female,Pensioner,694315,7,Secondary,1
+Female,Pensioner,930485,4,Graduate,1
+Female,Working,866492,5,Secondary,1
+Male,Working,272221,7,Post Graduate,1
+Female,Commercial Associate,316075,27,Graduate,1
+Female,Commercial Associate,712598,12,Graduate,1
+Female,Commercial Associate,210802,19,Secondary,0
+Female,Commercial Associate,467622,1,Post Graduate,1
+Male,Commercial Associate,443109,12,Secondary,1
+Female,Working,305699,11,Secondary,1
+Female,Commercial Associate,382205,16,Post Graduate,1
+Male,Working,999986,21,Secondary,1
+Male,Commercial Associate,430128,20,Graduate,1
+Male,Commercial Associate,140834,26,Post Graduate,0
+Male,Pensioner,707391,12,Graduate,1
+Male,Pensioner,343654,12,Secondary,1
+Male,Working,565037,11,Post Graduate,1
+Male,Working,152290,17,Post Graduate,0
+Male,Working,514368,2,Secondary,1
+Male,Working,193982,19,Graduate,0
+Female,Working,321692,5,Secondary,1
+Female,Working,668713,2,Post Graduate,1
+Female,Commercial Associate,299936,18,Graduate,1
+Female,Pensioner,923111,4,Post Graduate,1
+Female,Working,468562,21,Secondary,1
+Female,Working,669578,11,Secondary,1
+Female,Working,867326,13,Post Graduate,1
+Female,Pensioner,654210,20,Post Graduate,1
+Male,Commercial Associate,870616,14,Graduate,1
+Female,Working,997108,5,Secondary,1
+Female,Pensioner,778972,13,Graduate,1
+Male,Commercial Associate,502585,17,Secondary,1
+Male,Pensioner,600140,2,Secondary,1
+Male,Working,979863,14,Secondary,1
+Male,Pensioner,844440,27,Post Graduate,1
+Male,Commercial Associate,492726,18,Post Graduate,1
+Male,Commercial Associate,778085,3,Secondary,1
+Female,Commercial Associate,909197,22,Post Graduate,1
+Female,Working,971742,5,Graduate,1
+Female,Working,368078,19,Secondary,1
+Female,Commercial Associate,161780,30,Graduate,0
+Female,Commercial Associate,993034,1,Secondary,0
+Female,Working,806569,1,Secondary,0
+Male,Working,466002,2,Post Graduate,1
+Male,Commercial Associate,905608,15,Graduate,1
+Female,Working,999012,5,Post Graduate,1
+Male,Pensioner,711441,12,Secondary,1
+Female,Pensioner,558549,28,Secondary,1
+Female,Working,349446,1,Graduate,0
+Female,Pensioner,675904,18,Secondary,1
+Male,Commercial Associate,232506,29,Post Graduate,1
+Female,Commercial Associate,492796,6,Secondary,1
+Male,Pensioner,180620,3,Secondary,0
+Female,Pensioner,265377,1,Graduate,0
+Male,Working,84566,9,Graduate,0
+Female,Working,978470,30,Post Graduate,1
+Male,Commercial Associate,782419,22,Graduate,1
+Female,Commercial Associate,211283,2,Secondary,0
+Male,Commercial Associate,308047,10,Secondary,1
+Female,Pensioner,92883,1,Post Graduate,0
+Male,Working,163880,12,Graduate,0
+Male,Pensioner,412680,17,Post Graduate,1
+Female,Pensioner,968836,1,Post Graduate,1
+Female,Working,145493,26,Graduate,0
+Male,Commercial Associate,770945,27,Graduate,1
+Male,Commercial Associate,928823,20,Graduate,1
+Female,Working,83894,30,Secondary,0
+Female,Working,984982,18,Graduate,1
+Female,Pensioner,777292,15,Graduate,1
+Female,Working,898795,4,Secondary,1
+Male,Commercial Associate,918075,7,Graduate,1
+Female,Pensioner,933609,19,Post Graduate,1
+Male,Pensioner,755227,28,Post Graduate,1
+Female,Working,425659,6,Post Graduate,1
+Female,Pensioner,939667,18,Post Graduate,1
+Male,Commercial Associate,181810,8,Secondary,0
+Male,Commercial Associate,127094,22,Post Graduate,0
+Female,Pensioner,770344,3,Post Graduate,1
+Female,Pensioner,379066,18,Secondary,1
+Female,Commercial Associate,880593,22,Post Graduate,1
+Female,Pensioner,574250,5,Secondary,1
+Male,Commercial Associate,836932,4,Post Graduate,1
+Female,Pensioner,113094,1,Secondary,0
+Male,Pensioner,797848,5,Post Graduate,1
+Male,Pensioner,648740,12,Secondary,1
+Female,Commercial Associate,668710,15,Post Graduate,1
+Male,Working,123931,2,Secondary,0
+Male,Pensioner,829030,11,Graduate,1
+Female,Pensioner,496220,28,Secondary,1
+Female,Commercial Associate,622814,18,Graduate,1
+Female,Commercial Associate,218285,13,Post Graduate,1
+Female,Working,804116,23,Graduate,1
+Male,Commercial Associate,424224,8,Graduate,1
+Male,Working,791318,17,Post Graduate,1
+Female,Commercial Associate,548574,24,Secondary,1
+Female,Commercial Associate,524478,15,Secondary,1
+Male,Pensioner,164001,16,Secondary,0
+Female,Pensioner,967210,14,Secondary,1
+Female,Working,664312,28,Secondary,1
+Male,Pensioner,145300,25,Post Graduate,0
+Male,Commercial Associate,277985,23,Secondary,1
+Male,Pensioner,657736,22,Secondary,1
+Male,Commercial Associate,842341,8,Secondary,1
+Male,Commercial Associate,900608,18,Secondary,1
+Female,Working,862866,1,Graduate,0
+Female,Working,877335,5,Post Graduate,1
+Male,Commercial Associate,511329,9,Graduate,1
+Male,Commercial Associate,459770,0,Post Graduate,1
+Male,Commercial Associate,669587,30,Post Graduate,1
+Female,Commercial Associate,734686,4,Graduate,1
+Female,Pensioner,258745,19,Post Graduate,1
+Female,Working,403774,29,Post Graduate,1
+Female,Pensioner,833549,8,Post Graduate,1
+Female,Commercial Associate,824290,6,Graduate,1
+Female,Working,429679,12,Post Graduate,1
+Female,Working,421224,21,Graduate,1
+Male,Pensioner,322736,7,Graduate,1
+Male,Pensioner,554738,21,Post Graduate,1
+Male,Commercial Associate,976361,0,Secondary,0
+Female,Working,177842,12,Secondary,0
+Male,Commercial Associate,483545,30,Post Graduate,1
+Male,Pensioner,673390,25,Post Graduate,1
+Female,Commercial Associate,782535,20,Graduate,1
+Female,Working,322634,10,Post Graduate,1
+Female,Pensioner,348088,9,Post Graduate,1
+Male,Working,337272,25,Post Graduate,1
+Male,Pensioner,432787,28,Secondary,1
+Female,Pensioner,407786,0,Post Graduate,1
+Male,Commercial Associate,213117,21,Post Graduate,1
+Female,Working,313572,28,Post Graduate,1
+Male,Commercial Associate,361949,17,Post Graduate,1
+Male,Pensioner,479037,25,Post Graduate,1
+Female,Pensioner,877884,3,Post Graduate,1
+Male,Commercial Associate,957081,12,Secondary,1
+Male,Commercial Associate,422711,3,Secondary,1
+Female,Pensioner,679473,0,Secondary,0
+Male,Pensioner,276474,0,Secondary,0
+Male,Pensioner,962285,10,Post Graduate,1
+Male,Working,310077,3,Secondary,1
+Male,Working,798770,20,Graduate,1
+Female,Commercial Associate,223504,4,Secondary,0
+Male,Commercial Associate,808346,18,Graduate,1
+Male,Pensioner,561206,11,Secondary,1
+Male,Pensioner,471523,12,Secondary,1
+Male,Pensioner,972092,3,Graduate,1
+Male,Commercial Associate,939400,2,Secondary,1
+Male,Pensioner,244906,17,Graduate,0
+Male,Commercial Associate,747436,23,Graduate,1
+Female,Commercial Associate,776146,29,Graduate,1
+Female,Pensioner,418406,25,Graduate,1
+Male,Working,518369,21,Post Graduate,1
+Male,Commercial Associate,890961,2,Post Graduate,1
+Male,Working,947803,6,Secondary,1
+Male,Pensioner,533280,6,Secondary,1
+Male,Commercial Associate,668481,26,Post Graduate,1
+Female,Commercial Associate,977013,25,Post Graduate,1
+Female,Commercial Associate,764579,15,Post Graduate,1
+Female,Commercial Associate,929150,25,Graduate,1
+Male,Pensioner,614678,0,Graduate,0
+Female,Working,230470,28,Post Graduate,1
+Male,Pensioner,177703,23,Graduate,0
+Female,Working,292394,23,Secondary,1
+Female,Working,745960,0,Post Graduate,1
+Male,Pensioner,783058,17,Graduate,1
+Male,Working,363055,18,Graduate,1
+Female,Working,287530,15,Graduate,1
+Female,Commercial Associate,841674,20,Post Graduate,1
+Male,Pensioner,915104,0,Secondary,0
+Male,Pensioner,792618,21,Graduate,1
+Female,Pensioner,218045,12,Secondary,0
+Female,Working,974560,18,Secondary,1
+Male,Working,839573,2,Graduate,1
+Male,Pensioner,612843,7,Secondary,1
+Male,Working,709773,19,Secondary,1
+Female,Commercial Associate,656331,2,Graduate,1
+Female,Commercial Associate,590720,22,Post Graduate,1
+Female,Working,601652,13,Graduate,1
+Male,Working,130462,8,Secondary,0
+Female,Working,605587,0,Post Graduate,1
+Female,Working,929882,15,Secondary,1
+Female,Working,260624,7,Graduate,1
+Female,Pensioner,848284,16,Post Graduate,1
+Female,Pensioner,970682,28,Post Graduate,1
+Female,Pensioner,912987,25,Graduate,1
+Male,Pensioner,883200,1,Secondary,0
+Male,Pensioner,280093,12,Graduate,1
+Female,Working,497599,2,Post Graduate,1
+Male,Pensioner,773026,28,Secondary,1
+Female,Working,951326,21,Post Graduate,1
+Male,Working,481849,12,Secondary,1
+Female,Commercial Associate,579554,12,Secondary,1
+Female,Pensioner,285683,12,Graduate,1
+Male,Commercial Associate,186073,6,Secondary,0
+Male,Working,609801,11,Graduate,1
+Male,Commercial Associate,982111,6,Post Graduate,1
+Male,Commercial Associate,735779,29,Secondary,1
+Male,Commercial Associate,690969,30,Secondary,1
+Male,Commercial Associate,139501,15,Secondary,0
+Female,Pensioner,940275,26,Post Graduate,1
+Male,Commercial Associate,531874,3,Graduate,1
+Male,Commercial Associate,112062,29,Graduate,0
+Male,Pensioner,197062,28,Graduate,0
+Female,Commercial Associate,746767,10,Post Graduate,1
+Female,Commercial Associate,691553,24,Secondary,1
+Male,Working,952453,0,Post Graduate,1
+Male,Commercial Associate,199787,7,Secondary,0
+Female,Pensioner,515403,17,Post Graduate,1
+Female,Working,767437,7,Graduate,1
+Male,Pensioner,529586,19,Graduate,1
+Male,Commercial Associate,524866,17,Secondary,1
+Male,Pensioner,350063,26,Secondary,1
+Female,Pensioner,661038,18,Graduate,1
+Male,Pensioner,836057,7,Graduate,1
+Male,Pensioner,164611,11,Secondary,0
+Female,Working,674774,19,Graduate,1
+Male,Pensioner,988506,3,Secondary,1
+Female,Working,725574,14,Secondary,1
+Female,Pensioner,628878,29,Secondary,1
+Male,Pensioner,164890,6,Graduate,0
+Female,Commercial Associate,601620,28,Secondary,1
+Female,Commercial Associate,693458,24,Secondary,1
+Female,Commercial Associate,821877,20,Post Graduate,1
+Male,Commercial Associate,326489,7,Graduate,1
+Male,Pensioner,927188,1,Post Graduate,1
+Female,Working,301712,23,Secondary,1
+Female,Commercial Associate,898918,23,Graduate,1
+Female,Pensioner,144923,14,Post Graduate,0
+Female,Working,442773,3,Graduate,1
+Female,Working,632082,7,Graduate,1
+Male,Working,532516,24,Post Graduate,1
+Male,Pensioner,456885,10,Graduate,1
+Male,Commercial Associate,254787,15,Graduate,1
+Male,Pensioner,291245,4,Graduate,1
+Male,Pensioner,951568,13,Secondary,1
+Female,Pensioner,839453,14,Post Graduate,1
+Female,Pensioner,686174,23,Graduate,1
+Male,Commercial Associate,631425,0,Secondary,0
+Female,Commercial Associate,653449,21,Post Graduate,1
+Female,Pensioner,560388,10,Graduate,1
+Male,Commercial Associate,708629,13,Graduate,1
+Female,Working,703856,21,Secondary,1
+Female,Working,544492,14,Post Graduate,1
+Female,Pensioner,947660,29,Post Graduate,1
+Male,Working,766521,26,Post Graduate,1
+Male,Working,104985,17,Secondary,0
+Male,Commercial Associate,744672,15,Graduate,1
+Male,Commercial Associate,537079,25,Secondary,1
+Male,Commercial Associate,294898,26,Secondary,1
+Female,Commercial Associate,257324,14,Graduate,1
+Male,Commercial Associate,109587,3,Graduate,0
+Female,Working,274449,9,Secondary,1
+Male,Commercial Associate,747711,26,Secondary,1
+Female,Commercial Associate,316035,28,Post Graduate,1
+Female,Commercial Associate,550661,13,Post Graduate,1
+Female,Pensioner,689291,17,Graduate,1
+Male,Commercial Associate,638545,8,Post Graduate,1
+Female,Pensioner,188249,9,Post Graduate,0
+Male,Commercial Associate,645742,10,Secondary,1
+Female,Pensioner,399354,21,Post Graduate,1
+Female,Pensioner,136761,19,Secondary,0
+Female,Pensioner,560308,5,Graduate,1
+Female,Commercial Associate,632801,16,Post Graduate,1
+Male,Commercial Associate,787639,22,Graduate,1
+Female,Working,190295,16,Graduate,0
+Female,Working,368691,4,Post Graduate,1
+Male,Working,417704,16,Secondary,1
+Female,Working,173449,14,Secondary,0
+Female,Pensioner,554716,4,Graduate,1
+Male,Pensioner,511297,29,Post Graduate,1
+Female,Working,942063,12,Secondary,1
+Male,Pensioner,224777,1,Post Graduate,1
+Female,Commercial Associate,742962,2,Post Graduate,1
+Female,Commercial Associate,902467,25,Post Graduate,1
+Male,Working,184918,20,Post Graduate,0
+Male,Pensioner,965979,10,Secondary,1
+Female,Working,683604,16,Post Graduate,1
+Female,Commercial Associate,146602,6,Post Graduate,0
+Male,Pensioner,709519,3,Post Graduate,1
+Male,Commercial Associate,472219,1,Secondary,0
+Female,Commercial Associate,469013,0,Graduate,0
+Female,Commercial Associate,136648,14,Post Graduate,0
+Male,Pensioner,711725,18,Post Graduate,1
+Male,Working,112094,20,Post Graduate,0
+Male,Pensioner,208669,19,Graduate,0
+Female,Pensioner,700646,27,Graduate,1
+Female,Commercial Associate,947911,11,Secondary,1
+Female,Working,240446,22,Secondary,0
+Female,Working,500164,26,Secondary,1
+Male,Pensioner,893776,17,Graduate,1
+Male,Pensioner,967179,19,Graduate,1
+Female,Commercial Associate,258108,6,Graduate,1
+Male,Working,426254,0,Secondary,0
+Female,Pensioner,522277,14,Graduate,1
+Female,Commercial Associate,902035,22,Graduate,1
+Male,Pensioner,939959,1,Graduate,0
+Female,Working,281640,17,Secondary,1
+Female,Commercial Associate,770164,21,Post Graduate,1
+Female,Commercial Associate,514232,4,Post Graduate,1
+Male,Pensioner,209210,21,Post Graduate,1
+Male,Pensioner,705685,15,Post Graduate,1
+Male,Pensioner,911213,17,Graduate,1
+Female,Pensioner,862304,21,Graduate,1
+Male,Commercial Associate,531660,9,Secondary,1
+Female,Pensioner,233117,3,Post Graduate,1
+Female,Working,695162,7,Graduate,1
+Male,Commercial Associate,701378,25,Graduate,1
+Female,Pensioner,287398,18,Graduate,1
+Male,Working,298293,20,Graduate,1
+Female,Working,417243,4,Graduate,1
+Female,Pensioner,301997,24,Secondary,1
+Male,Commercial Associate,927383,14,Graduate,1
+Female,Working,841435,15,Post Graduate,1
+Female,Working,745454,7,Secondary,1
+Female,Working,313603,9,Graduate,1
+Female,Commercial Associate,634153,26,Graduate,1
+Male,Pensioner,145135,19,Graduate,0
+Female,Working,888821,2,Secondary,1
+Female,Working,267260,1,Post Graduate,1
+Male,Working,192292,24,Post Graduate,0
+Female,Working,217898,28,Post Graduate,1
+Female,Commercial Associate,917069,14,Post Graduate,1
+Female,Commercial Associate,168803,27,Graduate,0
+Male,Pensioner,137898,0,Post Graduate,0
+Female,Commercial Associate,559093,3,Graduate,1
+Male,Pensioner,511444,6,Post Graduate,1
+Female,Pensioner,462539,9,Post Graduate,1
+Male,Working,674275,15,Post Graduate,1
+Female,Commercial Associate,657676,14,Graduate,1
+Male,Commercial Associate,523179,25,Post Graduate,1
+Female,Commercial Associate,978482,14,Post Graduate,1
+Female,Working,129908,20,Post Graduate,0
+Male,Pensioner,601716,5,Post Graduate,1
+Female,Pensioner,168783,27,Graduate,0
+Male,Commercial Associate,591394,28,Secondary,1
+Male,Commercial Associate,432890,1,Post Graduate,1
+Female,Commercial Associate,975933,22,Secondary,1
+Female,Working,254326,14,Graduate,1
+Female,Pensioner,462795,29,Graduate,1
+Female,Pensioner,416565,11,Secondary,1
+Female,Pensioner,195551,20,Graduate,0
+Female,Working,573036,15,Post Graduate,1
+Male,Working,908238,9,Post Graduate,1
+Male,Commercial Associate,277175,16,Secondary,1
+Female,Pensioner,219955,12,Post Graduate,1
+Male,Pensioner,466843,8,Post Graduate,1
+Male,Commercial Associate,253564,21,Graduate,1
+Female,Working,356917,9,Post Graduate,1
+Female,Working,530935,16,Graduate,1
+Male,Commercial Associate,240877,21,Post Graduate,1
+Male,Pensioner,644087,15,Post Graduate,1
+Female,Commercial Associate,186934,16,Graduate,0
+Male,Pensioner,989969,20,Post Graduate,1
+Male,Commercial Associate,975024,24,Secondary,1
+Male,Pensioner,530582,23,Post Graduate,1
+Male,Pensioner,332922,28,Post Graduate,1
+Female,Working,212410,29,Secondary,0
+Male,Pensioner,484223,0,Secondary,0
+Female,Pensioner,235981,12,Graduate,0
+Male,Pensioner,729135,12,Post Graduate,1
+Female,Working,422308,13,Secondary,1
+Female,Working,451976,10,Graduate,1
+Female,Commercial Associate,329485,20,Secondary,1
+Male,Pensioner,936993,13,Graduate,1
+Male,Working,704378,16,Secondary,1
+Female,Commercial Associate,117193,4,Graduate,0
+Male,Working,683873,27,Secondary,1
+Male,Pensioner,808802,8,Secondary,1
+Female,Working,818874,13,Graduate,1
+Female,Working,144942,10,Post Graduate,0
+Female,Working,714400,19,Post Graduate,1
+Male,Pensioner,984228,14,Graduate,1
+Female,Commercial Associate,479601,22,Secondary,1
+Male,Pensioner,166193,27,Post Graduate,0
+Female,Commercial Associate,948767,11,Graduate,1
+Male,Commercial Associate,843596,28,Graduate,1
+Male,Commercial Associate,773584,19,Secondary,1
+Male,Pensioner,232513,6,Graduate,0
+Male,Pensioner,445245,23,Secondary,1
+Female,Commercial Associate,796542,2,Post Graduate,1
+Female,Working,376325,16,Post Graduate,1
+Female,Commercial Associate,321093,17,Post Graduate,1
+Female,Working,808044,1,Graduate,0
+Female,Commercial Associate,591405,26,Post Graduate,1
+Female,Pensioner,571838,23,Graduate,1
+Male,Commercial Associate,951953,18,Secondary,1
+Female,Commercial Associate,778859,21,Post Graduate,1
+Female,Commercial Associate,246851,14,Secondary,0
+Male,Working,998613,4,Graduate,1
+Female,Working,408541,24,Secondary,1
+Male,Pensioner,881476,13,Secondary,1
+Female,Pensioner,350583,10,Secondary,1
+Female,Pensioner,873250,26,Secondary,1
+Female,Pensioner,686581,27,Post Graduate,1
+Female,Commercial Associate,163995,3,Post Graduate,0
+Female,Pensioner,892355,23,Graduate,1
+Female,Commercial Associate,192699,0,Secondary,0
+Female,Working,351583,10,Post Graduate,1
+Male,Working,541358,18,Secondary,1
+Female,Pensioner,84576,18,Graduate,0
+Male,Working,694810,2,Secondary,1
+Female,Working,223259,29,Graduate,0
+Male,Pensioner,506168,9,Post Graduate,1
+Male,Commercial Associate,114628,28,Graduate,0
+Female,Working,814038,26,Post Graduate,1
+Female,Working,839374,23,Graduate,1
+Female,Commercial Associate,451482,11,Graduate,1
+Female,Working,301291,5,Graduate,1
+Male,Commercial Associate,286569,24,Post Graduate,1
+Female,Commercial Associate,131052,16,Post Graduate,0
+Female,Pensioner,993267,15,Graduate,1
+Male,Commercial Associate,861585,6,Graduate,1
+Female,Working,853243,4,Post Graduate,1
+Male,Pensioner,229547,1,Post Graduate,1
+Male,Commercial Associate,468151,1,Post Graduate,1
+Male,Working,660304,15,Secondary,1
+Female,Pensioner,441720,16,Post Graduate,1
+Female,Commercial Associate,401138,1,Post Graduate,1
+Male,Pensioner,239228,7,Graduate,0
+Female,Working,197017,1,Post Graduate,0
+Male,Pensioner,886088,4,Secondary,1
+Male,Pensioner,333512,1,Graduate,0
+Male,Working,461536,10,Graduate,1
+Male,Working,326115,24,Secondary,1
+Male,Working,333683,16,Graduate,1
+Male,Commercial Associate,568244,15,Secondary,1
+Male,Pensioner,653108,18,Secondary,1
+Female,Commercial Associate,700288,9,Post Graduate,1
+Male,Pensioner,263744,6,Post Graduate,1
+Male,Working,503455,20,Secondary,1
+Female,Working,380402,15,Graduate,1
+Male,Working,515492,10,Post Graduate,1
+Female,Working,698174,25,Graduate,1
+Male,Commercial Associate,548403,23,Graduate,1
+Female,Commercial Associate,360137,9,Graduate,1
+Female,Commercial Associate,701294,19,Secondary,1
+Female,Pensioner,622161,17,Post Graduate,1
+Female,Commercial Associate,265772,22,Post Graduate,1
+Female,Pensioner,933472,1,Graduate,0
+Male,Commercial Associate,808417,27,Secondary,1
+Male,Pensioner,320138,22,Post Graduate,1
+Male,Pensioner,330429,0,Graduate,0
+Female,Working,786651,12,Secondary,1
+Male,Commercial Associate,362621,29,Graduate,1
+Male,Working,679964,20,Graduate,1
+Female,Pensioner,666381,15,Post Graduate,1
+Female,Working,848934,22,Post Graduate,1
+Male,Working,792195,19,Post Graduate,1
+Male,Pensioner,385067,25,Graduate,1
+Male,Commercial Associate,608310,23,Secondary,1
+Male,Pensioner,893051,5,Graduate,1
+Male,Commercial Associate,311095,3,Secondary,1
+Female,Pensioner,970635,27,Graduate,1
+Female,Pensioner,709901,5,Secondary,1
+Male,Pensioner,640165,22,Secondary,1
+Male,Working,450999,22,Secondary,1
+Female,Working,811610,23,Secondary,1
+Female,Pensioner,584508,10,Post Graduate,1
+Female,Commercial Associate,558207,19,Graduate,1
+Male,Working,839627,8,Graduate,1
+Female,Commercial Associate,557529,12,Post Graduate,1
+Female,Working,140214,12,Graduate,0
+Male,Commercial Associate,332351,20,Graduate,1
+Male,Pensioner,263050,19,Secondary,1
+Male,Pensioner,414975,4,Post Graduate,1
+Female,Commercial Associate,739301,4,Post Graduate,1
+Female,Working,841179,11,Post Graduate,1
+Male,Working,184256,20,Post Graduate,0
+Female,Working,506259,13,Post Graduate,1
+Male,Pensioner,546423,19,Graduate,1
+Female,Commercial Associate,571617,27,Graduate,1
+Female,Pensioner,105978,18,Graduate,0
+Male,Commercial Associate,541714,2,Secondary,1
+Male,Pensioner,345544,8,Graduate,1
+Female,Pensioner,570993,23,Post Graduate,1
+Female,Pensioner,381673,22,Graduate,1
+Male,Pensioner,372947,1,Secondary,0
+Female,Pensioner,606234,13,Graduate,1
+Male,Commercial Associate,944648,19,Secondary,1
+Male,Pensioner,601095,14,Post Graduate,1
+Male,Working,928910,22,Graduate,1
+Female,Working,394035,13,Graduate,1
+Male,Pensioner,287684,30,Post Graduate,1
+Female,Pensioner,131917,29,Secondary,0
+Female,Commercial Associate,700951,3,Graduate,1
+Female,Working,484205,19,Post Graduate,1
+Female,Working,438127,5,Graduate,1
+Male,Pensioner,258669,7,Secondary,1
+Male,Pensioner,609443,0,Post Graduate,1
+Male,Working,114214,7,Graduate,0
+Female,Pensioner,885051,6,Secondary,1
+Female,Pensioner,508157,28,Secondary,1
+Male,Pensioner,542086,24,Graduate,1
+Male,Pensioner,958610,27,Post Graduate,1
+Male,Working,807734,23,Post Graduate,1
+Female,Working,107696,30,Graduate,0
+Male,Commercial Associate,987637,8,Secondary,1
+Male,Pensioner,119166,10,Graduate,0
+Male,Commercial Associate,920926,5,Secondary,1
+Male,Pensioner,822571,3,Post Graduate,1
+Female,Working,484404,26,Graduate,1
+Male,Working,310984,15,Graduate,1
+Female,Pensioner,157791,18,Graduate,0
+Female,Working,925680,18,Secondary,1
+Male,Pensioner,501105,4,Post Graduate,1
+Male,Working,865947,4,Secondary,1
+Male,Commercial Associate,439897,1,Post Graduate,1
+Male,Commercial Associate,539981,19,Post Graduate,1
+Female,Commercial Associate,989150,21,Secondary,1
+Male,Pensioner,276271,30,Graduate,1
+Female,Pensioner,749366,25,Post Graduate,1
+Female,Pensioner,899981,17,Secondary,1
+Female,Working,318720,2,Secondary,1
+Male,Commercial Associate,294338,11,Post Graduate,1
+Male,Pensioner,612522,18,Secondary,1
+Male,Commercial Associate,405369,10,Graduate,1
+Male,Pensioner,569492,24,Post Graduate,1
+Female,Commercial Associate,236946,26,Secondary,0
+Male,Commercial Associate,415713,23,Secondary,1
+Male,Pensioner,636136,15,Graduate,1
+Male,Working,363516,7,Post Graduate,1
+Female,Pensioner,650225,10,Secondary,1
+Female,Commercial Associate,900504,19,Post Graduate,1
+Female,Pensioner,934739,5,Secondary,1
+Male,Commercial Associate,174816,18,Graduate,0
+Male,Commercial Associate,142533,20,Post Graduate,0
+Female,Working,793658,6,Post Graduate,1
+Male,Working,270196,10,Post Graduate,1
+Male,Commercial Associate,764802,8,Post Graduate,1
+Female,Pensioner,910637,16,Post Graduate,1
+Female,Working,473985,9,Secondary,1
+Male,Commercial Associate,380486,22,Post Graduate,1
+Male,Commercial Associate,160834,8,Post Graduate,0
+Female,Pensioner,853038,14,Graduate,1
+Male,Pensioner,916221,14,Graduate,1
+Female,Commercial Associate,419262,15,Graduate,1
+Female,Commercial Associate,118527,7,Graduate,0
+Male,Pensioner,800546,10,Graduate,1
+Male,Working,498063,6,Secondary,1
+Female,Commercial Associate,695777,4,Graduate,1
+Female,Working,113161,22,Post Graduate,0
+Female,Commercial Associate,477456,8,Secondary,1
+Male,Working,452094,13,Post Graduate,1
+Male,Commercial Associate,564655,2,Post Graduate,1
+Male,Working,642205,7,Graduate,1
+Male,Working,716514,7,Post Graduate,1
+Male,Working,686111,6,Post Graduate,1
+Male,Pensioner,295962,0,Graduate,0
+Female,Commercial Associate,353328,30,Graduate,1
+Female,Commercial Associate,599884,24,Graduate,1
+Female,Commercial Associate,264700,0,Post Graduate,1
+Female,Pensioner,119380,15,Graduate,0
+Female,Pensioner,965271,30,Secondary,1
+Female,Pensioner,123873,11,Post Graduate,0
+Male,Working,192157,20,Post Graduate,0
+Male,Working,329723,22,Graduate,1
+Female,Commercial Associate,475204,10,Post Graduate,1
+Male,Commercial Associate,412792,24,Post Graduate,1
+Female,Commercial Associate,557918,25,Post Graduate,1
+Female,Working,417742,28,Secondary,1
+Male,Commercial Associate,560317,7,Secondary,1
+Female,Pensioner,955032,29,Graduate,1
+Male,Commercial Associate,740006,12,Secondary,1
+Male,Working,741275,22,Secondary,1
+Female,Commercial Associate,503412,3,Post Graduate,1
+Male,Working,89299,3,Post Graduate,0
+Female,Working,94843,6,Post Graduate,0
+Male,Working,212868,7,Graduate,0
+Female,Pensioner,454506,28,Graduate,1
+Male,Commercial Associate,649123,22,Post Graduate,1
+Female,Commercial Associate,648116,20,Secondary,1
+Female,Commercial Associate,680778,26,Graduate,1
+Female,Pensioner,601435,24,Graduate,1
+Female,Commercial Associate,295204,25,Post Graduate,1
+Male,Commercial Associate,742472,12,Graduate,1
+Female,Pensioner,711834,22,Secondary,1
+Male,Pensioner,187391,11,Graduate,0
+Male,Working,420789,30,Post Graduate,1
+Male,Pensioner,236048,22,Graduate,0
+Female,Pensioner,158697,20,Post Graduate,0
+Male,Working,211913,11,Post Graduate,1
+Male,Pensioner,499953,3,Post Graduate,1
+Female,Commercial Associate,189564,5,Post Graduate,0
+Female,Pensioner,977457,0,Secondary,0
+Male,Commercial Associate,889452,17,Post Graduate,1
+Female,Pensioner,898708,0,Graduate,0
+Female,Commercial Associate,86217,21,Post Graduate,0
+Female,Pensioner,520910,20,Secondary,1
+Male,Pensioner,480031,28,Post Graduate,1
+Female,Commercial Associate,761404,21,Post Graduate,1
+Male,Commercial Associate,500862,15,Secondary,1
+Female,Commercial Associate,156092,29,Graduate,0
+Male,Pensioner,654809,8,Post Graduate,1
+Female,Working,702922,22,Secondary,1
+Female,Working,903890,2,Post Graduate,1
+Female,Working,342092,24,Secondary,1
+Female,Pensioner,225759,25,Secondary,0
+Male,Commercial Associate,342186,15,Post Graduate,1
+Male,Commercial Associate,997490,23,Graduate,1
+Female,Working,976897,1,Secondary,0
+Male,Working,407088,27,Secondary,1
+Female,Pensioner,626157,1,Secondary,0
+Male,Working,377119,13,Post Graduate,1
+Male,Pensioner,564793,4,Post Graduate,1
+Female,Pensioner,659203,17,Secondary,1
+Male,Pensioner,652563,0,Secondary,0
+Female,Pensioner,819672,27,Graduate,1
+Female,Working,289822,6,Graduate,1
+Female,Pensioner,879267,1,Graduate,0
+Female,Working,307096,21,Post Graduate,1
+Male,Working,475604,17,Post Graduate,1
+Female,Working,516807,5,Secondary,1
+Male,Working,184147,29,Secondary,0
+Male,Working,304839,28,Post Graduate,1
+Female,Working,387570,5,Post Graduate,1
+Female,Working,442422,3,Secondary,1
+Female,Pensioner,437732,6,Secondary,1
+Male,Commercial Associate,712809,20,Secondary,1
+Female,Working,520438,25,Graduate,1
+Female,Working,353075,17,Secondary,1
+Female,Commercial Associate,807364,8,Secondary,1
+Female,Pensioner,575055,22,Secondary,1
+Male,Working,710723,26,Graduate,1
+Male,Pensioner,159081,6,Graduate,0
+Male,Pensioner,620300,9,Post Graduate,1
+Female,Working,214475,30,Graduate,0
+Male,Working,660004,7,Post Graduate,1
+Female,Commercial Associate,275776,11,Secondary,1
+Female,Pensioner,105527,8,Graduate,0
+Male,Commercial Associate,230274,25,Post Graduate,1
+Female,Commercial Associate,893698,26,Graduate,1
+Male,Pensioner,960108,25,Post Graduate,1
+Male,Working,430609,21,Secondary,1
+Female,Pensioner,405663,5,Graduate,1
+Male,Pensioner,399666,12,Post Graduate,1
+Female,Pensioner,675557,21,Graduate,1
+Female,Pensioner,546905,23,Post Graduate,1
+Male,Commercial Associate,590103,30,Secondary,1
+Female,Working,283138,18,Graduate,1
+Male,Pensioner,129938,22,Secondary,0
+Male,Working,837877,28,Secondary,1
+Female,Commercial Associate,621713,0,Post Graduate,1
+Female,Commercial Associate,800040,6,Graduate,1
+Male,Working,834441,16,Secondary,1
+Female,Pensioner,172372,12,Post Graduate,0
+Female,Commercial Associate,331214,18,Secondary,1
+Male,Commercial Associate,565728,20,Graduate,1
+Female,Commercial Associate,212957,16,Post Graduate,1
+Female,Commercial Associate,948324,17,Graduate,1
+Female,Pensioner,83285,19,Post Graduate,0
+Male,Working,410367,19,Post Graduate,1
+Male,Pensioner,690447,7,Graduate,1
+Male,Commercial Associate,269599,19,Post Graduate,1
+Female,Pensioner,569784,11,Secondary,1
+Male,Pensioner,630548,15,Post Graduate,1
+Male,Working,732175,19,Secondary,1
+Male,Working,844527,10,Graduate,1
+Female,Commercial Associate,592412,8,Secondary,1
+Male,Commercial Associate,519556,23,Graduate,1
