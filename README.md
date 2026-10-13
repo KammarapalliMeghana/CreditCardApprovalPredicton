@@ -18,7 +18,7 @@ The project demonstrates the complete Machine Learning lifecycle, including:
 - Model Training and Evaluation
 - Flask Web Application Development
 - Cloud Deployment using Render
-- Software Development Life Cycle (SDLC) Documentation
+
 
 ---
 
@@ -38,7 +38,7 @@ The project demonstrates the complete Machine Learning lifecycle, including:
 
 ✅ Cloud Deployment on Render
 
-✅ Complete SDLC Documentation
+
 
 ---
 
@@ -90,63 +90,11 @@ CreditCardApprovalPrediction/
 │
 ├── static/
 │   └── style.css
-│
-├── screenshots/
-│
-└── SDLCforCreditCardApprovalProject/
 ```
 
 ---
 
-# 📄 Software Development Life Cycle (SDLC) Documentation
 
-This repository also contains complete SDLC documentation prepared during the internship.
-
-## 📁 Documentation Structure
-
-```text
-SDLCforCreditCardApprovalProject/
-│
-├── 1. Brainstorming & Ideation
-│   ├── Brainstorming & Idea Prioritization.pdf
-│   ├── Define Problem Statement.pdf
-│   └── Empathy Map.pdf
-│
-├── 2. Requirement Analysis
-│   ├── Customer Journey Map.pdf
-│   ├── Data Flow Diagram.pdf
-│   ├── Solution Requirements.pdf
-│   └── Technology Stack.pdf
-│
-├── 3. Project Design Phase
-│   ├── Problem-Solution Fit.pdf
-│   ├── Proposed Solution.pdf
-│   └── Solution Architecture.pdf
-│
-├── 4. Project Planning Phase
-│   └── Project Planning.pdf
-│
-├── 5. Project Development Phase
-│   ├── Code-Layout, Readability and Reusability.pdf
-│   ├── Coding & Solution.pdf
-│   └── No. of Functional Features Included in the Solution.pdf
-│
-├── 6. Project Testing
-│   └── Performance Testing.pdf
-│
-├── 7. Project Documentation
-│   ├── Project Documentation.pdf
-│   └── Project Executable Files.pdf
-│
-└── 8. Project Demonstration
-    ├── Communication.pdf
-    ├── Demonstration of Proposed Features.pdf
-    ├── Project Demo Planning.pdf
-    ├── Scalability & Future Plan.pdf
-    └── Team Involvement in Demonstration.pdf
-```
-
----
 
 # 📊 Dataset Features
 
